@@ -1,0 +1,2052 @@
+(macro ("/usr/include/sqlite3.h" 1) "__STDC_HOSTED__" "1")
+(macro ("/usr/include/sqlite3.h" 1) "__OBJC__" "1")
+(macro ("/usr/include/sqlite3.h" 1) "__GNUC__" "4")
+(macro ("/usr/include/sqlite3.h" 1) "__GNUC_MINOR__" "0")
+(macro ("/usr/include/sqlite3.h" 1) "__GNUC_PATCHLEVEL__" "0")
+(macro ("/usr/include/sqlite3.h" 1) "__SIZE_TYPE__" "long unsigned int")
+(macro ("/usr/include/sqlite3.h" 1) "__PTRDIFF_TYPE__" "long int")
+(macro ("/usr/include/sqlite3.h" 1) "__WCHAR_TYPE__" "int")
+(macro ("/usr/include/sqlite3.h" 1) "__WINT_TYPE__" "unsigned int")
+(macro ("/usr/include/sqlite3.h" 1) "__INTMAX_TYPE__" "long int")
+(macro ("/usr/include/sqlite3.h" 1) "__UINTMAX_TYPE__" "long unsigned int")
+(macro ("/usr/include/sqlite3.h" 1) "__GXX_ABI_VERSION" "1002")
+(macro ("/usr/include/sqlite3.h" 1) "__SCHAR_MAX__" "127")
+(macro ("/usr/include/sqlite3.h" 1) "__SHRT_MAX__" "32767")
+(macro ("/usr/include/sqlite3.h" 1) "__INT_MAX__" "2147483647")
+(macro ("/usr/include/sqlite3.h" 1) "__LONG_MAX__" "9223372036854775807L")
+(macro ("/usr/include/sqlite3.h" 1) "__LONG_LONG_MAX__" "9223372036854775807LL")
+(macro ("/usr/include/sqlite3.h" 1) "__WCHAR_MAX__" "2147483647")
+(macro ("/usr/include/sqlite3.h" 1) "__CHAR_BIT__" "8")
+(macro ("/usr/include/sqlite3.h" 1) "__INTMAX_MAX__" "9223372036854775807L")
+(macro ("/usr/include/sqlite3.h" 1) "__FLT_EVAL_METHOD__" "0")
+(macro ("/usr/include/sqlite3.h" 1) "__FLT_RADIX__" "2")
+(macro ("/usr/include/sqlite3.h" 1) "__FLT_MANT_DIG__" "24")
+(macro ("/usr/include/sqlite3.h" 1) "__FLT_DIG__" "6")
+(macro ("/usr/include/sqlite3.h" 1) "__FLT_MIN_EXP__" "(-125)")
+(macro ("/usr/include/sqlite3.h" 1) "__FLT_MIN_10_EXP__" "(-37)")
+(macro ("/usr/include/sqlite3.h" 1) "__FLT_MAX_EXP__" "128")
+(macro ("/usr/include/sqlite3.h" 1) "__FLT_MAX_10_EXP__" "38")
+(macro ("/usr/include/sqlite3.h" 1) "__FLT_MAX__" "3.40282347e+38F")
+(macro ("/usr/include/sqlite3.h" 1) "__FLT_MIN__" "1.17549435e-38F")
+(macro ("/usr/include/sqlite3.h" 1) "__FLT_EPSILON__" "1.19209290e-7F")
+(macro ("/usr/include/sqlite3.h" 1) "__FLT_DENORM_MIN__" "1.40129846e-45F")
+(macro ("/usr/include/sqlite3.h" 1) "__FLT_HAS_INFINITY__" "1")
+(macro ("/usr/include/sqlite3.h" 1) "__FLT_HAS_QUIET_NAN__" "1")
+(macro ("/usr/include/sqlite3.h" 1) "__DBL_MANT_DIG__" "53")
+(macro ("/usr/include/sqlite3.h" 1) "__DBL_DIG__" "15")
+(macro ("/usr/include/sqlite3.h" 1) "__DBL_MIN_EXP__" "(-1021)")
+(macro ("/usr/include/sqlite3.h" 1) "__DBL_MIN_10_EXP__" "(-307)")
+(macro ("/usr/include/sqlite3.h" 1) "__DBL_MAX_EXP__" "1024")
+(macro ("/usr/include/sqlite3.h" 1) "__DBL_MAX_10_EXP__" "308")
+(macro ("/usr/include/sqlite3.h" 1) "__DBL_MAX__" "1.7976931348623157e+308")
+(macro ("/usr/include/sqlite3.h" 1) "__DBL_MIN__" "2.2250738585072014e-308")
+(macro ("/usr/include/sqlite3.h" 1) "__DBL_EPSILON__" "2.2204460492503131e-16")
+(macro ("/usr/include/sqlite3.h" 1) "__DBL_DENORM_MIN__" "4.9406564584124654e-324")
+(macro ("/usr/include/sqlite3.h" 1) "__DBL_HAS_INFINITY__" "1")
+(macro ("/usr/include/sqlite3.h" 1) "__DBL_HAS_QUIET_NAN__" "1")
+(macro ("/usr/include/sqlite3.h" 1) "__LDBL_MANT_DIG__" "64")
+(macro ("/usr/include/sqlite3.h" 1) "__LDBL_DIG__" "18")
+(macro ("/usr/include/sqlite3.h" 1) "__LDBL_MIN_EXP__" "(-16381)")
+(macro ("/usr/include/sqlite3.h" 1) "__LDBL_MIN_10_EXP__" "(-4931)")
+(macro ("/usr/include/sqlite3.h" 1) "__LDBL_MAX_EXP__" "16384")
+(macro ("/usr/include/sqlite3.h" 1) "__LDBL_MAX_10_EXP__" "4932")
+(macro ("/usr/include/sqlite3.h" 1) "__DECIMAL_DIG__" "21")
+(macro ("/usr/include/sqlite3.h" 1) "__LDBL_MAX__" "1.18973149535723176502e+4932L")
+(macro ("/usr/include/sqlite3.h" 1) "__LDBL_MIN__" "3.36210314311209350626e-4932L")
+(macro ("/usr/include/sqlite3.h" 1) "__LDBL_EPSILON__" "1.08420217248550443401e-19L")
+(macro ("/usr/include/sqlite3.h" 1) "__LDBL_DENORM_MIN__" "3.64519953188247460253e-4951L")
+(macro ("/usr/include/sqlite3.h" 1) "__LDBL_HAS_INFINITY__" "1")
+(macro ("/usr/include/sqlite3.h" 1) "__LDBL_HAS_QUIET_NAN__" "1")
+(macro ("/usr/include/sqlite3.h" 1) "__REGISTER_PREFIX__" "")
+(macro ("/usr/include/sqlite3.h" 1) "__USER_LABEL_PREFIX__" "")
+(macro ("/usr/include/sqlite3.h" 1) "__VERSION__" "\"4.0.0\"")
+(macro ("/usr/include/sqlite3.h" 1) "_LP64" "1")
+(macro ("/usr/include/sqlite3.h" 1) "__LP64__" "1")
+(macro ("/usr/include/sqlite3.h" 1) "__NO_INLINE__" "1")
+(macro ("/usr/include/sqlite3.h" 1) "__FINITE_MATH_ONLY__" "0")
+(macro ("/usr/include/sqlite3.h" 1) "__amd64" "1")
+(macro ("/usr/include/sqlite3.h" 1) "__amd64__" "1")
+(macro ("/usr/include/sqlite3.h" 1) "__x86_64" "1")
+(macro ("/usr/include/sqlite3.h" 1) "__x86_64__" "1")
+(macro ("/usr/include/sqlite3.h" 1) "__tune_k8__" "1")
+(macro ("/usr/include/sqlite3.h" 1) "__MMX__" "1")
+(macro ("/usr/include/sqlite3.h" 1) "__SSE__" "1")
+(macro ("/usr/include/sqlite3.h" 1) "__SSE2__" "1")
+(macro ("/usr/include/sqlite3.h" 1) "__SSE_MATH__" "1")
+(macro ("/usr/include/sqlite3.h" 1) "__SSE2_MATH__" "1")
+(macro ("/usr/include/sqlite3.h" 1) "__k8" "1")
+(macro ("/usr/include/sqlite3.h" 1) "__k8__" "1")
+(macro ("/usr/include/sqlite3.h" 1) "__gnu_linux__" "1")
+(macro ("/usr/include/sqlite3.h" 1) "__linux" "1")
+(macro ("/usr/include/sqlite3.h" 1) "__linux__" "1")
+(macro ("/usr/include/sqlite3.h" 1) "linux" "1")
+(macro ("/usr/include/sqlite3.h" 1) "__unix" "1")
+(macro ("/usr/include/sqlite3.h" 1) "__unix__" "1")
+(macro ("/usr/include/sqlite3.h" 1) "unix" "1")
+(macro ("/usr/include/sqlite3.h" 1) "__ELF__" "1")
+(macro ("/usr/include/sqlite3.h" 34) "_SQLITE3_H_" "")
+(macro ("/home/jeff/bin/../ffigen4/ffigen/include/stdarg.h" 34) "_STDARG_H" "")
+(macro ("/home/jeff/bin/../ffigen4/ffigen/include/stdarg.h" 35) "_ANSI_STDARG_H_" "")
+(undef-macro "__need___va_list")
+(macro ("/home/jeff/bin/../ffigen4/ffigen/include/stdarg.h" 42) "__GNUC_VA_LIST" "")
+(type ("/home/jeff/bin/../ffigen4/ffigen/include/stdarg.h" 43)
+ "__gnuc_va_list"
+ (array 1 (struct-ref "__va_list_tag")))
+(macro ("/home/jeff/bin/../ffigen4/ffigen/include/stdarg.h" 50) "va_start ( v , l )" "__builtin_va_start(v,l)")
+(macro ("/home/jeff/bin/../ffigen4/ffigen/include/stdarg.h" 51) "va_end ( v )" "__builtin_va_end(v)")
+(macro ("/home/jeff/bin/../ffigen4/ffigen/include/stdarg.h" 52) "va_arg ( v , l )" "__builtin_va_arg(v,l)")
+(macro ("/home/jeff/bin/../ffigen4/ffigen/include/stdarg.h" 54) "va_copy ( d , s )" "__builtin_va_copy(d,s)")
+(macro ("/home/jeff/bin/../ffigen4/ffigen/include/stdarg.h" 56) "__va_copy ( d , s )" "__builtin_va_copy(d,s)")
+(type ("/home/jeff/bin/../ffigen4/ffigen/include/stdarg.h" 105)
+ "va_list"
+ (typedef "__gnuc_va_list"))
+(macro ("/home/jeff/bin/../ffigen4/ffigen/include/stdarg.h" 111) "_VA_LIST_" "")
+(macro ("/home/jeff/bin/../ffigen4/ffigen/include/stdarg.h" 114) "_VA_LIST" "")
+(macro ("/home/jeff/bin/../ffigen4/ffigen/include/stdarg.h" 117) "_VA_LIST_DEFINED" "")
+(macro ("/home/jeff/bin/../ffigen4/ffigen/include/stdarg.h" 120) "_VA_LIST_T_H" "")
+(macro ("/home/jeff/bin/../ffigen4/ffigen/include/stdarg.h" 123) "__va_list__" "")
+(macro ("/usr/include/sqlite3.h" 49) "SQLITE_EXTERN" "extern")
+(macro ("/usr/include/sqlite3.h" 53) "SQLITE_API" "")
+(macro ("/usr/include/sqlite3.h" 70) "SQLITE_DEPRECATED" "")
+(macro ("/usr/include/sqlite3.h" 71) "SQLITE_EXPERIMENTAL" "")
+(macro ("/usr/include/sqlite3.h" 110) "SQLITE_VERSION" "\"3.8.2\"")
+(macro ("/usr/include/sqlite3.h" 111) "SQLITE_VERSION_NUMBER" "3008002")
+(macro ("/usr/include/sqlite3.h" 112) "SQLITE_SOURCE_ID" "\"2013-12-06 14:53:30 27392118af4c38c5203a04b8013e1afdb1cebd0d\"")
+(var ("/usr/include/sqlite3.h" 144)
+ "sqlite3_version"
+ (array 0 (char ())) (extern))
+(function ("/usr/include/sqlite3.h" 145)
+ "sqlite3_libversion"
+ (function
+  ()
+  (pointer (char ()))) (extern))
+(function ("/usr/include/sqlite3.h" 146)
+ "sqlite3_sourceid"
+ (function
+  ()
+  (pointer (char ()))) (extern))
+(function ("/usr/include/sqlite3.h" 147)
+ "sqlite3_libversion_number"
+ (function
+  ()
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 172)
+ "sqlite3_compileoption_used"
+ (function
+  ((pointer (char ())) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 173)
+ "sqlite3_compileoption_get"
+ (function
+  ((int ()) )
+  (pointer (char ()))) (extern))
+(function ("/usr/include/sqlite3.h" 212)
+ "sqlite3_threadsafe"
+ (function
+  ()
+  (int ())) (extern))
+(struct ("" 0)
+ "sqlite3"
+ ())
+(type ("/usr/include/sqlite3.h" 228)
+ "sqlite3"
+ (struct-ref "sqlite3"))
+(type ("/usr/include/sqlite3.h" 253)
+ "sqlite_int64"
+ (long-long ()))
+(type ("/usr/include/sqlite3.h" 254)
+ "sqlite_uint64"
+ (unsigned-long-long ()))
+(type ("/usr/include/sqlite3.h" 256)
+ "sqlite3_int64"
+ (typedef "sqlite_int64"))
+(type ("/usr/include/sqlite3.h" 257)
+ "sqlite3_uint64"
+ (typedef "sqlite_uint64"))
+(function ("/usr/include/sqlite3.h" 308)
+ "sqlite3_close"
+ (function
+  ((pointer (typedef "sqlite3")) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 309)
+ "sqlite3_close_v2"
+ (function
+  ((pointer (typedef "sqlite3")) )
+  (int ())) (extern))
+(type ("/usr/include/sqlite3.h" 316)
+ "sqlite3_callback"
+ (pointer (function
+  ((pointer (void ())) (int ()) (pointer (pointer (char ()))) (pointer (pointer (char ()))) )
+  (int ()))))
+(function ("/usr/include/sqlite3.h" 385)
+ "sqlite3_exec"
+ (function
+  ((pointer (typedef "sqlite3")) (pointer (char ())) (pointer (function
+   ((pointer (void ())) (int ()) (pointer (pointer (char ()))) (pointer (pointer (char ()))) )
+   (int ()))) (pointer (void ())) (pointer (pointer (char ()))) )
+  (int ())) (extern))
+(macro ("/usr/include/sqlite3.h" 400) "SQLITE_OK" "0")
+(macro ("/usr/include/sqlite3.h" 402) "SQLITE_ERROR" "1")
+(macro ("/usr/include/sqlite3.h" 403) "SQLITE_INTERNAL" "2")
+(macro ("/usr/include/sqlite3.h" 404) "SQLITE_PERM" "3")
+(macro ("/usr/include/sqlite3.h" 405) "SQLITE_ABORT" "4")
+(macro ("/usr/include/sqlite3.h" 406) "SQLITE_BUSY" "5")
+(macro ("/usr/include/sqlite3.h" 407) "SQLITE_LOCKED" "6")
+(macro ("/usr/include/sqlite3.h" 408) "SQLITE_NOMEM" "7")
+(macro ("/usr/include/sqlite3.h" 409) "SQLITE_READONLY" "8")
+(macro ("/usr/include/sqlite3.h" 410) "SQLITE_INTERRUPT" "9")
+(macro ("/usr/include/sqlite3.h" 411) "SQLITE_IOERR" "10")
+(macro ("/usr/include/sqlite3.h" 412) "SQLITE_CORRUPT" "11")
+(macro ("/usr/include/sqlite3.h" 413) "SQLITE_NOTFOUND" "12")
+(macro ("/usr/include/sqlite3.h" 414) "SQLITE_FULL" "13")
+(macro ("/usr/include/sqlite3.h" 415) "SQLITE_CANTOPEN" "14")
+(macro ("/usr/include/sqlite3.h" 416) "SQLITE_PROTOCOL" "15")
+(macro ("/usr/include/sqlite3.h" 417) "SQLITE_EMPTY" "16")
+(macro ("/usr/include/sqlite3.h" 418) "SQLITE_SCHEMA" "17")
+(macro ("/usr/include/sqlite3.h" 419) "SQLITE_TOOBIG" "18")
+(macro ("/usr/include/sqlite3.h" 420) "SQLITE_CONSTRAINT" "19")
+(macro ("/usr/include/sqlite3.h" 421) "SQLITE_MISMATCH" "20")
+(macro ("/usr/include/sqlite3.h" 422) "SQLITE_MISUSE" "21")
+(macro ("/usr/include/sqlite3.h" 423) "SQLITE_NOLFS" "22")
+(macro ("/usr/include/sqlite3.h" 424) "SQLITE_AUTH" "23")
+(macro ("/usr/include/sqlite3.h" 425) "SQLITE_FORMAT" "24")
+(macro ("/usr/include/sqlite3.h" 426) "SQLITE_RANGE" "25")
+(macro ("/usr/include/sqlite3.h" 427) "SQLITE_NOTADB" "26")
+(macro ("/usr/include/sqlite3.h" 428) "SQLITE_NOTICE" "27")
+(macro ("/usr/include/sqlite3.h" 429) "SQLITE_WARNING" "28")
+(macro ("/usr/include/sqlite3.h" 430) "SQLITE_ROW" "100")
+(macro ("/usr/include/sqlite3.h" 431) "SQLITE_DONE" "101")
+(macro ("/usr/include/sqlite3.h" 457) "SQLITE_IOERR_READ" "(SQLITE_IOERR | (1<<8))")
+(macro ("/usr/include/sqlite3.h" 458) "SQLITE_IOERR_SHORT_READ" "(SQLITE_IOERR | (2<<8))")
+(macro ("/usr/include/sqlite3.h" 459) "SQLITE_IOERR_WRITE" "(SQLITE_IOERR | (3<<8))")
+(macro ("/usr/include/sqlite3.h" 460) "SQLITE_IOERR_FSYNC" "(SQLITE_IOERR | (4<<8))")
+(macro ("/usr/include/sqlite3.h" 461) "SQLITE_IOERR_DIR_FSYNC" "(SQLITE_IOERR | (5<<8))")
+(macro ("/usr/include/sqlite3.h" 462) "SQLITE_IOERR_TRUNCATE" "(SQLITE_IOERR | (6<<8))")
+(macro ("/usr/include/sqlite3.h" 463) "SQLITE_IOERR_FSTAT" "(SQLITE_IOERR | (7<<8))")
+(macro ("/usr/include/sqlite3.h" 464) "SQLITE_IOERR_UNLOCK" "(SQLITE_IOERR | (8<<8))")
+(macro ("/usr/include/sqlite3.h" 465) "SQLITE_IOERR_RDLOCK" "(SQLITE_IOERR | (9<<8))")
+(macro ("/usr/include/sqlite3.h" 466) "SQLITE_IOERR_DELETE" "(SQLITE_IOERR | (10<<8))")
+(macro ("/usr/include/sqlite3.h" 467) "SQLITE_IOERR_BLOCKED" "(SQLITE_IOERR | (11<<8))")
+(macro ("/usr/include/sqlite3.h" 468) "SQLITE_IOERR_NOMEM" "(SQLITE_IOERR | (12<<8))")
+(macro ("/usr/include/sqlite3.h" 469) "SQLITE_IOERR_ACCESS" "(SQLITE_IOERR | (13<<8))")
+(macro ("/usr/include/sqlite3.h" 470) "SQLITE_IOERR_CHECKRESERVEDLOCK" "(SQLITE_IOERR | (14<<8))")
+(macro ("/usr/include/sqlite3.h" 471) "SQLITE_IOERR_LOCK" "(SQLITE_IOERR | (15<<8))")
+(macro ("/usr/include/sqlite3.h" 472) "SQLITE_IOERR_CLOSE" "(SQLITE_IOERR | (16<<8))")
+(macro ("/usr/include/sqlite3.h" 473) "SQLITE_IOERR_DIR_CLOSE" "(SQLITE_IOERR | (17<<8))")
+(macro ("/usr/include/sqlite3.h" 474) "SQLITE_IOERR_SHMOPEN" "(SQLITE_IOERR | (18<<8))")
+(macro ("/usr/include/sqlite3.h" 475) "SQLITE_IOERR_SHMSIZE" "(SQLITE_IOERR | (19<<8))")
+(macro ("/usr/include/sqlite3.h" 476) "SQLITE_IOERR_SHMLOCK" "(SQLITE_IOERR | (20<<8))")
+(macro ("/usr/include/sqlite3.h" 477) "SQLITE_IOERR_SHMMAP" "(SQLITE_IOERR | (21<<8))")
+(macro ("/usr/include/sqlite3.h" 478) "SQLITE_IOERR_SEEK" "(SQLITE_IOERR | (22<<8))")
+(macro ("/usr/include/sqlite3.h" 479) "SQLITE_IOERR_DELETE_NOENT" "(SQLITE_IOERR | (23<<8))")
+(macro ("/usr/include/sqlite3.h" 480) "SQLITE_IOERR_MMAP" "(SQLITE_IOERR | (24<<8))")
+(macro ("/usr/include/sqlite3.h" 481) "SQLITE_IOERR_GETTEMPPATH" "(SQLITE_IOERR | (25<<8))")
+(macro ("/usr/include/sqlite3.h" 482) "SQLITE_IOERR_CONVPATH" "(SQLITE_IOERR | (26<<8))")
+(macro ("/usr/include/sqlite3.h" 483) "SQLITE_LOCKED_SHAREDCACHE" "(SQLITE_LOCKED | (1<<8))")
+(macro ("/usr/include/sqlite3.h" 484) "SQLITE_BUSY_RECOVERY" "(SQLITE_BUSY | (1<<8))")
+(macro ("/usr/include/sqlite3.h" 485) "SQLITE_BUSY_SNAPSHOT" "(SQLITE_BUSY | (2<<8))")
+(macro ("/usr/include/sqlite3.h" 486) "SQLITE_CANTOPEN_NOTEMPDIR" "(SQLITE_CANTOPEN | (1<<8))")
+(macro ("/usr/include/sqlite3.h" 487) "SQLITE_CANTOPEN_ISDIR" "(SQLITE_CANTOPEN | (2<<8))")
+(macro ("/usr/include/sqlite3.h" 488) "SQLITE_CANTOPEN_FULLPATH" "(SQLITE_CANTOPEN | (3<<8))")
+(macro ("/usr/include/sqlite3.h" 489) "SQLITE_CANTOPEN_CONVPATH" "(SQLITE_CANTOPEN | (4<<8))")
+(macro ("/usr/include/sqlite3.h" 490) "SQLITE_CORRUPT_VTAB" "(SQLITE_CORRUPT | (1<<8))")
+(macro ("/usr/include/sqlite3.h" 491) "SQLITE_READONLY_RECOVERY" "(SQLITE_READONLY | (1<<8))")
+(macro ("/usr/include/sqlite3.h" 492) "SQLITE_READONLY_CANTLOCK" "(SQLITE_READONLY | (2<<8))")
+(macro ("/usr/include/sqlite3.h" 493) "SQLITE_READONLY_ROLLBACK" "(SQLITE_READONLY | (3<<8))")
+(macro ("/usr/include/sqlite3.h" 494) "SQLITE_ABORT_ROLLBACK" "(SQLITE_ABORT | (2<<8))")
+(macro ("/usr/include/sqlite3.h" 495) "SQLITE_CONSTRAINT_CHECK" "(SQLITE_CONSTRAINT | (1<<8))")
+(macro ("/usr/include/sqlite3.h" 496) "SQLITE_CONSTRAINT_COMMITHOOK" "(SQLITE_CONSTRAINT | (2<<8))")
+(macro ("/usr/include/sqlite3.h" 497) "SQLITE_CONSTRAINT_FOREIGNKEY" "(SQLITE_CONSTRAINT | (3<<8))")
+(macro ("/usr/include/sqlite3.h" 498) "SQLITE_CONSTRAINT_FUNCTION" "(SQLITE_CONSTRAINT | (4<<8))")
+(macro ("/usr/include/sqlite3.h" 499) "SQLITE_CONSTRAINT_NOTNULL" "(SQLITE_CONSTRAINT | (5<<8))")
+(macro ("/usr/include/sqlite3.h" 500) "SQLITE_CONSTRAINT_PRIMARYKEY" "(SQLITE_CONSTRAINT | (6<<8))")
+(macro ("/usr/include/sqlite3.h" 501) "SQLITE_CONSTRAINT_TRIGGER" "(SQLITE_CONSTRAINT | (7<<8))")
+(macro ("/usr/include/sqlite3.h" 502) "SQLITE_CONSTRAINT_UNIQUE" "(SQLITE_CONSTRAINT | (8<<8))")
+(macro ("/usr/include/sqlite3.h" 503) "SQLITE_CONSTRAINT_VTAB" "(SQLITE_CONSTRAINT | (9<<8))")
+(macro ("/usr/include/sqlite3.h" 504) "SQLITE_CONSTRAINT_ROWID" "(SQLITE_CONSTRAINT |(10<<8))")
+(macro ("/usr/include/sqlite3.h" 505) "SQLITE_NOTICE_RECOVER_WAL" "(SQLITE_NOTICE | (1<<8))")
+(macro ("/usr/include/sqlite3.h" 506) "SQLITE_NOTICE_RECOVER_ROLLBACK" "(SQLITE_NOTICE | (2<<8))")
+(macro ("/usr/include/sqlite3.h" 507) "SQLITE_WARNING_AUTOINDEX" "(SQLITE_WARNING | (1<<8))")
+(macro ("/usr/include/sqlite3.h" 516) "SQLITE_OPEN_READONLY" "0x00000001")
+(macro ("/usr/include/sqlite3.h" 517) "SQLITE_OPEN_READWRITE" "0x00000002")
+(macro ("/usr/include/sqlite3.h" 518) "SQLITE_OPEN_CREATE" "0x00000004")
+(macro ("/usr/include/sqlite3.h" 519) "SQLITE_OPEN_DELETEONCLOSE" "0x00000008")
+(macro ("/usr/include/sqlite3.h" 520) "SQLITE_OPEN_EXCLUSIVE" "0x00000010")
+(macro ("/usr/include/sqlite3.h" 521) "SQLITE_OPEN_AUTOPROXY" "0x00000020")
+(macro ("/usr/include/sqlite3.h" 522) "SQLITE_OPEN_URI" "0x00000040")
+(macro ("/usr/include/sqlite3.h" 523) "SQLITE_OPEN_MEMORY" "0x00000080")
+(macro ("/usr/include/sqlite3.h" 524) "SQLITE_OPEN_MAIN_DB" "0x00000100")
+(macro ("/usr/include/sqlite3.h" 525) "SQLITE_OPEN_TEMP_DB" "0x00000200")
+(macro ("/usr/include/sqlite3.h" 526) "SQLITE_OPEN_TRANSIENT_DB" "0x00000400")
+(macro ("/usr/include/sqlite3.h" 527) "SQLITE_OPEN_MAIN_JOURNAL" "0x00000800")
+(macro ("/usr/include/sqlite3.h" 528) "SQLITE_OPEN_TEMP_JOURNAL" "0x00001000")
+(macro ("/usr/include/sqlite3.h" 529) "SQLITE_OPEN_SUBJOURNAL" "0x00002000")
+(macro ("/usr/include/sqlite3.h" 530) "SQLITE_OPEN_MASTER_JOURNAL" "0x00004000")
+(macro ("/usr/include/sqlite3.h" 531) "SQLITE_OPEN_NOMUTEX" "0x00008000")
+(macro ("/usr/include/sqlite3.h" 532) "SQLITE_OPEN_FULLMUTEX" "0x00010000")
+(macro ("/usr/include/sqlite3.h" 533) "SQLITE_OPEN_SHAREDCACHE" "0x00020000")
+(macro ("/usr/include/sqlite3.h" 534) "SQLITE_OPEN_PRIVATECACHE" "0x00040000")
+(macro ("/usr/include/sqlite3.h" 535) "SQLITE_OPEN_WAL" "0x00080000")
+(macro ("/usr/include/sqlite3.h" 563) "SQLITE_IOCAP_ATOMIC" "0x00000001")
+(macro ("/usr/include/sqlite3.h" 564) "SQLITE_IOCAP_ATOMIC512" "0x00000002")
+(macro ("/usr/include/sqlite3.h" 565) "SQLITE_IOCAP_ATOMIC1K" "0x00000004")
+(macro ("/usr/include/sqlite3.h" 566) "SQLITE_IOCAP_ATOMIC2K" "0x00000008")
+(macro ("/usr/include/sqlite3.h" 567) "SQLITE_IOCAP_ATOMIC4K" "0x00000010")
+(macro ("/usr/include/sqlite3.h" 568) "SQLITE_IOCAP_ATOMIC8K" "0x00000020")
+(macro ("/usr/include/sqlite3.h" 569) "SQLITE_IOCAP_ATOMIC16K" "0x00000040")
+(macro ("/usr/include/sqlite3.h" 570) "SQLITE_IOCAP_ATOMIC32K" "0x00000080")
+(macro ("/usr/include/sqlite3.h" 571) "SQLITE_IOCAP_ATOMIC64K" "0x00000100")
+(macro ("/usr/include/sqlite3.h" 572) "SQLITE_IOCAP_SAFE_APPEND" "0x00000200")
+(macro ("/usr/include/sqlite3.h" 573) "SQLITE_IOCAP_SEQUENTIAL" "0x00000400")
+(macro ("/usr/include/sqlite3.h" 574) "SQLITE_IOCAP_UNDELETABLE_WHEN_OPEN" "0x00000800")
+(macro ("/usr/include/sqlite3.h" 575) "SQLITE_IOCAP_POWERSAFE_OVERWRITE" "0x00001000")
+(macro ("/usr/include/sqlite3.h" 584) "SQLITE_LOCK_NONE" "0")
+(macro ("/usr/include/sqlite3.h" 585) "SQLITE_LOCK_SHARED" "1")
+(macro ("/usr/include/sqlite3.h" 586) "SQLITE_LOCK_RESERVED" "2")
+(macro ("/usr/include/sqlite3.h" 587) "SQLITE_LOCK_PENDING" "3")
+(macro ("/usr/include/sqlite3.h" 588) "SQLITE_LOCK_EXCLUSIVE" "4")
+(macro ("/usr/include/sqlite3.h" 616) "SQLITE_SYNC_NORMAL" "0x00002")
+(macro ("/usr/include/sqlite3.h" 617) "SQLITE_SYNC_FULL" "0x00003")
+(macro ("/usr/include/sqlite3.h" 618) "SQLITE_SYNC_DATAONLY" "0x00010")
+(struct ("" 0)
+ "sqlite3_file"
+ ())
+(type ("/usr/include/sqlite3.h" 631)
+ "sqlite3_file"
+ (struct-ref "sqlite3_file"))
+(struct ("" 0)
+ "sqlite3_file"
+ (("pMethods" (field (pointer (struct-ref "sqlite3_io_methods")) 0 8))))
+(type ("/usr/include/sqlite3.h" 726)
+ "sqlite3_io_methods"
+ (struct-ref "sqlite3_io_methods"))
+(struct ("" 0)
+ "sqlite3_io_methods"
+ (("iVersion" (field (int ()) 0 4))
+  ("xClose" (field (pointer (function
+   ((pointer (typedef "sqlite3_file")) )
+   (int ()))) 8 8))
+  ("xRead" (field (pointer (function
+   ((pointer (typedef "sqlite3_file")) (pointer (void ())) (int ()) (typedef "sqlite3_int64") )
+   (int ()))) 16 8))
+  ("xWrite" (field (pointer (function
+   ((pointer (typedef "sqlite3_file")) (pointer (void ())) (int ()) (typedef "sqlite3_int64") )
+   (int ()))) 24 8))
+  ("xTruncate" (field (pointer (function
+   ((pointer (typedef "sqlite3_file")) (typedef "sqlite3_int64") )
+   (int ()))) 32 8))
+  ("xSync" (field (pointer (function
+   ((pointer (typedef "sqlite3_file")) (int ()) )
+   (int ()))) 40 8))
+  ("xFileSize" (field (pointer (function
+   ((pointer (typedef "sqlite3_file")) (pointer (typedef "sqlite3_int64")) )
+   (int ()))) 48 8))
+  ("xLock" (field (pointer (function
+   ((pointer (typedef "sqlite3_file")) (int ()) )
+   (int ()))) 56 8))
+  ("xUnlock" (field (pointer (function
+   ((pointer (typedef "sqlite3_file")) (int ()) )
+   (int ()))) 64 8))
+  ("xCheckReservedLock" (field (pointer (function
+   ((pointer (typedef "sqlite3_file")) (pointer (int ())) )
+   (int ()))) 72 8))
+  ("xFileControl" (field (pointer (function
+   ((pointer (typedef "sqlite3_file")) (int ()) (pointer (void ())) )
+   (int ()))) 80 8))
+  ("xSectorSize" (field (pointer (function
+   ((pointer (typedef "sqlite3_file")) )
+   (int ()))) 88 8))
+  ("xDeviceCharacteristics" (field (pointer (function
+   ((pointer (typedef "sqlite3_file")) )
+   (int ()))) 96 8))
+  ("xShmMap" (field (pointer (function
+   ((pointer (typedef "sqlite3_file")) (int ()) (int ()) (int ()) (pointer (pointer (void ()))) )
+   (int ()))) 104 8))
+  ("xShmLock" (field (pointer (function
+   ((pointer (typedef "sqlite3_file")) (int ()) (int ()) (int ()) )
+   (int ()))) 112 8))
+  ("xShmBarrier" (field (pointer (function
+   ((pointer (typedef "sqlite3_file")) )
+   (void ()))) 120 8))
+  ("xShmUnmap" (field (pointer (function
+   ((pointer (typedef "sqlite3_file")) (int ()) )
+   (int ()))) 128 8))
+  ("xFetch" (field (pointer (function
+   ((pointer (typedef "sqlite3_file")) (typedef "sqlite3_int64") (int ()) (pointer (pointer (void ()))) )
+   (int ()))) 136 8))
+  ("xUnfetch" (field (pointer (function
+   ((pointer (typedef "sqlite3_file")) (typedef "sqlite3_int64") (pointer (void ())) )
+   (int ()))) 144 8))))
+(macro ("/usr/include/sqlite3.h" 926) "SQLITE_FCNTL_LOCKSTATE" "1")
+(macro ("/usr/include/sqlite3.h" 927) "SQLITE_GET_LOCKPROXYFILE" "2")
+(macro ("/usr/include/sqlite3.h" 928) "SQLITE_SET_LOCKPROXYFILE" "3")
+(macro ("/usr/include/sqlite3.h" 929) "SQLITE_LAST_ERRNO" "4")
+(macro ("/usr/include/sqlite3.h" 930) "SQLITE_FCNTL_SIZE_HINT" "5")
+(macro ("/usr/include/sqlite3.h" 931) "SQLITE_FCNTL_CHUNK_SIZE" "6")
+(macro ("/usr/include/sqlite3.h" 932) "SQLITE_FCNTL_FILE_POINTER" "7")
+(macro ("/usr/include/sqlite3.h" 933) "SQLITE_FCNTL_SYNC_OMITTED" "8")
+(macro ("/usr/include/sqlite3.h" 934) "SQLITE_FCNTL_WIN32_AV_RETRY" "9")
+(macro ("/usr/include/sqlite3.h" 935) "SQLITE_FCNTL_PERSIST_WAL" "10")
+(macro ("/usr/include/sqlite3.h" 936) "SQLITE_FCNTL_OVERWRITE" "11")
+(macro ("/usr/include/sqlite3.h" 937) "SQLITE_FCNTL_VFSNAME" "12")
+(macro ("/usr/include/sqlite3.h" 938) "SQLITE_FCNTL_POWERSAFE_OVERWRITE" "13")
+(macro ("/usr/include/sqlite3.h" 939) "SQLITE_FCNTL_PRAGMA" "14")
+(macro ("/usr/include/sqlite3.h" 940) "SQLITE_FCNTL_BUSYHANDLER" "15")
+(macro ("/usr/include/sqlite3.h" 941) "SQLITE_FCNTL_TEMPFILENAME" "16")
+(macro ("/usr/include/sqlite3.h" 942) "SQLITE_FCNTL_MMAP_SIZE" "18")
+(macro ("/usr/include/sqlite3.h" 943) "SQLITE_FCNTL_TRACE" "19")
+(struct ("" 0)
+ "sqlite3_mutex"
+ ())
+(type ("/usr/include/sqlite3.h" 955)
+ "sqlite3_mutex"
+ (struct-ref "sqlite3_mutex"))
+(struct ("" 0)
+ "sqlite3_vfs"
+ ())
+(type ("/usr/include/sqlite3.h" 1114)
+ "sqlite3_vfs"
+ (struct-ref "sqlite3_vfs"))
+(type ("/usr/include/sqlite3.h" 1115)
+ "sqlite3_syscall_ptr"
+ (pointer (function
+  ()
+  (void ()))))
+(struct ("" 0)
+ "sqlite3_vfs"
+ (("iVersion" (field (int ()) 0 4))
+  ("szOsFile" (field (int ()) 4 4))
+  ("mxPathname" (field (int ()) 8 4))
+  ("pNext" (field (pointer (typedef "sqlite3_vfs")) 16 8))
+  ("zName" (field (pointer (char ())) 24 8))
+  ("pAppData" (field (pointer (void ())) 32 8))
+  ("xOpen" (field (pointer (function
+   ((pointer (typedef "sqlite3_vfs")) (pointer (char ())) (pointer (typedef "sqlite3_file")) (int ()) (pointer (int ())) )
+   (int ()))) 40 8))
+  ("xDelete" (field (pointer (function
+   ((pointer (typedef "sqlite3_vfs")) (pointer (char ())) (int ()) )
+   (int ()))) 48 8))
+  ("xAccess" (field (pointer (function
+   ((pointer (typedef "sqlite3_vfs")) (pointer (char ())) (int ()) (pointer (int ())) )
+   (int ()))) 56 8))
+  ("xFullPathname" (field (pointer (function
+   ((pointer (typedef "sqlite3_vfs")) (pointer (char ())) (int ()) (pointer (char ())) )
+   (int ()))) 64 8))
+  ("xDlOpen" (field (pointer (function
+   ((pointer (typedef "sqlite3_vfs")) (pointer (char ())) )
+   (pointer (void ())))) 72 8))
+  ("xDlError" (field (pointer (function
+   ((pointer (typedef "sqlite3_vfs")) (int ()) (pointer (char ())) )
+   (void ()))) 80 8))
+  ("xDlSym" (field (pointer (function
+   ((pointer (typedef "sqlite3_vfs")) (pointer (void ())) (pointer (char ())) )
+   (pointer (function
+    ()
+    (void ()))))) 88 8))
+  ("xDlClose" (field (pointer (function
+   ((pointer (typedef "sqlite3_vfs")) (pointer (void ())) )
+   (void ()))) 96 8))
+  ("xRandomness" (field (pointer (function
+   ((pointer (typedef "sqlite3_vfs")) (int ()) (pointer (char ())) )
+   (int ()))) 104 8))
+  ("xSleep" (field (pointer (function
+   ((pointer (typedef "sqlite3_vfs")) (int ()) )
+   (int ()))) 112 8))
+  ("xCurrentTime" (field (pointer (function
+   ((pointer (typedef "sqlite3_vfs")) (pointer (double ())) )
+   (int ()))) 120 8))
+  ("xGetLastError" (field (pointer (function
+   ((pointer (typedef "sqlite3_vfs")) (int ()) (pointer (char ())) )
+   (int ()))) 128 8))
+  ("xCurrentTimeInt64" (field (pointer (function
+   ((pointer (typedef "sqlite3_vfs")) (pointer (typedef "sqlite3_int64")) )
+   (int ()))) 136 8))
+  ("xSetSystemCall" (field (pointer (function
+   ((pointer (typedef "sqlite3_vfs")) (pointer (char ())) (typedef "sqlite3_syscall_ptr") )
+   (int ()))) 144 8))
+  ("xGetSystemCall" (field (pointer (function
+   ((pointer (typedef "sqlite3_vfs")) (pointer (char ())) )
+   (typedef "sqlite3_syscall_ptr"))) 152 8))
+  ("xNextSystemCall" (field (pointer (function
+   ((pointer (typedef "sqlite3_vfs")) (pointer (char ())) )
+   (pointer (char ())))) 160 8))))
+(macro ("/usr/include/sqlite3.h" 1175) "SQLITE_ACCESS_EXISTS" "0")
+(macro ("/usr/include/sqlite3.h" 1176) "SQLITE_ACCESS_READWRITE" "1")
+(macro ("/usr/include/sqlite3.h" 1177) "SQLITE_ACCESS_READ" "2")
+(macro ("/usr/include/sqlite3.h" 1201) "SQLITE_SHM_UNLOCK" "1")
+(macro ("/usr/include/sqlite3.h" 1202) "SQLITE_SHM_LOCK" "2")
+(macro ("/usr/include/sqlite3.h" 1203) "SQLITE_SHM_SHARED" "4")
+(macro ("/usr/include/sqlite3.h" 1204) "SQLITE_SHM_EXCLUSIVE" "8")
+(macro ("/usr/include/sqlite3.h" 1214) "SQLITE_SHM_NLOCK" "8")
+(function ("/usr/include/sqlite3.h" 1292)
+ "sqlite3_initialize"
+ (function
+  ()
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 1293)
+ "sqlite3_shutdown"
+ (function
+  ()
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 1294)
+ "sqlite3_os_init"
+ (function
+  ()
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 1295)
+ "sqlite3_os_end"
+ (function
+  ()
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 1326)
+ "sqlite3_config"
+ (function
+  ((int ()) (void ()))
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 1344)
+ "sqlite3_db_config"
+ (function
+  ((pointer (typedef "sqlite3")) (int ()) (void ()))
+  (int ())) (extern))
+(struct ("" 0)
+ "sqlite3_mem_methods"
+ ())
+(type ("/usr/include/sqlite3.h" 1409)
+ "sqlite3_mem_methods"
+ (struct-ref "sqlite3_mem_methods"))
+(struct ("" 0)
+ "sqlite3_mem_methods"
+ (("xMalloc" (field (pointer (function
+  ((int ()) )
+  (pointer (void ())))) 0 8))
+  ("xFree" (field (pointer (function
+   ((pointer (void ())) )
+   (void ()))) 8 8))
+  ("xRealloc" (field (pointer (function
+   ((pointer (void ())) (int ()) )
+   (pointer (void ())))) 16 8))
+  ("xSize" (field (pointer (function
+   ((pointer (void ())) )
+   (int ()))) 24 8))
+  ("xRoundup" (field (pointer (function
+   ((int ()) )
+   (int ()))) 32 8))
+  ("xInit" (field (pointer (function
+   ((pointer (void ())) )
+   (int ()))) 40 8))
+  ("xShutdown" (field (pointer (function
+   ((pointer (void ())) )
+   (void ()))) 48 8))
+  ("pAppData" (field (pointer (void ())) 56 8))))
+(macro ("/usr/include/sqlite3.h" 1699) "SQLITE_CONFIG_SINGLETHREAD" "1")
+(macro ("/usr/include/sqlite3.h" 1700) "SQLITE_CONFIG_MULTITHREAD" "2")
+(macro ("/usr/include/sqlite3.h" 1701) "SQLITE_CONFIG_SERIALIZED" "3")
+(macro ("/usr/include/sqlite3.h" 1702) "SQLITE_CONFIG_MALLOC" "4")
+(macro ("/usr/include/sqlite3.h" 1703) "SQLITE_CONFIG_GETMALLOC" "5")
+(macro ("/usr/include/sqlite3.h" 1704) "SQLITE_CONFIG_SCRATCH" "6")
+(macro ("/usr/include/sqlite3.h" 1705) "SQLITE_CONFIG_PAGECACHE" "7")
+(macro ("/usr/include/sqlite3.h" 1706) "SQLITE_CONFIG_HEAP" "8")
+(macro ("/usr/include/sqlite3.h" 1707) "SQLITE_CONFIG_MEMSTATUS" "9")
+(macro ("/usr/include/sqlite3.h" 1708) "SQLITE_CONFIG_MUTEX" "10")
+(macro ("/usr/include/sqlite3.h" 1709) "SQLITE_CONFIG_GETMUTEX" "11")
+(macro ("/usr/include/sqlite3.h" 1711) "SQLITE_CONFIG_LOOKASIDE" "13")
+(macro ("/usr/include/sqlite3.h" 1712) "SQLITE_CONFIG_PCACHE" "14")
+(macro ("/usr/include/sqlite3.h" 1713) "SQLITE_CONFIG_GETPCACHE" "15")
+(macro ("/usr/include/sqlite3.h" 1714) "SQLITE_CONFIG_LOG" "16")
+(macro ("/usr/include/sqlite3.h" 1715) "SQLITE_CONFIG_URI" "17")
+(macro ("/usr/include/sqlite3.h" 1716) "SQLITE_CONFIG_PCACHE2" "18")
+(macro ("/usr/include/sqlite3.h" 1717) "SQLITE_CONFIG_GETPCACHE2" "19")
+(macro ("/usr/include/sqlite3.h" 1718) "SQLITE_CONFIG_COVERING_INDEX_SCAN" "20")
+(macro ("/usr/include/sqlite3.h" 1719) "SQLITE_CONFIG_SQLLOG" "21")
+(macro ("/usr/include/sqlite3.h" 1720) "SQLITE_CONFIG_MMAP_SIZE" "22")
+(macro ("/usr/include/sqlite3.h" 1721) "SQLITE_CONFIG_WIN32_HEAPSIZE" "23")
+(macro ("/usr/include/sqlite3.h" 1781) "SQLITE_DBCONFIG_LOOKASIDE" "1001")
+(macro ("/usr/include/sqlite3.h" 1782) "SQLITE_DBCONFIG_ENABLE_FKEY" "1002")
+(macro ("/usr/include/sqlite3.h" 1783) "SQLITE_DBCONFIG_ENABLE_TRIGGER" "1003")
+(function ("/usr/include/sqlite3.h" 1793)
+ "sqlite3_extended_result_codes"
+ (function
+  ((pointer (typedef "sqlite3")) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 1844)
+ "sqlite3_last_insert_rowid"
+ (function
+  ((pointer (typedef "sqlite3")) )
+  (typedef "sqlite3_int64")) (extern))
+(function ("/usr/include/sqlite3.h" 1898)
+ "sqlite3_changes"
+ (function
+  ((pointer (typedef "sqlite3")) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 1924)
+ "sqlite3_total_changes"
+ (function
+  ((pointer (typedef "sqlite3")) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 1963)
+ "sqlite3_interrupt"
+ (function
+  ((pointer (typedef "sqlite3")) )
+  (void ())) (extern))
+(function ("/usr/include/sqlite3.h" 1998)
+ "sqlite3_complete"
+ (function
+  ((pointer (char ())) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 1999)
+ "sqlite3_complete16"
+ (function
+  ((pointer (void ())) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 2065)
+ "sqlite3_busy_handler"
+ (function
+  ((pointer (typedef "sqlite3")) (pointer (function
+   ((pointer (void ())) (int ()) )
+   (int ()))) (pointer (void ())) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 2085)
+ "sqlite3_busy_timeout"
+ (function
+  ((pointer (typedef "sqlite3")) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 2166)
+ "sqlite3_get_table"
+ (function
+  ((pointer (typedef "sqlite3")) (pointer (char ())) (pointer (pointer (pointer (char ())))) (pointer (int ())) (pointer (int ())) (pointer (pointer (char ()))) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 2167)
+ "sqlite3_free_table"
+ (function
+  ((pointer (pointer (char ()))) )
+  (void ())) (extern))
+(function ("/usr/include/sqlite3.h" 2263)
+ "sqlite3_mprintf"
+ (function
+  ((pointer (char ())) (void ()))
+  (pointer (char ()))) (extern))
+(function ("/usr/include/sqlite3.h" 2264)
+ "sqlite3_vmprintf"
+ (function
+  ((pointer (char ())) (pointer (struct-ref "__va_list_tag")) )
+  (pointer (char ()))) (extern))
+(function ("/usr/include/sqlite3.h" 2265)
+ "sqlite3_snprintf"
+ (function
+  ((int ()) (pointer (char ())) (pointer (char ())) (void ()))
+  (pointer (char ()))) (extern))
+(function ("/usr/include/sqlite3.h" 2266)
+ "sqlite3_vsnprintf"
+ (function
+  ((int ()) (pointer (char ())) (pointer (char ())) (pointer (struct-ref "__va_list_tag")) )
+  (pointer (char ()))) (extern))
+(function ("/usr/include/sqlite3.h" 2338)
+ "sqlite3_malloc"
+ (function
+  ((int ()) )
+  (pointer (void ()))) (extern))
+(function ("/usr/include/sqlite3.h" 2339)
+ "sqlite3_realloc"
+ (function
+  ((pointer (void ())) (int ()) )
+  (pointer (void ()))) (extern))
+(function ("/usr/include/sqlite3.h" 2340)
+ "sqlite3_free"
+ (function
+  ((pointer (void ())) )
+  (void ())) (extern))
+(function ("/usr/include/sqlite3.h" 2365)
+ "sqlite3_memory_used"
+ (function
+  ()
+  (typedef "sqlite3_int64")) (extern))
+(function ("/usr/include/sqlite3.h" 2366)
+ "sqlite3_memory_highwater"
+ (function
+  ((int ()) )
+  (typedef "sqlite3_int64")) (extern))
+(function ("/usr/include/sqlite3.h" 2386)
+ "sqlite3_randomness"
+ (function
+  ((int ()) (pointer (void ())) )
+  (void ())) (extern))
+(function ("/usr/include/sqlite3.h" 2472)
+ "sqlite3_set_authorizer"
+ (function
+  ((pointer (typedef "sqlite3")) (pointer (function
+   ((pointer (void ())) (int ()) (pointer (char ())) (pointer (char ())) (pointer (char ())) (pointer (char ())) )
+   (int ()))) (pointer (void ())) )
+  (int ())) (extern))
+(macro ("/usr/include/sqlite3.h" 2486) "SQLITE_DENY" "1")
+(macro ("/usr/include/sqlite3.h" 2487) "SQLITE_IGNORE" "2")
+(macro ("/usr/include/sqlite3.h" 2509) "SQLITE_CREATE_INDEX" "1")
+(macro ("/usr/include/sqlite3.h" 2510) "SQLITE_CREATE_TABLE" "2")
+(macro ("/usr/include/sqlite3.h" 2511) "SQLITE_CREATE_TEMP_INDEX" "3")
+(macro ("/usr/include/sqlite3.h" 2512) "SQLITE_CREATE_TEMP_TABLE" "4")
+(macro ("/usr/include/sqlite3.h" 2513) "SQLITE_CREATE_TEMP_TRIGGER" "5")
+(macro ("/usr/include/sqlite3.h" 2514) "SQLITE_CREATE_TEMP_VIEW" "6")
+(macro ("/usr/include/sqlite3.h" 2515) "SQLITE_CREATE_TRIGGER" "7")
+(macro ("/usr/include/sqlite3.h" 2516) "SQLITE_CREATE_VIEW" "8")
+(macro ("/usr/include/sqlite3.h" 2517) "SQLITE_DELETE" "9")
+(macro ("/usr/include/sqlite3.h" 2518) "SQLITE_DROP_INDEX" "10")
+(macro ("/usr/include/sqlite3.h" 2519) "SQLITE_DROP_TABLE" "11")
+(macro ("/usr/include/sqlite3.h" 2520) "SQLITE_DROP_TEMP_INDEX" "12")
+(macro ("/usr/include/sqlite3.h" 2521) "SQLITE_DROP_TEMP_TABLE" "13")
+(macro ("/usr/include/sqlite3.h" 2522) "SQLITE_DROP_TEMP_TRIGGER" "14")
+(macro ("/usr/include/sqlite3.h" 2523) "SQLITE_DROP_TEMP_VIEW" "15")
+(macro ("/usr/include/sqlite3.h" 2524) "SQLITE_DROP_TRIGGER" "16")
+(macro ("/usr/include/sqlite3.h" 2525) "SQLITE_DROP_VIEW" "17")
+(macro ("/usr/include/sqlite3.h" 2526) "SQLITE_INSERT" "18")
+(macro ("/usr/include/sqlite3.h" 2527) "SQLITE_PRAGMA" "19")
+(macro ("/usr/include/sqlite3.h" 2528) "SQLITE_READ" "20")
+(macro ("/usr/include/sqlite3.h" 2529) "SQLITE_SELECT" "21")
+(macro ("/usr/include/sqlite3.h" 2530) "SQLITE_TRANSACTION" "22")
+(macro ("/usr/include/sqlite3.h" 2531) "SQLITE_UPDATE" "23")
+(macro ("/usr/include/sqlite3.h" 2532) "SQLITE_ATTACH" "24")
+(macro ("/usr/include/sqlite3.h" 2533) "SQLITE_DETACH" "25")
+(macro ("/usr/include/sqlite3.h" 2534) "SQLITE_ALTER_TABLE" "26")
+(macro ("/usr/include/sqlite3.h" 2535) "SQLITE_REINDEX" "27")
+(macro ("/usr/include/sqlite3.h" 2536) "SQLITE_ANALYZE" "28")
+(macro ("/usr/include/sqlite3.h" 2537) "SQLITE_CREATE_VTABLE" "29")
+(macro ("/usr/include/sqlite3.h" 2538) "SQLITE_DROP_VTABLE" "30")
+(macro ("/usr/include/sqlite3.h" 2539) "SQLITE_FUNCTION" "31")
+(macro ("/usr/include/sqlite3.h" 2540) "SQLITE_SAVEPOINT" "32")
+(macro ("/usr/include/sqlite3.h" 2541) "SQLITE_COPY" "0")
+(function ("/usr/include/sqlite3.h" 2571)
+ "sqlite3_trace"
+ (function
+  ((pointer (typedef "sqlite3")) (pointer (function
+   ((pointer (void ())) (pointer (char ())) )
+   (void ()))) (pointer (void ())) )
+  (pointer (void ()))) (extern))
+(function ("/usr/include/sqlite3.h" 2573)
+ "sqlite3_profile"
+ (function
+  ((pointer (typedef "sqlite3")) (pointer (function
+   ((pointer (void ())) (pointer (char ())) (typedef "sqlite3_uint64") )
+   (void ()))) (pointer (void ())) )
+  (pointer (void ()))) (extern))
+(function ("/usr/include/sqlite3.h" 2606)
+ "sqlite3_progress_handler"
+ (function
+  ((pointer (typedef "sqlite3")) (int ()) (pointer (function
+   ((pointer (void ())) )
+   (int ()))) (pointer (void ())) )
+  (void ())) (extern))
+(function ("/usr/include/sqlite3.h" 2813)
+ "sqlite3_open"
+ (function
+  ((pointer (char ())) (pointer (pointer (typedef "sqlite3"))) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 2817)
+ "sqlite3_open16"
+ (function
+  ((pointer (void ())) (pointer (pointer (typedef "sqlite3"))) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 2823)
+ "sqlite3_open_v2"
+ (function
+  ((pointer (char ())) (pointer (pointer (typedef "sqlite3"))) (int ()) (pointer (char ())) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 2864)
+ "sqlite3_uri_parameter"
+ (function
+  ((pointer (char ())) (pointer (char ())) )
+  (pointer (char ()))) (extern))
+(function ("/usr/include/sqlite3.h" 2865)
+ "sqlite3_uri_boolean"
+ (function
+  ((pointer (char ())) (pointer (char ())) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 2866)
+ "sqlite3_uri_int64"
+ (function
+  ((pointer (char ())) (pointer (char ())) (typedef "sqlite3_int64") )
+  (typedef "sqlite3_int64")) (extern))
+(function ("/usr/include/sqlite3.h" 2907)
+ "sqlite3_errcode"
+ (function
+  ((pointer (typedef "sqlite3")) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 2908)
+ "sqlite3_extended_errcode"
+ (function
+  ((pointer (typedef "sqlite3")) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 2909)
+ "sqlite3_errmsg"
+ (function
+  ((pointer (typedef "sqlite3")) )
+  (pointer (char ()))) (extern))
+(function ("/usr/include/sqlite3.h" 2910)
+ "sqlite3_errmsg16"
+ (function
+  ((pointer (typedef "sqlite3")) )
+  (pointer (void ()))) (extern))
+(function ("/usr/include/sqlite3.h" 2911)
+ "sqlite3_errstr"
+ (function
+  ((int ()) )
+  (pointer (char ()))) (extern))
+(struct ("" 0)
+ "sqlite3_stmt"
+ ())
+(type ("/usr/include/sqlite3.h" 2937)
+ "sqlite3_stmt"
+ (struct-ref "sqlite3_stmt"))
+(function ("/usr/include/sqlite3.h" 2978)
+ "sqlite3_limit"
+ (function
+  ((pointer (typedef "sqlite3")) (int ()) (int ()) )
+  (int ())) (extern))
+(macro ("/usr/include/sqlite3.h" 3032) "SQLITE_LIMIT_LENGTH" "0")
+(macro ("/usr/include/sqlite3.h" 3033) "SQLITE_LIMIT_SQL_LENGTH" "1")
+(macro ("/usr/include/sqlite3.h" 3034) "SQLITE_LIMIT_COLUMN" "2")
+(macro ("/usr/include/sqlite3.h" 3035) "SQLITE_LIMIT_EXPR_DEPTH" "3")
+(macro ("/usr/include/sqlite3.h" 3036) "SQLITE_LIMIT_COMPOUND_SELECT" "4")
+(macro ("/usr/include/sqlite3.h" 3037) "SQLITE_LIMIT_VDBE_OP" "5")
+(macro ("/usr/include/sqlite3.h" 3038) "SQLITE_LIMIT_FUNCTION_ARG" "6")
+(macro ("/usr/include/sqlite3.h" 3039) "SQLITE_LIMIT_ATTACHED" "7")
+(macro ("/usr/include/sqlite3.h" 3040) "SQLITE_LIMIT_LIKE_PATTERN_LENGTH" "8")
+(macro ("/usr/include/sqlite3.h" 3041) "SQLITE_LIMIT_VARIABLE_NUMBER" "9")
+(macro ("/usr/include/sqlite3.h" 3042) "SQLITE_LIMIT_TRIGGER_DEPTH" "10")
+(function ("/usr/include/sqlite3.h" 3131)
+ "sqlite3_prepare"
+ (function
+  ((pointer (typedef "sqlite3")) (pointer (char ())) (int ()) (pointer (pointer (typedef "sqlite3_stmt"))) (pointer (pointer (char ()))) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 3138)
+ "sqlite3_prepare_v2"
+ (function
+  ((pointer (typedef "sqlite3")) (pointer (char ())) (int ()) (pointer (pointer (typedef "sqlite3_stmt"))) (pointer (pointer (char ()))) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 3145)
+ "sqlite3_prepare16"
+ (function
+  ((pointer (typedef "sqlite3")) (pointer (void ())) (int ()) (pointer (pointer (typedef "sqlite3_stmt"))) (pointer (pointer (void ()))) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 3152)
+ "sqlite3_prepare16_v2"
+ (function
+  ((pointer (typedef "sqlite3")) (pointer (void ())) (int ()) (pointer (pointer (typedef "sqlite3_stmt"))) (pointer (pointer (void ()))) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 3161)
+ "sqlite3_sql"
+ (function
+  ((pointer (typedef "sqlite3_stmt")) )
+  (pointer (char ()))) (extern))
+(function ("/usr/include/sqlite3.h" 3192)
+ "sqlite3_stmt_readonly"
+ (function
+  ((pointer (typedef "sqlite3_stmt")) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 3211)
+ "sqlite3_stmt_busy"
+ (function
+  ((pointer (typedef "sqlite3_stmt")) )
+  (int ())) (extern))
+(struct ("" 0)
+ "Mem"
+ ())
+(type ("/usr/include/sqlite3.h" 3250)
+ "sqlite3_value"
+ (struct-ref "Mem"))
+(struct ("" 0)
+ "sqlite3_context"
+ ())
+(type ("/usr/include/sqlite3.h" 3264)
+ "sqlite3_context"
+ (struct-ref "sqlite3_context"))
+(function ("/usr/include/sqlite3.h" 3361)
+ "sqlite3_bind_blob"
+ (function
+  ((pointer (typedef "sqlite3_stmt")) (int ()) (pointer (void ())) (int ()) (pointer (function
+   ((pointer (void ())) )
+   (void ()))) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 3362)
+ "sqlite3_bind_double"
+ (function
+  ((pointer (typedef "sqlite3_stmt")) (int ()) (double ()) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 3363)
+ "sqlite3_bind_int"
+ (function
+  ((pointer (typedef "sqlite3_stmt")) (int ()) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 3364)
+ "sqlite3_bind_int64"
+ (function
+  ((pointer (typedef "sqlite3_stmt")) (int ()) (typedef "sqlite3_int64") )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 3365)
+ "sqlite3_bind_null"
+ (function
+  ((pointer (typedef "sqlite3_stmt")) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 3366)
+ "sqlite3_bind_text"
+ (function
+  ((pointer (typedef "sqlite3_stmt")) (int ()) (pointer (char ())) (int ()) (pointer (function
+   ((pointer (void ())) )
+   (void ()))) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 3367)
+ "sqlite3_bind_text16"
+ (function
+  ((pointer (typedef "sqlite3_stmt")) (int ()) (pointer (void ())) (int ()) (pointer (function
+   ((pointer (void ())) )
+   (void ()))) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 3368)
+ "sqlite3_bind_value"
+ (function
+  ((pointer (typedef "sqlite3_stmt")) (int ()) (pointer (struct-ref "Mem")) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 3369)
+ "sqlite3_bind_zeroblob"
+ (function
+  ((pointer (typedef "sqlite3_stmt")) (int ()) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 3389)
+ "sqlite3_bind_parameter_count"
+ (function
+  ((pointer (typedef "sqlite3_stmt")) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 3416)
+ "sqlite3_bind_parameter_name"
+ (function
+  ((pointer (typedef "sqlite3_stmt")) (int ()) )
+  (pointer (char ()))) (extern))
+(function ("/usr/include/sqlite3.h" 3432)
+ "sqlite3_bind_parameter_index"
+ (function
+  ((pointer (typedef "sqlite3_stmt")) (pointer (char ())) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 3441)
+ "sqlite3_clear_bindings"
+ (function
+  ((pointer (typedef "sqlite3_stmt")) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 3452)
+ "sqlite3_column_count"
+ (function
+  ((pointer (typedef "sqlite3_stmt")) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 3480)
+ "sqlite3_column_name"
+ (function
+  ((pointer (typedef "sqlite3_stmt")) (int ()) )
+  (pointer (char ()))) (extern))
+(function ("/usr/include/sqlite3.h" 3481)
+ "sqlite3_column_name16"
+ (function
+  ((pointer (typedef "sqlite3_stmt")) (int ()) )
+  (pointer (void ()))) (extern))
+(function ("/usr/include/sqlite3.h" 3528)
+ "sqlite3_column_database_name"
+ (function
+  ((pointer (typedef "sqlite3_stmt")) (int ()) )
+  (pointer (char ()))) (extern))
+(function ("/usr/include/sqlite3.h" 3529)
+ "sqlite3_column_database_name16"
+ (function
+  ((pointer (typedef "sqlite3_stmt")) (int ()) )
+  (pointer (void ()))) (extern))
+(function ("/usr/include/sqlite3.h" 3530)
+ "sqlite3_column_table_name"
+ (function
+  ((pointer (typedef "sqlite3_stmt")) (int ()) )
+  (pointer (char ()))) (extern))
+(function ("/usr/include/sqlite3.h" 3531)
+ "sqlite3_column_table_name16"
+ (function
+  ((pointer (typedef "sqlite3_stmt")) (int ()) )
+  (pointer (void ()))) (extern))
+(function ("/usr/include/sqlite3.h" 3532)
+ "sqlite3_column_origin_name"
+ (function
+  ((pointer (typedef "sqlite3_stmt")) (int ()) )
+  (pointer (char ()))) (extern))
+(function ("/usr/include/sqlite3.h" 3533)
+ "sqlite3_column_origin_name16"
+ (function
+  ((pointer (typedef "sqlite3_stmt")) (int ()) )
+  (pointer (void ()))) (extern))
+(function ("/usr/include/sqlite3.h" 3564)
+ "sqlite3_column_decltype"
+ (function
+  ((pointer (typedef "sqlite3_stmt")) (int ()) )
+  (pointer (char ()))) (extern))
+(function ("/usr/include/sqlite3.h" 3565)
+ "sqlite3_column_decltype16"
+ (function
+  ((pointer (typedef "sqlite3_stmt")) (int ()) )
+  (pointer (void ()))) (extern))
+(function ("/usr/include/sqlite3.h" 3644)
+ "sqlite3_step"
+ (function
+  ((pointer (typedef "sqlite3_stmt")) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 3664)
+ "sqlite3_data_count"
+ (function
+  ((pointer (typedef "sqlite3_stmt")) )
+  (int ())) (extern))
+(macro ("/usr/include/sqlite3.h" 3687) "SQLITE_INTEGER" "1")
+(macro ("/usr/include/sqlite3.h" 3688) "SQLITE_FLOAT" "2")
+(macro ("/usr/include/sqlite3.h" 3689) "SQLITE_BLOB" "4")
+(macro ("/usr/include/sqlite3.h" 3690) "SQLITE_NULL" "5")
+(macro ("/usr/include/sqlite3.h" 3694) "SQLITE_TEXT" "3")
+(macro ("/usr/include/sqlite3.h" 3696) "SQLITE3_TEXT" "3")
+(function ("/usr/include/sqlite3.h" 3860)
+ "sqlite3_column_blob"
+ (function
+  ((pointer (typedef "sqlite3_stmt")) (int ()) )
+  (pointer (void ()))) (extern))
+(function ("/usr/include/sqlite3.h" 3861)
+ "sqlite3_column_bytes"
+ (function
+  ((pointer (typedef "sqlite3_stmt")) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 3862)
+ "sqlite3_column_bytes16"
+ (function
+  ((pointer (typedef "sqlite3_stmt")) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 3863)
+ "sqlite3_column_double"
+ (function
+  ((pointer (typedef "sqlite3_stmt")) (int ()) )
+  (double ())) (extern))
+(function ("/usr/include/sqlite3.h" 3864)
+ "sqlite3_column_int"
+ (function
+  ((pointer (typedef "sqlite3_stmt")) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 3865)
+ "sqlite3_column_int64"
+ (function
+  ((pointer (typedef "sqlite3_stmt")) (int ()) )
+  (typedef "sqlite3_int64")) (extern))
+(function ("/usr/include/sqlite3.h" 3866)
+ "sqlite3_column_text"
+ (function
+  ((pointer (typedef "sqlite3_stmt")) (int ()) )
+  (pointer (unsigned-char ()))) (extern))
+(function ("/usr/include/sqlite3.h" 3867)
+ "sqlite3_column_text16"
+ (function
+  ((pointer (typedef "sqlite3_stmt")) (int ()) )
+  (pointer (void ()))) (extern))
+(function ("/usr/include/sqlite3.h" 3868)
+ "sqlite3_column_type"
+ (function
+  ((pointer (typedef "sqlite3_stmt")) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 3869)
+ "sqlite3_column_value"
+ (function
+  ((pointer (typedef "sqlite3_stmt")) (int ()) )
+  (pointer (typedef "sqlite3_value"))) (extern))
+(function ("/usr/include/sqlite3.h" 3896)
+ "sqlite3_finalize"
+ (function
+  ((pointer (typedef "sqlite3_stmt")) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 3922)
+ "sqlite3_reset"
+ (function
+  ((pointer (typedef "sqlite3_stmt")) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 4021)
+ "sqlite3_create_function"
+ (function
+  ((pointer (typedef "sqlite3")) (pointer (char ())) (int ()) (int ()) (pointer (void ())) (pointer (function
+   ((pointer (typedef "sqlite3_context")) (int ()) (pointer (pointer (typedef "sqlite3_value"))) )
+   (void ()))) (pointer (function
+   ((pointer (typedef "sqlite3_context")) (int ()) (pointer (pointer (typedef "sqlite3_value"))) )
+   (void ()))) (pointer (function
+   ((pointer (typedef "sqlite3_context")) )
+   (void ()))) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 4031)
+ "sqlite3_create_function16"
+ (function
+  ((pointer (typedef "sqlite3")) (pointer (void ())) (int ()) (int ()) (pointer (void ())) (pointer (function
+   ((pointer (typedef "sqlite3_context")) (int ()) (pointer (pointer (typedef "sqlite3_value"))) )
+   (void ()))) (pointer (function
+   ((pointer (typedef "sqlite3_context")) (int ()) (pointer (pointer (typedef "sqlite3_value"))) )
+   (void ()))) (pointer (function
+   ((pointer (typedef "sqlite3_context")) )
+   (void ()))) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 4042)
+ "sqlite3_create_function_v2"
+ (function
+  ((pointer (typedef "sqlite3")) (pointer (char ())) (int ()) (int ()) (pointer (void ())) (pointer (function
+   ((pointer (typedef "sqlite3_context")) (int ()) (pointer (pointer (typedef "sqlite3_value"))) )
+   (void ()))) (pointer (function
+   ((pointer (typedef "sqlite3_context")) (int ()) (pointer (pointer (typedef "sqlite3_value"))) )
+   (void ()))) (pointer (function
+   ((pointer (typedef "sqlite3_context")) )
+   (void ()))) (pointer (function
+   ((pointer (void ())) )
+   (void ()))) )
+  (int ())) (extern))
+(macro ("/usr/include/sqlite3.h" 4050) "SQLITE_UTF8" "1")
+(macro ("/usr/include/sqlite3.h" 4051) "SQLITE_UTF16LE" "2")
+(macro ("/usr/include/sqlite3.h" 4052) "SQLITE_UTF16BE" "3")
+(macro ("/usr/include/sqlite3.h" 4053) "SQLITE_UTF16" "4")
+(macro ("/usr/include/sqlite3.h" 4054) "SQLITE_ANY" "5")
+(macro ("/usr/include/sqlite3.h" 4055) "SQLITE_UTF16_ALIGNED" "8")
+(function ("/usr/include/sqlite3.h" 4068)
+ "sqlite3_aggregate_count"
+ (function
+  ((pointer (typedef "sqlite3_context")) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 4069)
+ "sqlite3_expired"
+ (function
+  ((pointer (typedef "sqlite3_stmt")) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 4070)
+ "sqlite3_transfer_bindings"
+ (function
+  ((pointer (typedef "sqlite3_stmt")) (pointer (typedef "sqlite3_stmt")) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 4071)
+ "sqlite3_global_recover"
+ (function
+  ()
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 4072)
+ "sqlite3_thread_cleanup"
+ (function
+  ()
+  (void ())) (extern))
+(function ("/usr/include/sqlite3.h" 4074)
+ "sqlite3_memory_alarm"
+ (function
+  ((pointer (function
+   ((pointer (void ())) (typedef "sqlite3_int64") (int ()) )
+   (void ()))) (pointer (void ())) (typedef "sqlite3_int64") )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 4122)
+ "sqlite3_value_blob"
+ (function
+  ((pointer (typedef "sqlite3_value")) )
+  (pointer (void ()))) (extern))
+(function ("/usr/include/sqlite3.h" 4123)
+ "sqlite3_value_bytes"
+ (function
+  ((pointer (typedef "sqlite3_value")) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 4124)
+ "sqlite3_value_bytes16"
+ (function
+  ((pointer (typedef "sqlite3_value")) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 4125)
+ "sqlite3_value_double"
+ (function
+  ((pointer (typedef "sqlite3_value")) )
+  (double ())) (extern))
+(function ("/usr/include/sqlite3.h" 4126)
+ "sqlite3_value_int"
+ (function
+  ((pointer (typedef "sqlite3_value")) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 4127)
+ "sqlite3_value_int64"
+ (function
+  ((pointer (typedef "sqlite3_value")) )
+  (typedef "sqlite3_int64")) (extern))
+(function ("/usr/include/sqlite3.h" 4128)
+ "sqlite3_value_text"
+ (function
+  ((pointer (typedef "sqlite3_value")) )
+  (pointer (unsigned-char ()))) (extern))
+(function ("/usr/include/sqlite3.h" 4129)
+ "sqlite3_value_text16"
+ (function
+  ((pointer (typedef "sqlite3_value")) )
+  (pointer (void ()))) (extern))
+(function ("/usr/include/sqlite3.h" 4130)
+ "sqlite3_value_text16le"
+ (function
+  ((pointer (typedef "sqlite3_value")) )
+  (pointer (void ()))) (extern))
+(function ("/usr/include/sqlite3.h" 4131)
+ "sqlite3_value_text16be"
+ (function
+  ((pointer (typedef "sqlite3_value")) )
+  (pointer (void ()))) (extern))
+(function ("/usr/include/sqlite3.h" 4132)
+ "sqlite3_value_type"
+ (function
+  ((pointer (typedef "sqlite3_value")) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 4133)
+ "sqlite3_value_numeric_type"
+ (function
+  ((pointer (typedef "sqlite3_value")) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 4177)
+ "sqlite3_aggregate_context"
+ (function
+  ((pointer (typedef "sqlite3_context")) (int ()) )
+  (pointer (void ()))) (extern))
+(function ("/usr/include/sqlite3.h" 4191)
+ "sqlite3_user_data"
+ (function
+  ((pointer (typedef "sqlite3_context")) )
+  (pointer (void ()))) (extern))
+(function ("/usr/include/sqlite3.h" 4202)
+ "sqlite3_context_db_handle"
+ (function
+  ((pointer (typedef "sqlite3_context")) )
+  (pointer (typedef "sqlite3"))) (extern))
+(function ("/usr/include/sqlite3.h" 4254)
+ "sqlite3_get_auxdata"
+ (function
+  ((pointer (typedef "sqlite3_context")) (int ()) )
+  (pointer (void ()))) (extern))
+(function ("/usr/include/sqlite3.h" 4255)
+ "sqlite3_set_auxdata"
+ (function
+  ((pointer (typedef "sqlite3_context")) (int ()) (pointer (void ())) (pointer (function
+   ((pointer (void ())) )
+   (void ()))) )
+  (void ())) (extern))
+(type ("/usr/include/sqlite3.h" 4272)
+ "sqlite3_destructor_type"
+ (pointer (function
+  ((pointer (void ())) )
+  (void ()))))
+(macro ("/usr/include/sqlite3.h" 4273) "SQLITE_STATIC" "((sqlite3_destructor_type)0)")
+(macro ("/usr/include/sqlite3.h" 4274) "SQLITE_TRANSIENT" "((sqlite3_destructor_type)-1)")
+(function ("/usr/include/sqlite3.h" 4386)
+ "sqlite3_result_blob"
+ (function
+  ((pointer (typedef "sqlite3_context")) (pointer (void ())) (int ()) (pointer (function
+   ((pointer (void ())) )
+   (void ()))) )
+  (void ())) (extern))
+(function ("/usr/include/sqlite3.h" 4387)
+ "sqlite3_result_double"
+ (function
+  ((pointer (typedef "sqlite3_context")) (double ()) )
+  (void ())) (extern))
+(function ("/usr/include/sqlite3.h" 4388)
+ "sqlite3_result_error"
+ (function
+  ((pointer (typedef "sqlite3_context")) (pointer (char ())) (int ()) )
+  (void ())) (extern))
+(function ("/usr/include/sqlite3.h" 4389)
+ "sqlite3_result_error16"
+ (function
+  ((pointer (typedef "sqlite3_context")) (pointer (void ())) (int ()) )
+  (void ())) (extern))
+(function ("/usr/include/sqlite3.h" 4390)
+ "sqlite3_result_error_toobig"
+ (function
+  ((pointer (typedef "sqlite3_context")) )
+  (void ())) (extern))
+(function ("/usr/include/sqlite3.h" 4391)
+ "sqlite3_result_error_nomem"
+ (function
+  ((pointer (typedef "sqlite3_context")) )
+  (void ())) (extern))
+(function ("/usr/include/sqlite3.h" 4392)
+ "sqlite3_result_error_code"
+ (function
+  ((pointer (typedef "sqlite3_context")) (int ()) )
+  (void ())) (extern))
+(function ("/usr/include/sqlite3.h" 4393)
+ "sqlite3_result_int"
+ (function
+  ((pointer (typedef "sqlite3_context")) (int ()) )
+  (void ())) (extern))
+(function ("/usr/include/sqlite3.h" 4394)
+ "sqlite3_result_int64"
+ (function
+  ((pointer (typedef "sqlite3_context")) (typedef "sqlite3_int64") )
+  (void ())) (extern))
+(function ("/usr/include/sqlite3.h" 4395)
+ "sqlite3_result_null"
+ (function
+  ((pointer (typedef "sqlite3_context")) )
+  (void ())) (extern))
+(function ("/usr/include/sqlite3.h" 4396)
+ "sqlite3_result_text"
+ (function
+  ((pointer (typedef "sqlite3_context")) (pointer (char ())) (int ()) (pointer (function
+   ((pointer (void ())) )
+   (void ()))) )
+  (void ())) (extern))
+(function ("/usr/include/sqlite3.h" 4397)
+ "sqlite3_result_text16"
+ (function
+  ((pointer (typedef "sqlite3_context")) (pointer (void ())) (int ()) (pointer (function
+   ((pointer (void ())) )
+   (void ()))) )
+  (void ())) (extern))
+(function ("/usr/include/sqlite3.h" 4398)
+ "sqlite3_result_text16le"
+ (function
+  ((pointer (typedef "sqlite3_context")) (pointer (void ())) (int ()) (pointer (function
+   ((pointer (void ())) )
+   (void ()))) )
+  (void ())) (extern))
+(function ("/usr/include/sqlite3.h" 4399)
+ "sqlite3_result_text16be"
+ (function
+  ((pointer (typedef "sqlite3_context")) (pointer (void ())) (int ()) (pointer (function
+   ((pointer (void ())) )
+   (void ()))) )
+  (void ())) (extern))
+(function ("/usr/include/sqlite3.h" 4400)
+ "sqlite3_result_value"
+ (function
+  ((pointer (typedef "sqlite3_context")) (pointer (typedef "sqlite3_value")) )
+  (void ())) (extern))
+(function ("/usr/include/sqlite3.h" 4401)
+ "sqlite3_result_zeroblob"
+ (function
+  ((pointer (typedef "sqlite3_context")) (int ()) )
+  (void ())) (extern))
+(function ("/usr/include/sqlite3.h" 4488)
+ "sqlite3_create_collation"
+ (function
+  ((pointer (typedef "sqlite3")) (pointer (char ())) (int ()) (pointer (void ())) (pointer (function
+   ((pointer (void ())) (int ()) (pointer (void ())) (int ()) (pointer (void ())) )
+   (int ()))) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 4496)
+ "sqlite3_create_collation_v2"
+ (function
+  ((pointer (typedef "sqlite3")) (pointer (char ())) (int ()) (pointer (void ())) (pointer (function
+   ((pointer (void ())) (int ()) (pointer (void ())) (int ()) (pointer (void ())) )
+   (int ()))) (pointer (function
+   ((pointer (void ())) )
+   (void ()))) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 4503)
+ "sqlite3_create_collation16"
+ (function
+  ((pointer (typedef "sqlite3")) (pointer (void ())) (int ()) (pointer (void ())) (pointer (function
+   ((pointer (void ())) (int ()) (pointer (void ())) (int ()) (pointer (void ())) )
+   (int ()))) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 4535)
+ "sqlite3_collation_needed"
+ (function
+  ((pointer (typedef "sqlite3")) (pointer (void ())) (pointer (function
+   ((pointer (void ())) (pointer (typedef "sqlite3")) (int ()) (pointer (char ())) )
+   (void ()))) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 4540)
+ "sqlite3_collation_needed16"
+ (function
+  ((pointer (typedef "sqlite3")) (pointer (void ())) (pointer (function
+   ((pointer (void ())) (pointer (typedef "sqlite3")) (int ()) (pointer (void ())) )
+   (void ()))) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 4614)
+ "sqlite3_sleep"
+ (function
+  ((int ()) )
+  (int ())) (extern))
+(var ("/usr/include/sqlite3.h" 4660)
+ "sqlite3_temp_directory"
+ (pointer (char ())) (extern))
+(var ("/usr/include/sqlite3.h" 4697)
+ "sqlite3_data_directory"
+ (pointer (char ())) (extern))
+(function ("/usr/include/sqlite3.h" 4720)
+ "sqlite3_get_autocommit"
+ (function
+  ((pointer (typedef "sqlite3")) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 4732)
+ "sqlite3_db_handle"
+ (function
+  ((pointer (typedef "sqlite3_stmt")) )
+  (pointer (typedef "sqlite3"))) (extern))
+(function ("/usr/include/sqlite3.h" 4748)
+ "sqlite3_db_filename"
+ (function
+  ((pointer (typedef "sqlite3")) (pointer (char ())) )
+  (pointer (char ()))) (extern))
+(function ("/usr/include/sqlite3.h" 4757)
+ "sqlite3_db_readonly"
+ (function
+  ((pointer (typedef "sqlite3")) (pointer (char ())) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 4772)
+ "sqlite3_next_stmt"
+ (function
+  ((pointer (typedef "sqlite3")) (pointer (typedef "sqlite3_stmt")) )
+  (pointer (typedef "sqlite3_stmt"))) (extern))
+(function ("/usr/include/sqlite3.h" 4820)
+ "sqlite3_commit_hook"
+ (function
+  ((pointer (typedef "sqlite3")) (pointer (function
+   ((pointer (void ())) )
+   (int ()))) (pointer (void ())) )
+  (pointer (void ()))) (extern))
+(function ("/usr/include/sqlite3.h" 4821)
+ "sqlite3_rollback_hook"
+ (function
+  ((pointer (typedef "sqlite3")) (pointer (function
+   ((pointer (void ())) )
+   (void ()))) (pointer (void ())) )
+  (pointer (void ()))) (extern))
+(function ("/usr/include/sqlite3.h" 4875)
+ "sqlite3_update_hook"
+ (function
+  ((pointer (typedef "sqlite3")) (pointer (function
+   ((pointer (void ())) (int ()) (pointer (char ())) (pointer (char ())) (typedef "sqlite3_int64") )
+   (void ()))) (pointer (void ())) )
+  (pointer (void ()))) (extern))
+(function ("/usr/include/sqlite3.h" 4906)
+ "sqlite3_enable_shared_cache"
+ (function
+  ((int ()) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 4922)
+ "sqlite3_release_memory"
+ (function
+  ((int ()) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 4935)
+ "sqlite3_db_release_memory"
+ (function
+  ((pointer (typedef "sqlite3")) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 4987)
+ "sqlite3_soft_heap_limit64"
+ (function
+  ((typedef "sqlite3_int64") )
+  (typedef "sqlite3_int64")) (extern))
+(function ("/usr/include/sqlite3.h" 4998)
+ "sqlite3_soft_heap_limit"
+ (function
+  ((int ()) )
+  (void ())) (extern))
+(function ("/usr/include/sqlite3.h" 5073)
+ "sqlite3_table_column_metadata"
+ (function
+  ((pointer (typedef "sqlite3")) (pointer (char ())) (pointer (char ())) (pointer (char ())) (pointer (pointer (char ()))) (pointer (pointer (char ()))) (pointer (int ())) (pointer (int ())) (pointer (int ())) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 5114)
+ "sqlite3_load_extension"
+ (function
+  ((pointer (typedef "sqlite3")) (pointer (char ())) (pointer (char ())) (pointer (pointer (char ()))) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 5129)
+ "sqlite3_enable_load_extension"
+ (function
+  ((pointer (typedef "sqlite3")) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 5167)
+ "sqlite3_auto_extension"
+ (function
+  ((pointer (function
+   ()
+   (void ()))) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 5179)
+ "sqlite3_cancel_auto_extension"
+ (function
+  ((pointer (function
+   ()
+   (void ()))) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 5187)
+ "sqlite3_reset_auto_extension"
+ (function
+  ()
+  (void ())) (extern))
+(struct ("" 0)
+ "sqlite3_vtab"
+ ())
+(type ("/usr/include/sqlite3.h" 5201)
+ "sqlite3_vtab"
+ (struct-ref "sqlite3_vtab"))
+(struct ("" 0)
+ "sqlite3_index_info"
+ ())
+(type ("/usr/include/sqlite3.h" 5202)
+ "sqlite3_index_info"
+ (struct-ref "sqlite3_index_info"))
+(struct ("" 0)
+ "sqlite3_vtab_cursor"
+ ())
+(type ("/usr/include/sqlite3.h" 5203)
+ "sqlite3_vtab_cursor"
+ (struct-ref "sqlite3_vtab_cursor"))
+(struct ("" 0)
+ "sqlite3_module"
+ ())
+(type ("/usr/include/sqlite3.h" 5204)
+ "sqlite3_module"
+ (struct-ref "sqlite3_module"))
+(struct ("" 0)
+ "sqlite3_module"
+ (("iVersion" (field (int ()) 0 4))
+  ("xCreate" (field (pointer (function
+   ((pointer (typedef "sqlite3")) (pointer (void ())) (int ()) (pointer (pointer (char ()))) (pointer (pointer (typedef "sqlite3_vtab"))) (pointer (pointer (char ()))) )
+   (int ()))) 8 8))
+  ("xConnect" (field (pointer (function
+   ((pointer (typedef "sqlite3")) (pointer (void ())) (int ()) (pointer (pointer (char ()))) (pointer (pointer (typedef "sqlite3_vtab"))) (pointer (pointer (char ()))) )
+   (int ()))) 16 8))
+  ("xBestIndex" (field (pointer (function
+   ((pointer (typedef "sqlite3_vtab")) (pointer (typedef "sqlite3_index_info")) )
+   (int ()))) 24 8))
+  ("xDisconnect" (field (pointer (function
+   ((pointer (typedef "sqlite3_vtab")) )
+   (int ()))) 32 8))
+  ("xDestroy" (field (pointer (function
+   ((pointer (typedef "sqlite3_vtab")) )
+   (int ()))) 40 8))
+  ("xOpen" (field (pointer (function
+   ((pointer (typedef "sqlite3_vtab")) (pointer (pointer (typedef "sqlite3_vtab_cursor"))) )
+   (int ()))) 48 8))
+  ("xClose" (field (pointer (function
+   ((pointer (typedef "sqlite3_vtab_cursor")) )
+   (int ()))) 56 8))
+  ("xFilter" (field (pointer (function
+   ((pointer (typedef "sqlite3_vtab_cursor")) (int ()) (pointer (char ())) (int ()) (pointer (pointer (typedef "sqlite3_value"))) )
+   (int ()))) 64 8))
+  ("xNext" (field (pointer (function
+   ((pointer (typedef "sqlite3_vtab_cursor")) )
+   (int ()))) 72 8))
+  ("xEof" (field (pointer (function
+   ((pointer (typedef "sqlite3_vtab_cursor")) )
+   (int ()))) 80 8))
+  ("xColumn" (field (pointer (function
+   ((pointer (typedef "sqlite3_vtab_cursor")) (pointer (typedef "sqlite3_context")) (int ()) )
+   (int ()))) 88 8))
+  ("xRowid" (field (pointer (function
+   ((pointer (typedef "sqlite3_vtab_cursor")) (pointer (typedef "sqlite3_int64")) )
+   (int ()))) 96 8))
+  ("xUpdate" (field (pointer (function
+   ((pointer (typedef "sqlite3_vtab")) (int ()) (pointer (pointer (typedef "sqlite3_value"))) (pointer (typedef "sqlite3_int64")) )
+   (int ()))) 104 8))
+  ("xBegin" (field (pointer (function
+   ((pointer (typedef "sqlite3_vtab")) )
+   (int ()))) 112 8))
+  ("xSync" (field (pointer (function
+   ((pointer (typedef "sqlite3_vtab")) )
+   (int ()))) 120 8))
+  ("xCommit" (field (pointer (function
+   ((pointer (typedef "sqlite3_vtab")) )
+   (int ()))) 128 8))
+  ("xRollback" (field (pointer (function
+   ((pointer (typedef "sqlite3_vtab")) )
+   (int ()))) 136 8))
+  ("xFindFunction" (field (pointer (function
+   ((pointer (typedef "sqlite3_vtab")) (int ()) (pointer (char ())) (pointer (pointer (function
+    ((pointer (typedef "sqlite3_context")) (int ()) (pointer (pointer (typedef "sqlite3_value"))) )
+    (void ())))) (pointer (pointer (void ()))) )
+   (int ()))) 144 8))
+  ("xRename" (field (pointer (function
+   ((pointer (typedef "sqlite3_vtab")) (pointer (char ())) )
+   (int ()))) 152 8))
+  ("xSavepoint" (field (pointer (function
+   ((pointer (typedef "sqlite3_vtab")) (int ()) )
+   (int ()))) 160 8))
+  ("xRelease" (field (pointer (function
+   ((pointer (typedef "sqlite3_vtab")) (int ()) )
+   (int ()))) 168 8))
+  ("xRollbackTo" (field (pointer (function
+   ((pointer (typedef "sqlite3_vtab")) (int ()) )
+   (int ()))) 176 8))))
+(struct ("" 0)
+ "sqlite3_index_constraint"
+ (("iColumn" (field (int ()) 0 4))
+  ("op" (field (unsigned-char ()) 4 1))
+  ("usable" (field (unsigned-char ()) 5 1))
+  ("iTermOffset" (field (int ()) 8 4))))
+(struct ("" 0)
+ "sqlite3_index_orderby"
+ (("iColumn" (field (int ()) 0 4))
+  ("desc" (field (unsigned-char ()) 4 1))))
+(struct ("" 0)
+ "sqlite3_index_constraint_usage"
+ (("argvIndex" (field (int ()) 0 4))
+  ("omit" (field (unsigned-char ()) 4 1))))
+(struct ("" 0)
+ "sqlite3_index_info"
+ (("nConstraint" (field (int ()) 0 4))
+  ("aConstraint" (field (pointer (struct-ref "sqlite3_index_constraint")) 8 8))
+  ("nOrderBy" (field (int ()) 16 4))
+  ("aOrderBy" (field (pointer (struct-ref "sqlite3_index_orderby")) 24 8))
+  ("aConstraintUsage" (field (pointer (struct-ref "sqlite3_index_constraint_usage")) 32 8))
+  ("idxNum" (field (int ()) 40 4))
+  ("idxStr" (field (pointer (char ())) 48 8))
+  ("needToFreeIdxStr" (field (int ()) 56 4))
+  ("orderByConsumed" (field (int ()) 60 4))
+  ("estimatedCost" (field (double ()) 64 8))
+  ("estimatedRows" (field (typedef "sqlite3_int64") 72 8))))
+(macro ("/usr/include/sqlite3.h" 5358) "SQLITE_INDEX_CONSTRAINT_EQ" "2")
+(macro ("/usr/include/sqlite3.h" 5359) "SQLITE_INDEX_CONSTRAINT_GT" "4")
+(macro ("/usr/include/sqlite3.h" 5360) "SQLITE_INDEX_CONSTRAINT_LE" "8")
+(macro ("/usr/include/sqlite3.h" 5361) "SQLITE_INDEX_CONSTRAINT_LT" "16")
+(macro ("/usr/include/sqlite3.h" 5362) "SQLITE_INDEX_CONSTRAINT_GE" "32")
+(macro ("/usr/include/sqlite3.h" 5363) "SQLITE_INDEX_CONSTRAINT_MATCH" "64")
+(function ("/usr/include/sqlite3.h" 5395)
+ "sqlite3_create_module"
+ (function
+  ((pointer (typedef "sqlite3")) (pointer (char ())) (pointer (struct-ref "sqlite3_module")) (pointer (void ())) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 5402)
+ "sqlite3_create_module_v2"
+ (function
+  ((pointer (typedef "sqlite3")) (pointer (char ())) (pointer (struct-ref "sqlite3_module")) (pointer (void ())) (pointer (function
+   ((pointer (void ())) )
+   (void ()))) )
+  (int ())) (extern))
+(struct ("" 0)
+ "sqlite3_vtab"
+ (("pModule" (field (pointer (struct-ref "sqlite3_module")) 0 8))
+  ("nRef" (field (int ()) 8 4))
+  ("zErrMsg" (field (pointer (char ())) 16 8))))
+(struct ("" 0)
+ "sqlite3_vtab_cursor"
+ (("pVtab" (field (pointer (typedef "sqlite3_vtab")) 0 8))))
+(function ("/usr/include/sqlite3.h" 5459)
+ "sqlite3_declare_vtab"
+ (function
+  ((pointer (typedef "sqlite3")) (pointer (char ())) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 5477)
+ "sqlite3_overload_function"
+ (function
+  ((pointer (typedef "sqlite3")) (pointer (char ())) (int ()) )
+  (int ())) (extern))
+(struct ("" 0)
+ "sqlite3_blob"
+ ())
+(type ("/usr/include/sqlite3.h" 5501)
+ "sqlite3_blob"
+ (struct-ref "sqlite3_blob"))
+(function ("/usr/include/sqlite3.h" 5570)
+ "sqlite3_blob_open"
+ (function
+  ((pointer (typedef "sqlite3")) (pointer (char ())) (pointer (char ())) (pointer (char ())) (typedef "sqlite3_int64") (int ()) (pointer (pointer (typedef "sqlite3_blob"))) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 5594)
+ "sqlite3_blob_reopen"
+ (function
+  ((pointer (typedef "sqlite3_blob")) (typedef "sqlite3_int64") )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 5618)
+ "sqlite3_blob_close"
+ (function
+  ((pointer (typedef "sqlite3_blob")) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 5633)
+ "sqlite3_blob_bytes"
+ (function
+  ((pointer (typedef "sqlite3_blob")) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 5661)
+ "sqlite3_blob_read"
+ (function
+  ((pointer (typedef "sqlite3_blob")) (pointer (void ())) (int ()) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 5699)
+ "sqlite3_blob_write"
+ (function
+  ((pointer (typedef "sqlite3_blob")) (pointer (void ())) (int ()) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 5730)
+ "sqlite3_vfs_find"
+ (function
+  ((pointer (char ())) )
+  (pointer (typedef "sqlite3_vfs"))) (extern))
+(function ("/usr/include/sqlite3.h" 5731)
+ "sqlite3_vfs_register"
+ (function
+  ((pointer (typedef "sqlite3_vfs")) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 5732)
+ "sqlite3_vfs_unregister"
+ (function
+  ((pointer (typedef "sqlite3_vfs")) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 5847)
+ "sqlite3_mutex_alloc"
+ (function
+  ((int ()) )
+  (pointer (typedef "sqlite3_mutex"))) (extern))
+(function ("/usr/include/sqlite3.h" 5848)
+ "sqlite3_mutex_free"
+ (function
+  ((pointer (typedef "sqlite3_mutex")) )
+  (void ())) (extern))
+(function ("/usr/include/sqlite3.h" 5849)
+ "sqlite3_mutex_enter"
+ (function
+  ((pointer (typedef "sqlite3_mutex")) )
+  (void ())) (extern))
+(function ("/usr/include/sqlite3.h" 5850)
+ "sqlite3_mutex_try"
+ (function
+  ((pointer (typedef "sqlite3_mutex")) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 5851)
+ "sqlite3_mutex_leave"
+ (function
+  ((pointer (typedef "sqlite3_mutex")) )
+  (void ())) (extern))
+(struct ("" 0)
+ "sqlite3_mutex_methods"
+ ())
+(type ("/usr/include/sqlite3.h" 5918)
+ "sqlite3_mutex_methods"
+ (struct-ref "sqlite3_mutex_methods"))
+(struct ("" 0)
+ "sqlite3_mutex_methods"
+ (("xMutexInit" (field (pointer (function
+  ()
+  (int ()))) 0 8))
+  ("xMutexEnd" (field (pointer (function
+   ()
+   (int ()))) 8 8))
+  ("xMutexAlloc" (field (pointer (function
+   ((int ()) )
+   (pointer (typedef "sqlite3_mutex")))) 16 8))
+  ("xMutexFree" (field (pointer (function
+   ((pointer (typedef "sqlite3_mutex")) )
+   (void ()))) 24 8))
+  ("xMutexEnter" (field (pointer (function
+   ((pointer (typedef "sqlite3_mutex")) )
+   (void ()))) 32 8))
+  ("xMutexTry" (field (pointer (function
+   ((pointer (typedef "sqlite3_mutex")) )
+   (int ()))) 40 8))
+  ("xMutexLeave" (field (pointer (function
+   ((pointer (typedef "sqlite3_mutex")) )
+   (void ()))) 48 8))
+  ("xMutexHeld" (field (pointer (function
+   ((pointer (typedef "sqlite3_mutex")) )
+   (int ()))) 56 8))
+  ("xMutexNotheld" (field (pointer (function
+   ((pointer (typedef "sqlite3_mutex")) )
+   (int ()))) 64 8))))
+(function ("/usr/include/sqlite3.h" 5961)
+ "sqlite3_mutex_held"
+ (function
+  ((pointer (typedef "sqlite3_mutex")) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 5962)
+ "sqlite3_mutex_notheld"
+ (function
+  ((pointer (typedef "sqlite3_mutex")) )
+  (int ())) (extern))
+(macro ("/usr/include/sqlite3.h" 5975) "SQLITE_MUTEX_FAST" "0")
+(macro ("/usr/include/sqlite3.h" 5976) "SQLITE_MUTEX_RECURSIVE" "1")
+(macro ("/usr/include/sqlite3.h" 5977) "SQLITE_MUTEX_STATIC_MASTER" "2")
+(macro ("/usr/include/sqlite3.h" 5978) "SQLITE_MUTEX_STATIC_MEM" "3")
+(macro ("/usr/include/sqlite3.h" 5979) "SQLITE_MUTEX_STATIC_MEM2" "4")
+(macro ("/usr/include/sqlite3.h" 5980) "SQLITE_MUTEX_STATIC_OPEN" "4")
+(macro ("/usr/include/sqlite3.h" 5981) "SQLITE_MUTEX_STATIC_PRNG" "5")
+(macro ("/usr/include/sqlite3.h" 5982) "SQLITE_MUTEX_STATIC_LRU" "6")
+(macro ("/usr/include/sqlite3.h" 5983) "SQLITE_MUTEX_STATIC_LRU2" "7")
+(macro ("/usr/include/sqlite3.h" 5984) "SQLITE_MUTEX_STATIC_PMEM" "7")
+(function ("/usr/include/sqlite3.h" 5995)
+ "sqlite3_db_mutex"
+ (function
+  ((pointer (typedef "sqlite3")) )
+  (pointer (typedef "sqlite3_mutex"))) (extern))
+(function ("/usr/include/sqlite3.h" 6029)
+ "sqlite3_file_control"
+ (function
+  ((pointer (typedef "sqlite3")) (pointer (char ())) (int ()) (pointer (void ())) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 6048)
+ "sqlite3_test_control"
+ (function
+  ((int ()) (void ()))
+  (int ())) (extern))
+(macro ("/usr/include/sqlite3.h" 6061) "SQLITE_TESTCTRL_FIRST" "5")
+(macro ("/usr/include/sqlite3.h" 6062) "SQLITE_TESTCTRL_PRNG_SAVE" "5")
+(macro ("/usr/include/sqlite3.h" 6063) "SQLITE_TESTCTRL_PRNG_RESTORE" "6")
+(macro ("/usr/include/sqlite3.h" 6064) "SQLITE_TESTCTRL_PRNG_RESET" "7")
+(macro ("/usr/include/sqlite3.h" 6065) "SQLITE_TESTCTRL_BITVEC_TEST" "8")
+(macro ("/usr/include/sqlite3.h" 6066) "SQLITE_TESTCTRL_FAULT_INSTALL" "9")
+(macro ("/usr/include/sqlite3.h" 6067) "SQLITE_TESTCTRL_BENIGN_MALLOC_HOOKS" "10")
+(macro ("/usr/include/sqlite3.h" 6068) "SQLITE_TESTCTRL_PENDING_BYTE" "11")
+(macro ("/usr/include/sqlite3.h" 6069) "SQLITE_TESTCTRL_ASSERT" "12")
+(macro ("/usr/include/sqlite3.h" 6070) "SQLITE_TESTCTRL_ALWAYS" "13")
+(macro ("/usr/include/sqlite3.h" 6071) "SQLITE_TESTCTRL_RESERVE" "14")
+(macro ("/usr/include/sqlite3.h" 6072) "SQLITE_TESTCTRL_OPTIMIZATIONS" "15")
+(macro ("/usr/include/sqlite3.h" 6073) "SQLITE_TESTCTRL_ISKEYWORD" "16")
+(macro ("/usr/include/sqlite3.h" 6074) "SQLITE_TESTCTRL_SCRATCHMALLOC" "17")
+(macro ("/usr/include/sqlite3.h" 6075) "SQLITE_TESTCTRL_LOCALTIME_FAULT" "18")
+(macro ("/usr/include/sqlite3.h" 6076) "SQLITE_TESTCTRL_EXPLAIN_STMT" "19")
+(macro ("/usr/include/sqlite3.h" 6077) "SQLITE_TESTCTRL_NEVER_CORRUPT" "20")
+(macro ("/usr/include/sqlite3.h" 6078) "SQLITE_TESTCTRL_LAST" "20")
+(function ("/usr/include/sqlite3.h" 6109)
+ "sqlite3_status"
+ (function
+  ((int ()) (pointer (int ())) (pointer (int ())) (int ()) )
+  (int ())) (extern))
+(macro ("/usr/include/sqlite3.h" 6194) "SQLITE_STATUS_MEMORY_USED" "0")
+(macro ("/usr/include/sqlite3.h" 6195) "SQLITE_STATUS_PAGECACHE_USED" "1")
+(macro ("/usr/include/sqlite3.h" 6196) "SQLITE_STATUS_PAGECACHE_OVERFLOW" "2")
+(macro ("/usr/include/sqlite3.h" 6197) "SQLITE_STATUS_SCRATCH_USED" "3")
+(macro ("/usr/include/sqlite3.h" 6198) "SQLITE_STATUS_SCRATCH_OVERFLOW" "4")
+(macro ("/usr/include/sqlite3.h" 6199) "SQLITE_STATUS_MALLOC_SIZE" "5")
+(macro ("/usr/include/sqlite3.h" 6200) "SQLITE_STATUS_PARSER_STACK" "6")
+(macro ("/usr/include/sqlite3.h" 6201) "SQLITE_STATUS_PAGECACHE_SIZE" "7")
+(macro ("/usr/include/sqlite3.h" 6202) "SQLITE_STATUS_SCRATCH_SIZE" "8")
+(macro ("/usr/include/sqlite3.h" 6203) "SQLITE_STATUS_MALLOC_COUNT" "9")
+(function ("/usr/include/sqlite3.h" 6227)
+ "sqlite3_db_status"
+ (function
+  ((pointer (typedef "sqlite3")) (int ()) (pointer (int ())) (pointer (int ())) (int ()) )
+  (int ())) (extern))
+(macro ("/usr/include/sqlite3.h" 6319) "SQLITE_DBSTATUS_LOOKASIDE_USED" "0")
+(macro ("/usr/include/sqlite3.h" 6320) "SQLITE_DBSTATUS_CACHE_USED" "1")
+(macro ("/usr/include/sqlite3.h" 6321) "SQLITE_DBSTATUS_SCHEMA_USED" "2")
+(macro ("/usr/include/sqlite3.h" 6322) "SQLITE_DBSTATUS_STMT_USED" "3")
+(macro ("/usr/include/sqlite3.h" 6323) "SQLITE_DBSTATUS_LOOKASIDE_HIT" "4")
+(macro ("/usr/include/sqlite3.h" 6324) "SQLITE_DBSTATUS_LOOKASIDE_MISS_SIZE" "5")
+(macro ("/usr/include/sqlite3.h" 6325) "SQLITE_DBSTATUS_LOOKASIDE_MISS_FULL" "6")
+(macro ("/usr/include/sqlite3.h" 6326) "SQLITE_DBSTATUS_CACHE_HIT" "7")
+(macro ("/usr/include/sqlite3.h" 6327) "SQLITE_DBSTATUS_CACHE_MISS" "8")
+(macro ("/usr/include/sqlite3.h" 6328) "SQLITE_DBSTATUS_CACHE_WRITE" "9")
+(macro ("/usr/include/sqlite3.h" 6329) "SQLITE_DBSTATUS_DEFERRED_FKS" "10")
+(macro ("/usr/include/sqlite3.h" 6330) "SQLITE_DBSTATUS_MAX" "10")
+(function ("/usr/include/sqlite3.h" 6356)
+ "sqlite3_stmt_status"
+ (function
+  ((pointer (typedef "sqlite3_stmt")) (int ()) (int ()) )
+  (int ())) (extern))
+(macro ("/usr/include/sqlite3.h" 6395) "SQLITE_STMTSTATUS_FULLSCAN_STEP" "1")
+(macro ("/usr/include/sqlite3.h" 6396) "SQLITE_STMTSTATUS_SORT" "2")
+(macro ("/usr/include/sqlite3.h" 6397) "SQLITE_STMTSTATUS_AUTOINDEX" "3")
+(macro ("/usr/include/sqlite3.h" 6398) "SQLITE_STMTSTATUS_VM_STEP" "4")
+(struct ("" 0)
+ "sqlite3_pcache"
+ ())
+(type ("/usr/include/sqlite3.h" 6411)
+ "sqlite3_pcache"
+ (struct-ref "sqlite3_pcache"))
+(struct ("" 0)
+ "sqlite3_pcache_page"
+ ())
+(type ("/usr/include/sqlite3.h" 6423)
+ "sqlite3_pcache_page"
+ (struct-ref "sqlite3_pcache_page"))
+(struct ("" 0)
+ "sqlite3_pcache_page"
+ (("pBuf" (field (pointer (void ())) 0 8))
+  ("pExtra" (field (pointer (void ())) 8 8))))
+(struct ("" 0)
+ "sqlite3_pcache_methods2"
+ ())
+(type ("/usr/include/sqlite3.h" 6588)
+ "sqlite3_pcache_methods2"
+ (struct-ref "sqlite3_pcache_methods2"))
+(struct ("" 0)
+ "sqlite3_pcache_methods2"
+ (("iVersion" (field (int ()) 0 4))
+  ("pArg" (field (pointer (void ())) 8 8))
+  ("xInit" (field (pointer (function
+   ((pointer (void ())) )
+   (int ()))) 16 8))
+  ("xShutdown" (field (pointer (function
+   ((pointer (void ())) )
+   (void ()))) 24 8))
+  ("xCreate" (field (pointer (function
+   ((int ()) (int ()) (int ()) )
+   (pointer (typedef "sqlite3_pcache")))) 32 8))
+  ("xCachesize" (field (pointer (function
+   ((pointer (typedef "sqlite3_pcache")) (int ()) )
+   (void ()))) 40 8))
+  ("xPagecount" (field (pointer (function
+   ((pointer (typedef "sqlite3_pcache")) )
+   (int ()))) 48 8))
+  ("xFetch" (field (pointer (function
+   ((pointer (typedef "sqlite3_pcache")) (unsigned ()) (int ()) )
+   (pointer (typedef "sqlite3_pcache_page")))) 56 8))
+  ("xUnpin" (field (pointer (function
+   ((pointer (typedef "sqlite3_pcache")) (pointer (typedef "sqlite3_pcache_page")) (int ()) )
+   (void ()))) 64 8))
+  ("xRekey" (field (pointer (function
+   ((pointer (typedef "sqlite3_pcache")) (pointer (typedef "sqlite3_pcache_page")) (unsigned ()) (unsigned ()) )
+   (void ()))) 72 8))
+  ("xTruncate" (field (pointer (function
+   ((pointer (typedef "sqlite3_pcache")) (unsigned ()) )
+   (void ()))) 80 8))
+  ("xDestroy" (field (pointer (function
+   ((pointer (typedef "sqlite3_pcache")) )
+   (void ()))) 88 8))
+  ("xShrink" (field (pointer (function
+   ((pointer (typedef "sqlite3_pcache")) )
+   (void ()))) 96 8))))
+(struct ("" 0)
+ "sqlite3_pcache_methods"
+ ())
+(type ("/usr/include/sqlite3.h" 6611)
+ "sqlite3_pcache_methods"
+ (struct-ref "sqlite3_pcache_methods"))
+(struct ("" 0)
+ "sqlite3_pcache_methods"
+ (("pArg" (field (pointer (void ())) 0 8))
+  ("xInit" (field (pointer (function
+   ((pointer (void ())) )
+   (int ()))) 8 8))
+  ("xShutdown" (field (pointer (function
+   ((pointer (void ())) )
+   (void ()))) 16 8))
+  ("xCreate" (field (pointer (function
+   ((int ()) (int ()) )
+   (pointer (typedef "sqlite3_pcache")))) 24 8))
+  ("xCachesize" (field (pointer (function
+   ((pointer (typedef "sqlite3_pcache")) (int ()) )
+   (void ()))) 32 8))
+  ("xPagecount" (field (pointer (function
+   ((pointer (typedef "sqlite3_pcache")) )
+   (int ()))) 40 8))
+  ("xFetch" (field (pointer (function
+   ((pointer (typedef "sqlite3_pcache")) (unsigned ()) (int ()) )
+   (pointer (void ())))) 48 8))
+  ("xUnpin" (field (pointer (function
+   ((pointer (typedef "sqlite3_pcache")) (pointer (void ())) (int ()) )
+   (void ()))) 56 8))
+  ("xRekey" (field (pointer (function
+   ((pointer (typedef "sqlite3_pcache")) (pointer (void ())) (unsigned ()) (unsigned ()) )
+   (void ()))) 64 8))
+  ("xTruncate" (field (pointer (function
+   ((pointer (typedef "sqlite3_pcache")) (unsigned ()) )
+   (void ()))) 72 8))
+  ("xDestroy" (field (pointer (function
+   ((pointer (typedef "sqlite3_pcache")) )
+   (void ()))) 80 8))))
+(struct ("" 0)
+ "sqlite3_backup"
+ ())
+(type ("/usr/include/sqlite3.h" 6637)
+ "sqlite3_backup"
+ (struct-ref "sqlite3_backup"))
+(function ("/usr/include/sqlite3.h" 6826)
+ "sqlite3_backup_init"
+ (function
+  ((pointer (typedef "sqlite3")) (pointer (char ())) (pointer (typedef "sqlite3")) (pointer (char ())) )
+  (pointer (typedef "sqlite3_backup"))) (extern))
+(function ("/usr/include/sqlite3.h" 6827)
+ "sqlite3_backup_step"
+ (function
+  ((pointer (typedef "sqlite3_backup")) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 6828)
+ "sqlite3_backup_finish"
+ (function
+  ((pointer (typedef "sqlite3_backup")) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 6829)
+ "sqlite3_backup_remaining"
+ (function
+  ((pointer (typedef "sqlite3_backup")) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 6830)
+ "sqlite3_backup_pagecount"
+ (function
+  ((pointer (typedef "sqlite3_backup")) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 6950)
+ "sqlite3_unlock_notify"
+ (function
+  ((pointer (typedef "sqlite3")) (pointer (function
+   ((pointer (pointer (void ()))) (int ()) )
+   (void ()))) (pointer (void ())) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 6961)
+ "sqlite3_stricmp"
+ (function
+  ((pointer (char ())) (pointer (char ())) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 6962)
+ "sqlite3_strnicmp"
+ (function
+  ((pointer (char ())) (pointer (char ())) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 6977)
+ "sqlite3_strglob"
+ (function
+  ((pointer (char ())) (pointer (char ())) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 7000)
+ "sqlite3_log"
+ (function
+  ((int ()) (pointer (char ())) (void ()))
+  (void ())) (extern))
+(function ("/usr/include/sqlite3.h" 7041)
+ "sqlite3_wal_hook"
+ (function
+  ((pointer (typedef "sqlite3")) (pointer (function
+   ((pointer (void ())) (pointer (typedef "sqlite3")) (pointer (char ())) (int ()) )
+   (int ()))) (pointer (void ())) )
+  (pointer (void ()))) (extern))
+(function ("/usr/include/sqlite3.h" 7068)
+ "sqlite3_wal_autocheckpoint"
+ (function
+  ((pointer (typedef "sqlite3")) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 7086)
+ "sqlite3_wal_checkpoint"
+ (function
+  ((pointer (typedef "sqlite3")) (pointer (char ())) )
+  (int ())) (extern))
+(function ("/usr/include/sqlite3.h" 7164)
+ "sqlite3_wal_checkpoint_v2"
+ (function
+  ((pointer (typedef "sqlite3")) (pointer (char ())) (int ()) (pointer (int ())) (pointer (int ())) )
+  (int ())) (extern))
+(macro ("/usr/include/sqlite3.h" 7174) "SQLITE_CHECKPOINT_PASSIVE" "0")
+(macro ("/usr/include/sqlite3.h" 7175) "SQLITE_CHECKPOINT_FULL" "1")
+(macro ("/usr/include/sqlite3.h" 7176) "SQLITE_CHECKPOINT_RESTART" "2")
+(function ("/usr/include/sqlite3.h" 7192)
+ "sqlite3_vtab_config"
+ (function
+  ((pointer (typedef "sqlite3")) (int ()) (void ()))
+  (int ())) (extern))
+(macro ("/usr/include/sqlite3.h" 7233) "SQLITE_VTAB_CONSTRAINT_SUPPORT" "1")
+(function ("/usr/include/sqlite3.h" 7245)
+ "sqlite3_vtab_on_conflict"
+ (function
+  ((pointer (typedef "sqlite3")) )
+  (int ())) (extern))
+(macro ("/usr/include/sqlite3.h" 7258) "SQLITE_ROLLBACK" "1")
+(macro ("/usr/include/sqlite3.h" 7260) "SQLITE_FAIL" "3")
+(macro ("/usr/include/sqlite3.h" 7262) "SQLITE_REPLACE" "5")
+(macro ("/usr/include/sqlite3.h" 7293) "_SQLITE3RTREE_H_" "")
+(struct ("" 0)
+ "sqlite3_rtree_geometry"
+ ())
+(type ("/usr/include/sqlite3.h" 7300)
+ "sqlite3_rtree_geometry"
+ (struct-ref "sqlite3_rtree_geometry"))
+(function ("/usr/include/sqlite3.h" 7317)
+ "sqlite3_rtree_geometry_callback"
+ (function
+  ((pointer (typedef "sqlite3")) (pointer (char ())) (pointer (function
+   ((pointer (typedef "sqlite3_rtree_geometry")) (int ()) (pointer (double ())) (pointer (int ())) )
+   (int ()))) (pointer (void ())) )
+  (int ())) (extern))
+(struct ("" 0)
+ "sqlite3_rtree_geometry"
+ (("pContext" (field (pointer (void ())) 0 8))
+  ("nParam" (field (int ()) 8 4))
+  ("aParam" (field (pointer (double ())) 16 8))
+  ("pUser" (field (pointer (void ())) 24 8))
+  ("xDelUser" (field (pointer (function
+   ((pointer (void ())) )
+   (void ()))) 32 8))))
