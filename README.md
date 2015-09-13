@@ -6,23 +6,21 @@ I typically only build 64-bit, but I may get around to building 32-bit CDB files
 
 Packages here so far...
 
-* GTK+3
-* OpenSSL
-* SQLite3
+* [GTK+3](https://developer.gnome.org/gtk3/stable/)
+* [OpenSSL](https://www.openssl.org/)
+* [SQLite3](https://sqlite.org/)
 
 ## Quickstart
 
-To use these in ClozureCL for yourself:
-
-1. Clone this repo somewhere. I like ~/ccl-headers myself.
+First, Clone this repo somewhere. I like ~/ccl-headers myself.
 
     [~] $ git clone http://github.com/massung/ccl-headers.git
 
-2. Add symlinks or copy each folder into the x86-headers64 folder of CCL.
+Next, add symbolic links or copy each folder into the appropriate headers folder of your CCL installation path. For example, I simply have CCL checked out to `~/ccl`. Since I use 64-bit, I created symbolic links to each interface in the `~/ccl/x86-headers64` folder.
 
     [~/ccl/x86-headers64] $ ln -s ~/ccl-headers/x86_64/gtk3 .
 
-3. Launch CCL and things should "just work".
+Finally, launch CCL and things should "just work" (assuming you have the appropriate dynamic library installed for the package you're wanting to uses).
 
     $ lx86cl64
     Welcome to Clozure Common Lisp Version 1.10-r16196  (LinuxX8664)!
