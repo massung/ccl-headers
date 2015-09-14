@@ -1,6 +1,6 @@
-# ClozureCL Interface Translator Files
+# ClozureCL Interface Directories
 
-It took me a little bit to figure out [FFIGEN](http://ccl.clozure.com/docs/ccl.html#overview_in_the-interface-translator), so as I generate the CDBs for each of the libraries I end up using the most, I'll make them available here.
+It took me a little bit to figure out how to properly create [interface directories](http://ccl.clozure.com/docs/ccl.html#creating-new-interface-directories) using [FFIGEN](http://www.ccs.neu.edu/home/lth/ffigen). But, now that I have a nice setup to do so, as I generate the CDBs for each of the libraries I end up using the most, I'll make them available here.
 
 I typically only build 64-bit, but I may get around to building 32-bit CDB files as well.
 
