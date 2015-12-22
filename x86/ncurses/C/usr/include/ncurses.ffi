@@ -1,0 +1,3567 @@
+(macro ("/usr/include/ncurses.h" 1) "__STDC_HOSTED__" "1")
+(macro ("/usr/include/ncurses.h" 1) "__OBJC__" "1")
+(macro ("/usr/include/ncurses.h" 1) "__GNUC__" "4")
+(macro ("/usr/include/ncurses.h" 1) "__GNUC_MINOR__" "0")
+(macro ("/usr/include/ncurses.h" 1) "__GNUC_PATCHLEVEL__" "0")
+(macro ("/usr/include/ncurses.h" 1) "__SIZE_TYPE__" "long unsigned int")
+(macro ("/usr/include/ncurses.h" 1) "__PTRDIFF_TYPE__" "long int")
+(macro ("/usr/include/ncurses.h" 1) "__WCHAR_TYPE__" "int")
+(macro ("/usr/include/ncurses.h" 1) "__WINT_TYPE__" "unsigned int")
+(macro ("/usr/include/ncurses.h" 1) "__INTMAX_TYPE__" "long int")
+(macro ("/usr/include/ncurses.h" 1) "__UINTMAX_TYPE__" "long unsigned int")
+(macro ("/usr/include/ncurses.h" 1) "__GXX_ABI_VERSION" "1002")
+(macro ("/usr/include/ncurses.h" 1) "__SCHAR_MAX__" "127")
+(macro ("/usr/include/ncurses.h" 1) "__SHRT_MAX__" "32767")
+(macro ("/usr/include/ncurses.h" 1) "__INT_MAX__" "2147483647")
+(macro ("/usr/include/ncurses.h" 1) "__LONG_MAX__" "9223372036854775807L")
+(macro ("/usr/include/ncurses.h" 1) "__LONG_LONG_MAX__" "9223372036854775807LL")
+(macro ("/usr/include/ncurses.h" 1) "__WCHAR_MAX__" "2147483647")
+(macro ("/usr/include/ncurses.h" 1) "__CHAR_BIT__" "8")
+(macro ("/usr/include/ncurses.h" 1) "__INTMAX_MAX__" "9223372036854775807L")
+(macro ("/usr/include/ncurses.h" 1) "__FLT_EVAL_METHOD__" "0")
+(macro ("/usr/include/ncurses.h" 1) "__FLT_RADIX__" "2")
+(macro ("/usr/include/ncurses.h" 1) "__FLT_MANT_DIG__" "24")
+(macro ("/usr/include/ncurses.h" 1) "__FLT_DIG__" "6")
+(macro ("/usr/include/ncurses.h" 1) "__FLT_MIN_EXP__" "(-125)")
+(macro ("/usr/include/ncurses.h" 1) "__FLT_MIN_10_EXP__" "(-37)")
+(macro ("/usr/include/ncurses.h" 1) "__FLT_MAX_EXP__" "128")
+(macro ("/usr/include/ncurses.h" 1) "__FLT_MAX_10_EXP__" "38")
+(macro ("/usr/include/ncurses.h" 1) "__FLT_MAX__" "3.40282347e+38F")
+(macro ("/usr/include/ncurses.h" 1) "__FLT_MIN__" "1.17549435e-38F")
+(macro ("/usr/include/ncurses.h" 1) "__FLT_EPSILON__" "1.19209290e-7F")
+(macro ("/usr/include/ncurses.h" 1) "__FLT_DENORM_MIN__" "1.40129846e-45F")
+(macro ("/usr/include/ncurses.h" 1) "__FLT_HAS_INFINITY__" "1")
+(macro ("/usr/include/ncurses.h" 1) "__FLT_HAS_QUIET_NAN__" "1")
+(macro ("/usr/include/ncurses.h" 1) "__DBL_MANT_DIG__" "53")
+(macro ("/usr/include/ncurses.h" 1) "__DBL_DIG__" "15")
+(macro ("/usr/include/ncurses.h" 1) "__DBL_MIN_EXP__" "(-1021)")
+(macro ("/usr/include/ncurses.h" 1) "__DBL_MIN_10_EXP__" "(-307)")
+(macro ("/usr/include/ncurses.h" 1) "__DBL_MAX_EXP__" "1024")
+(macro ("/usr/include/ncurses.h" 1) "__DBL_MAX_10_EXP__" "308")
+(macro ("/usr/include/ncurses.h" 1) "__DBL_MAX__" "1.7976931348623157e+308")
+(macro ("/usr/include/ncurses.h" 1) "__DBL_MIN__" "2.2250738585072014e-308")
+(macro ("/usr/include/ncurses.h" 1) "__DBL_EPSILON__" "2.2204460492503131e-16")
+(macro ("/usr/include/ncurses.h" 1) "__DBL_DENORM_MIN__" "4.9406564584124654e-324")
+(macro ("/usr/include/ncurses.h" 1) "__DBL_HAS_INFINITY__" "1")
+(macro ("/usr/include/ncurses.h" 1) "__DBL_HAS_QUIET_NAN__" "1")
+(macro ("/usr/include/ncurses.h" 1) "__LDBL_MANT_DIG__" "64")
+(macro ("/usr/include/ncurses.h" 1) "__LDBL_DIG__" "18")
+(macro ("/usr/include/ncurses.h" 1) "__LDBL_MIN_EXP__" "(-16381)")
+(macro ("/usr/include/ncurses.h" 1) "__LDBL_MIN_10_EXP__" "(-4931)")
+(macro ("/usr/include/ncurses.h" 1) "__LDBL_MAX_EXP__" "16384")
+(macro ("/usr/include/ncurses.h" 1) "__LDBL_MAX_10_EXP__" "4932")
+(macro ("/usr/include/ncurses.h" 1) "__DECIMAL_DIG__" "21")
+(macro ("/usr/include/ncurses.h" 1) "__LDBL_MAX__" "1.18973149535723176502e+4932L")
+(macro ("/usr/include/ncurses.h" 1) "__LDBL_MIN__" "3.36210314311209350626e-4932L")
+(macro ("/usr/include/ncurses.h" 1) "__LDBL_EPSILON__" "1.08420217248550443401e-19L")
+(macro ("/usr/include/ncurses.h" 1) "__LDBL_DENORM_MIN__" "3.64519953188247460253e-4951L")
+(macro ("/usr/include/ncurses.h" 1) "__LDBL_HAS_INFINITY__" "1")
+(macro ("/usr/include/ncurses.h" 1) "__LDBL_HAS_QUIET_NAN__" "1")
+(macro ("/usr/include/ncurses.h" 1) "__REGISTER_PREFIX__" "")
+(macro ("/usr/include/ncurses.h" 1) "__USER_LABEL_PREFIX__" "")
+(macro ("/usr/include/ncurses.h" 1) "__VERSION__" "\"4.0.0\"")
+(macro ("/usr/include/ncurses.h" 1) "_LP64" "1")
+(macro ("/usr/include/ncurses.h" 1) "__LP64__" "1")
+(macro ("/usr/include/ncurses.h" 1) "__NO_INLINE__" "1")
+(macro ("/usr/include/ncurses.h" 1) "__FINITE_MATH_ONLY__" "0")
+(macro ("/usr/include/ncurses.h" 1) "__amd64" "1")
+(macro ("/usr/include/ncurses.h" 1) "__amd64__" "1")
+(macro ("/usr/include/ncurses.h" 1) "__x86_64" "1")
+(macro ("/usr/include/ncurses.h" 1) "__x86_64__" "1")
+(macro ("/usr/include/ncurses.h" 1) "__tune_k8__" "1")
+(macro ("/usr/include/ncurses.h" 1) "__MMX__" "1")
+(macro ("/usr/include/ncurses.h" 1) "__SSE__" "1")
+(macro ("/usr/include/ncurses.h" 1) "__SSE2__" "1")
+(macro ("/usr/include/ncurses.h" 1) "__SSE_MATH__" "1")
+(macro ("/usr/include/ncurses.h" 1) "__SSE2_MATH__" "1")
+(macro ("/usr/include/ncurses.h" 1) "__k8" "1")
+(macro ("/usr/include/ncurses.h" 1) "__k8__" "1")
+(macro ("/usr/include/ncurses.h" 1) "__gnu_linux__" "1")
+(macro ("/usr/include/ncurses.h" 1) "__linux" "1")
+(macro ("/usr/include/ncurses.h" 1) "__linux__" "1")
+(macro ("/usr/include/ncurses.h" 1) "linux" "1")
+(macro ("/usr/include/ncurses.h" 1) "__unix" "1")
+(macro ("/usr/include/ncurses.h" 1) "__unix__" "1")
+(macro ("/usr/include/ncurses.h" 1) "unix" "1")
+(macro ("/usr/include/ncurses.h" 1) "__ELF__" "1")
+(macro ("/usr/include/ncurses.h" 38) "__NCURSES_H" "")
+(macro ("/usr/include/ncurses.h" 40) "CURSES" "1")
+(macro ("/usr/include/ncurses.h" 41) "CURSES_H" "1")
+(macro ("/usr/include/ncurses.h" 44) "NCURSES_VERSION_MAJOR" "5")
+(macro ("/usr/include/ncurses.h" 45) "NCURSES_VERSION_MINOR" "9")
+(macro ("/usr/include/ncurses.h" 46) "NCURSES_VERSION_PATCH" "20140118")
+(undef-macro "NCURSES_VERSION")
+(macro ("/usr/include/ncurses.h" 50) "NCURSES_VERSION" "\"5.9\"")
+(macro ("/usr/include/ncurses.h" 55) "NCURSES_MOUSE_VERSION" "1")
+(macro ("/usr/include/ncurses_dll.h" 31) "NCURSES_DLL_H_incl" "1")
+(macro ("/usr/include/ncurses_dll.h" 37) "NCURSES_PUBLIC_VAR ( name )" "_nc_ ##name")
+(macro ("/usr/include/ncurses_dll.h" 38) "NCURSES_WRAPPED_VAR ( type , name )" "extern type NCURSES_PUBLIC_VAR(name)(void)")
+(undef-macro "NCURSES_DLL")
+(macro ("/usr/include/ncurses_dll.h" 45) "NCURSES_STATIC" "")
+(macro ("/usr/include/ncurses_dll.h" 74) "NCURSES_IMPEXP" "")
+(macro ("/usr/include/ncurses_dll.h" 77) "NCURSES_API" "")
+(macro ("/usr/include/ncurses_dll.h" 80) "NCURSES_EXPORT ( type )" "NCURSES_IMPEXP type NCURSES_API")
+(macro ("/usr/include/ncurses_dll.h" 83) "NCURSES_EXPORT_VAR ( type )" "NCURSES_IMPEXP type")
+(macro ("/usr/include/ncurses.h" 66) "NCURSES_ENABLE_STDBOOL_H" "1")
+(macro ("/usr/include/ncurses.h" 80) "NCURSES_ATTR_T" "int")
+(undef-macro "NCURSES_CONST")
+(macro ("/usr/include/ncurses.h" 88) "NCURSES_CONST" "const")
+(undef-macro "NCURSES_INLINE")
+(macro ("/usr/include/ncurses.h" 91) "NCURSES_INLINE" "inline")
+(undef-macro "NCURSES_COLOR_T")
+(macro ("/usr/include/ncurses.h" 97) "NCURSES_COLOR_T" "short")
+(macro ("/usr/include/ncurses.h" 103) "NCURSES_OPAQUE" "0")
+(macro ("/usr/include/ncurses.h" 110) "NCURSES_REENTRANT" "0")
+(undef-macro "NCURSES_INTEROP_FUNCS")
+(macro ("/usr/include/ncurses.h" 117) "NCURSES_INTEROP_FUNCS" "0")
+(undef-macro "NCURSES_SIZE_T")
+(macro ("/usr/include/ncurses.h" 123) "NCURSES_SIZE_T" "short")
+(undef-macro "NCURSES_TPARM_VARARGS")
+(macro ("/usr/include/ncurses.h" 129) "NCURSES_TPARM_VARARGS" "1")
+(undef-macro "NCURSES_TPARM_ARG")
+(macro ("/usr/include/ncurses.h" 136) "NCURSES_TPARM_ARG" "long")
+(undef-macro "NCURSES_CH_T")
+(macro ("/usr/include/ncurses.h" 144) "NCURSES_CH_T" "chtype")
+(type ("/usr/include/ncurses.h" 150)
+ "chtype"
+ (unsigned-long ()))
+(type ("/usr/include/ncurses.h" 151)
+ "mmask_t"
+ (unsigned-long ()))
+(macro ("/usr/include/stdio.h" 26) "_STDIO_H" "1")
+(macro ("/usr/include/features.h" 19) "_FEATURES_H" "1")
+(undef-macro "__USE_ISOC11")
+(undef-macro "__USE_ISOC99")
+(undef-macro "__USE_ISOC95")
+(undef-macro "__USE_ISOCXX11")
+(undef-macro "__USE_POSIX")
+(undef-macro "__USE_POSIX2")
+(undef-macro "__USE_POSIX199309")
+(undef-macro "__USE_POSIX199506")
+(undef-macro "__USE_XOPEN")
+(undef-macro "__USE_XOPEN_EXTENDED")
+(undef-macro "__USE_UNIX98")
+(undef-macro "__USE_XOPEN2K")
+(undef-macro "__USE_XOPEN2KXSI")
+(undef-macro "__USE_XOPEN2K8")
+(undef-macro "__USE_XOPEN2K8XSI")
+(undef-macro "__USE_LARGEFILE")
+(undef-macro "__USE_LARGEFILE64")
+(undef-macro "__USE_FILE_OFFSET64")
+(undef-macro "__USE_BSD")
+(undef-macro "__USE_SVID")
+(undef-macro "__USE_MISC")
+(undef-macro "__USE_ATFILE")
+(undef-macro "__USE_GNU")
+(undef-macro "__USE_REENTRANT")
+(undef-macro "__USE_FORTIFY_LEVEL")
+(undef-macro "__KERNEL_STRICT_NAMES")
+(macro ("/usr/include/features.h" 131) "__KERNEL_STRICT_NAMES" "")
+(macro ("/usr/include/features.h" 142) "__GNUC_PREREQ ( maj , min )" "((__GNUC__ << 16) + __GNUC_MINOR__ >= ((maj) << 16) + (min))")
+(undef-macro "_DEFAULT_SOURCE")
+(macro ("/usr/include/features.h" 186) "_DEFAULT_SOURCE" "1")
+(undef-macro "_BSD_SOURCE")
+(macro ("/usr/include/features.h" 188) "_BSD_SOURCE" "1")
+(undef-macro "_SVID_SOURCE")
+(macro ("/usr/include/features.h" 190) "_SVID_SOURCE" "1")
+(macro ("/usr/include/features.h" 225) "__USE_POSIX_IMPLICITLY" "1")
+(undef-macro "_POSIX_SOURCE")
+(macro ("/usr/include/features.h" 228) "_POSIX_SOURCE" "1")
+(undef-macro "_POSIX_C_SOURCE")
+(macro ("/usr/include/features.h" 230) "_POSIX_C_SOURCE" "200809L")
+(macro ("/usr/include/features.h" 248) "__USE_POSIX" "1")
+(macro ("/usr/include/features.h" 252) "__USE_POSIX2" "1")
+(macro ("/usr/include/features.h" 256) "__USE_POSIX199309" "1")
+(macro ("/usr/include/features.h" 260) "__USE_POSIX199506" "1")
+(macro ("/usr/include/features.h" 264) "__USE_XOPEN2K" "1")
+(undef-macro "__USE_ISOC95")
+(macro ("/usr/include/features.h" 266) "__USE_ISOC95" "1")
+(undef-macro "__USE_ISOC99")
+(macro ("/usr/include/features.h" 268) "__USE_ISOC99" "1")
+(macro ("/usr/include/features.h" 272) "__USE_XOPEN2K8" "1")
+(undef-macro "_ATFILE_SOURCE")
+(macro ("/usr/include/features.h" 274) "_ATFILE_SOURCE" "1")
+(macro ("/usr/include/features.h" 316) "__USE_MISC" "1")
+(macro ("/usr/include/features.h" 320) "__USE_BSD" "1")
+(macro ("/usr/include/features.h" 324) "__USE_SVID" "1")
+(macro ("/usr/include/features.h" 328) "__USE_ATFILE" "1")
+(macro ("/usr/include/features.h" 347) "__USE_FORTIFY_LEVEL" "0")
+(macro ("/usr/include/stdc-predef.h" 19) "_STDC_PREDEF_H" "1")
+(macro ("/usr/include/stdc-predef.h" 41) "__STDC_IEC_559__" "1")
+(macro ("/usr/include/stdc-predef.h" 49) "__STDC_IEC_559_COMPLEX__" "1")
+(macro ("/usr/include/stdc-predef.h" 54) "__STDC_ISO_10646__" "201103L")
+(macro ("/usr/include/stdc-predef.h" 57) "__STDC_NO_THREADS__" "1")
+(undef-macro "__GNU_LIBRARY__")
+(macro ("/usr/include/features.h" 361) "__GNU_LIBRARY__" "6")
+(macro ("/usr/include/features.h" 365) "__GLIBC__" "2")
+(macro ("/usr/include/features.h" 366) "__GLIBC_MINOR__" "19")
+(macro ("/usr/include/features.h" 368) "__GLIBC_PREREQ ( maj , min )" "((__GLIBC__ << 16) + __GLIBC_MINOR__ >= ((maj) << 16) + (min))")
+(macro ("/usr/include/sys/cdefs.h" 19) "_SYS_CDEFS_H" "1")
+(undef-macro "__P")
+(undef-macro "__PMT")
+(macro ("/usr/include/sys/cdefs.h" 45) "__LEAF" "")
+(macro ("/usr/include/sys/cdefs.h" 46) "__LEAF_ATTR" "")
+(macro ("/usr/include/sys/cdefs.h" 55) "__THROW" "__attribute__ ((__nothrow__ __LEAF))")
+(macro ("/usr/include/sys/cdefs.h" 56) "__THROWNL" "__attribute__ ((__nothrow__))")
+(macro ("/usr/include/sys/cdefs.h" 57) "__NTH ( fct )" "__attribute__ ((__nothrow__ __LEAF)) fct")
+(macro ("/usr/include/sys/cdefs.h" 82) "__P ( args )" "args")
+(macro ("/usr/include/sys/cdefs.h" 83) "__PMT ( args )" "args")
+(macro ("/usr/include/sys/cdefs.h" 88) "__CONCAT ( x , y )" "x ## y")
+(macro ("/usr/include/sys/cdefs.h" 89) "__STRING ( x )" "#x")
+(macro ("/usr/include/sys/cdefs.h" 92) "__ptr_t" "void *")
+(macro ("/usr/include/sys/cdefs.h" 93) "__long_double_t" "long double")
+(macro ("/usr/include/sys/cdefs.h" 101) "__BEGIN_DECLS" "")
+(macro ("/usr/include/sys/cdefs.h" 102) "__END_DECLS" "")
+(macro ("/usr/include/sys/cdefs.h" 122) "__BEGIN_NAMESPACE_STD" "")
+(macro ("/usr/include/sys/cdefs.h" 123) "__END_NAMESPACE_STD" "")
+(macro ("/usr/include/sys/cdefs.h" 124) "__USING_NAMESPACE_STD ( name )" "")
+(macro ("/usr/include/sys/cdefs.h" 125) "__BEGIN_NAMESPACE_C99" "")
+(macro ("/usr/include/sys/cdefs.h" 126) "__END_NAMESPACE_C99" "")
+(macro ("/usr/include/sys/cdefs.h" 127) "__USING_NAMESPACE_C99 ( name )" "")
+(macro ("/usr/include/sys/cdefs.h" 132) "__bos ( ptr )" "__builtin_object_size (ptr, __USE_FORTIFY_LEVEL > 1)")
+(macro ("/usr/include/sys/cdefs.h" 133) "__bos0 ( ptr )" "__builtin_object_size (ptr, 0)")
+(macro ("/usr/include/sys/cdefs.h" 134) "__fortify_function" "__extern_always_inline __attribute_artificial__")
+(macro ("/usr/include/sys/cdefs.h" 143) "__warndecl ( name , msg )" "extern void name (void)")
+(macro ("/usr/include/sys/cdefs.h" 144) "__warnattr ( msg )" "")
+(macro ("/usr/include/sys/cdefs.h" 145) "__errordecl ( name , msg )" "extern void name (void)")
+(macro ("/usr/include/sys/cdefs.h" 151) "__flexarr" "[]")
+(macro ("/usr/include/sys/cdefs.h" 178) "__REDIRECT ( name , proto , alias )" "name proto __asm__ (__ASMNAME (#alias))")
+(macro ("/usr/include/sys/cdefs.h" 185) "__REDIRECT_NTH ( name , proto , alias )" "name proto __asm__ (__ASMNAME (#alias)) __THROW")
+(macro ("/usr/include/sys/cdefs.h" 187) "__REDIRECT_NTHNL ( name , proto , alias )" "name proto __asm__ (__ASMNAME (#alias)) __THROWNL")
+(macro ("/usr/include/sys/cdefs.h" 190) "__ASMNAME ( cname )" "__ASMNAME2 (__USER_LABEL_PREFIX__, cname)")
+(macro ("/usr/include/sys/cdefs.h" 191) "__ASMNAME2 ( prefix , cname )" "__STRING (prefix) cname")
+(macro ("/usr/include/sys/cdefs.h" 212) "__attribute_malloc__" "__attribute__ ((__malloc__))")
+(macro ("/usr/include/sys/cdefs.h" 223) "__attribute_alloc_size__ ( params )" "")
+(macro ("/usr/include/sys/cdefs.h" 230) "__attribute_pure__" "__attribute__ ((__pure__))")
+(macro ("/usr/include/sys/cdefs.h" 237) "__attribute_const__" "__attribute__ ((__const__))")
+(macro ("/usr/include/sys/cdefs.h" 246) "__attribute_used__" "__attribute__ ((__used__))")
+(macro ("/usr/include/sys/cdefs.h" 247) "__attribute_noinline__" "__attribute__ ((__noinline__))")
+(macro ("/usr/include/sys/cdefs.h" 255) "__attribute_deprecated__" "__attribute__ ((__deprecated__))")
+(macro ("/usr/include/sys/cdefs.h" 267) "__attribute_format_arg__ ( x )" "__attribute__ ((__format_arg__ (x)))")
+(macro ("/usr/include/sys/cdefs.h" 277) "__attribute_format_strfmon__ ( a , b )" "__attribute__ ((__format__ (__strfmon__, a, b)))")
+(macro ("/usr/include/sys/cdefs.h" 286) "__nonnull ( params )" "__attribute__ ((__nonnull__ params))")
+(macro ("/usr/include/sys/cdefs.h" 294) "__attribute_warn_unused_result__" "__attribute__ ((__warn_unused_result__))")
+(macro ("/usr/include/sys/cdefs.h" 303) "__wur" "")
+(macro ("/usr/include/sys/cdefs.h" 308) "__always_inline" "__inline __attribute__ ((__always_inline__))")
+(macro ("/usr/include/sys/cdefs.h" 318) "__attribute_artificial__" "")
+(macro ("/usr/include/sys/cdefs.h" 331) "__extern_inline" "extern __inline")
+(macro ("/usr/include/sys/cdefs.h" 332) "__extern_always_inline" "extern __always_inline")
+(macro ("/usr/include/sys/cdefs.h" 363) "__restrict_arr" "__restrict")
+(macro ("/usr/include/sys/cdefs.h" 378) "__glibc_unlikely ( cond )" "__builtin_expect ((cond), 0)")
+(macro ("/usr/include/sys/cdefs.h" 379) "__glibc_likely ( cond )" "__builtin_expect ((cond), 1)")
+(macro ("/usr/include/bits/wordsize.h" 4) "__WORDSIZE" "64")
+(macro ("/usr/include/bits/wordsize.h" 10) "__WORDSIZE_TIME64_COMPAT32" "1")
+(macro ("/usr/include/bits/wordsize.h" 12) "__SYSCALL_WORDSIZE" "64")
+(macro ("/usr/include/sys/cdefs.h" 407) "__LDBL_REDIR1 ( name , proto , alias )" "name proto")
+(macro ("/usr/include/sys/cdefs.h" 408) "__LDBL_REDIR ( name , proto )" "name proto")
+(macro ("/usr/include/sys/cdefs.h" 409) "__LDBL_REDIR1_NTH ( name , proto , alias )" "name proto __THROW")
+(macro ("/usr/include/sys/cdefs.h" 410) "__LDBL_REDIR_NTH ( name , proto )" "name proto __THROW")
+(macro ("/usr/include/sys/cdefs.h" 411) "__LDBL_REDIR_DECL ( name )" "")
+(macro ("/usr/include/sys/cdefs.h" 413) "__REDIRECT_LDBL ( name , proto , alias )" "__REDIRECT (name, proto, alias)")
+(macro ("/usr/include/sys/cdefs.h" 414) "__REDIRECT_NTH_LDBL ( name , proto , alias )" "__REDIRECT_NTH (name, proto, alias)")
+(macro ("/usr/include/gnu/stubs-64.h" 10) "__stub_bdflush" "")
+(macro ("/usr/include/gnu/stubs-64.h" 11) "__stub_chflags" "")
+(macro ("/usr/include/gnu/stubs-64.h" 12) "__stub_fattach" "")
+(macro ("/usr/include/gnu/stubs-64.h" 13) "__stub_fchflags" "")
+(macro ("/usr/include/gnu/stubs-64.h" 14) "__stub_fdetach" "")
+(macro ("/usr/include/gnu/stubs-64.h" 15) "__stub_getmsg" "")
+(macro ("/usr/include/gnu/stubs-64.h" 16) "__stub_gtty" "")
+(macro ("/usr/include/gnu/stubs-64.h" 17) "__stub_lchmod" "")
+(macro ("/usr/include/gnu/stubs-64.h" 18) "__stub_putmsg" "")
+(macro ("/usr/include/gnu/stubs-64.h" 19) "__stub_revoke" "")
+(macro ("/usr/include/gnu/stubs-64.h" 20) "__stub_setlogin" "")
+(macro ("/usr/include/gnu/stubs-64.h" 21) "__stub_sigreturn" "")
+(macro ("/usr/include/gnu/stubs-64.h" 22) "__stub_sstk" "")
+(macro ("/usr/include/gnu/stubs-64.h" 23) "__stub_stty" "")
+(macro ("/usr/include/stdio.h" 31) "__need_size_t" "")
+(macro ("/usr/include/stdio.h" 32) "__need_NULL" "")
+(macro ("/home/jeff/bin/../ffigen4/ffigen/include/stddef.h" 189) "__size_t__" "")
+(macro ("/home/jeff/bin/../ffigen4/ffigen/include/stddef.h" 190) "__SIZE_T__" "")
+(macro ("/home/jeff/bin/../ffigen4/ffigen/include/stddef.h" 191) "_SIZE_T" "")
+(macro ("/home/jeff/bin/../ffigen4/ffigen/include/stddef.h" 192) "_SYS_SIZE_T_H" "")
+(macro ("/home/jeff/bin/../ffigen4/ffigen/include/stddef.h" 193) "_T_SIZE_" "")
+(macro ("/home/jeff/bin/../ffigen4/ffigen/include/stddef.h" 194) "_T_SIZE" "")
+(macro ("/home/jeff/bin/../ffigen4/ffigen/include/stddef.h" 195) "__SIZE_T" "")
+(macro ("/home/jeff/bin/../ffigen4/ffigen/include/stddef.h" 196) "_SIZE_T_" "")
+(macro ("/home/jeff/bin/../ffigen4/ffigen/include/stddef.h" 197) "_BSD_SIZE_T_" "")
+(macro ("/home/jeff/bin/../ffigen4/ffigen/include/stddef.h" 198) "_SIZE_T_DEFINED_" "")
+(macro ("/home/jeff/bin/../ffigen4/ffigen/include/stddef.h" 199) "_SIZE_T_DEFINED" "")
+(macro ("/home/jeff/bin/../ffigen4/ffigen/include/stddef.h" 200) "_BSD_SIZE_T_DEFINED_" "")
+(macro ("/home/jeff/bin/../ffigen4/ffigen/include/stddef.h" 201) "_SIZE_T_DECLARED" "")
+(macro ("/home/jeff/bin/../ffigen4/ffigen/include/stddef.h" 202) "___int_size_t_h" "")
+(macro ("/home/jeff/bin/../ffigen4/ffigen/include/stddef.h" 203) "_GCC_SIZE_T" "")
+(macro ("/home/jeff/bin/../ffigen4/ffigen/include/stddef.h" 204) "_SIZET_" "")
+(macro ("/home/jeff/bin/../ffigen4/ffigen/include/stddef.h" 208) "__size_t" "")
+(type ("/home/jeff/bin/../ffigen4/ffigen/include/stddef.h" 214)
+ "size_t"
+ (unsigned-long ()))
+(undef-macro "__need_size_t")
+(undef-macro "NULL")
+(macro ("/home/jeff/bin/../ffigen4/ffigen/include/stddef.h" 403) "NULL" "((void *)0)")
+(undef-macro "__need_NULL")
+(macro ("/usr/include/bits/types.h" 24) "_BITS_TYPES_H" "1")
+(macro ("/usr/include/bits/wordsize.h" 4) "__WORDSIZE" "64")
+(macro ("/usr/include/bits/wordsize.h" 10) "__WORDSIZE_TIME64_COMPAT32" "1")
+(macro ("/usr/include/bits/wordsize.h" 12) "__SYSCALL_WORDSIZE" "64")
+(type ("/usr/include/bits/types.h" 30)
+ "__u_char"
+ (unsigned-char ()))
+(type ("/usr/include/bits/types.h" 31)
+ "__u_short"
+ (unsigned-short ()))
+(type ("/usr/include/bits/types.h" 32)
+ "__u_int"
+ (unsigned ()))
+(type ("/usr/include/bits/types.h" 33)
+ "__u_long"
+ (unsigned-long ()))
+(type ("/usr/include/bits/types.h" 36)
+ "__int8_t"
+ (signed-char ()))
+(type ("/usr/include/bits/types.h" 37)
+ "__uint8_t"
+ (unsigned-char ()))
+(type ("/usr/include/bits/types.h" 38)
+ "__int16_t"
+ (short ()))
+(type ("/usr/include/bits/types.h" 39)
+ "__uint16_t"
+ (unsigned-short ()))
+(type ("/usr/include/bits/types.h" 40)
+ "__int32_t"
+ (int ()))
+(type ("/usr/include/bits/types.h" 41)
+ "__uint32_t"
+ (unsigned ()))
+(type ("/usr/include/bits/types.h" 43)
+ "__int64_t"
+ (long ()))
+(type ("/usr/include/bits/types.h" 44)
+ "__uint64_t"
+ (unsigned-long ()))
+(type ("/usr/include/bits/types.h" 52)
+ "__quad_t"
+ (long ()))
+(type ("/usr/include/bits/types.h" 53)
+ "__u_quad_t"
+ (unsigned-long ()))
+(macro ("/usr/include/bits/types.h" 89) "__S16_TYPE" "short int")
+(macro ("/usr/include/bits/types.h" 90) "__U16_TYPE" "unsigned short int")
+(macro ("/usr/include/bits/types.h" 91) "__S32_TYPE" "int")
+(macro ("/usr/include/bits/types.h" 92) "__U32_TYPE" "unsigned int")
+(macro ("/usr/include/bits/types.h" 93) "__SLONGWORD_TYPE" "long int")
+(macro ("/usr/include/bits/types.h" 94) "__ULONGWORD_TYPE" "unsigned long int")
+(macro ("/usr/include/bits/types.h" 108) "__SQUAD_TYPE" "long int")
+(macro ("/usr/include/bits/types.h" 109) "__UQUAD_TYPE" "unsigned long int")
+(macro ("/usr/include/bits/types.h" 110) "__SWORD_TYPE" "long int")
+(macro ("/usr/include/bits/types.h" 111) "__UWORD_TYPE" "unsigned long int")
+(macro ("/usr/include/bits/types.h" 112) "__SLONG32_TYPE" "int")
+(macro ("/usr/include/bits/types.h" 113) "__ULONG32_TYPE" "unsigned int")
+(macro ("/usr/include/bits/types.h" 114) "__S64_TYPE" "long int")
+(macro ("/usr/include/bits/types.h" 115) "__U64_TYPE" "unsigned long int")
+(macro ("/usr/include/bits/types.h" 117) "__STD_TYPE" "typedef")
+(macro ("/usr/include/bits/typesizes.h" 24) "_BITS_TYPESIZES_H" "1")
+(macro ("/usr/include/bits/typesizes.h" 34) "__SYSCALL_SLONG_TYPE" "__SLONGWORD_TYPE")
+(macro ("/usr/include/bits/typesizes.h" 35) "__SYSCALL_ULONG_TYPE" "__ULONGWORD_TYPE")
+(macro ("/usr/include/bits/typesizes.h" 38) "__DEV_T_TYPE" "__UQUAD_TYPE")
+(macro ("/usr/include/bits/typesizes.h" 39) "__UID_T_TYPE" "__U32_TYPE")
+(macro ("/usr/include/bits/typesizes.h" 40) "__GID_T_TYPE" "__U32_TYPE")
+(macro ("/usr/include/bits/typesizes.h" 41) "__INO_T_TYPE" "__SYSCALL_ULONG_TYPE")
+(macro ("/usr/include/bits/typesizes.h" 42) "__INO64_T_TYPE" "__UQUAD_TYPE")
+(macro ("/usr/include/bits/typesizes.h" 43) "__MODE_T_TYPE" "__U32_TYPE")
+(macro ("/usr/include/bits/typesizes.h" 45) "__NLINK_T_TYPE" "__SYSCALL_ULONG_TYPE")
+(macro ("/usr/include/bits/typesizes.h" 46) "__FSWORD_T_TYPE" "__SYSCALL_SLONG_TYPE")
+(macro ("/usr/include/bits/typesizes.h" 51) "__OFF_T_TYPE" "__SYSCALL_SLONG_TYPE")
+(macro ("/usr/include/bits/typesizes.h" 52) "__OFF64_T_TYPE" "__SQUAD_TYPE")
+(macro ("/usr/include/bits/typesizes.h" 53) "__PID_T_TYPE" "__S32_TYPE")
+(macro ("/usr/include/bits/typesizes.h" 54) "__RLIM_T_TYPE" "__SYSCALL_ULONG_TYPE")
+(macro ("/usr/include/bits/typesizes.h" 55) "__RLIM64_T_TYPE" "__UQUAD_TYPE")
+(macro ("/usr/include/bits/typesizes.h" 56) "__BLKCNT_T_TYPE" "__SYSCALL_SLONG_TYPE")
+(macro ("/usr/include/bits/typesizes.h" 57) "__BLKCNT64_T_TYPE" "__SQUAD_TYPE")
+(macro ("/usr/include/bits/typesizes.h" 58) "__FSBLKCNT_T_TYPE" "__SYSCALL_ULONG_TYPE")
+(macro ("/usr/include/bits/typesizes.h" 59) "__FSBLKCNT64_T_TYPE" "__UQUAD_TYPE")
+(macro ("/usr/include/bits/typesizes.h" 60) "__FSFILCNT_T_TYPE" "__SYSCALL_ULONG_TYPE")
+(macro ("/usr/include/bits/typesizes.h" 61) "__FSFILCNT64_T_TYPE" "__UQUAD_TYPE")
+(macro ("/usr/include/bits/typesizes.h" 62) "__ID_T_TYPE" "__U32_TYPE")
+(macro ("/usr/include/bits/typesizes.h" 63) "__CLOCK_T_TYPE" "__SYSCALL_SLONG_TYPE")
+(macro ("/usr/include/bits/typesizes.h" 64) "__TIME_T_TYPE" "__SYSCALL_SLONG_TYPE")
+(macro ("/usr/include/bits/typesizes.h" 65) "__USECONDS_T_TYPE" "__U32_TYPE")
+(macro ("/usr/include/bits/typesizes.h" 66) "__SUSECONDS_T_TYPE" "__SYSCALL_SLONG_TYPE")
+(macro ("/usr/include/bits/typesizes.h" 67) "__DADDR_T_TYPE" "__S32_TYPE")
+(macro ("/usr/include/bits/typesizes.h" 68) "__KEY_T_TYPE" "__S32_TYPE")
+(macro ("/usr/include/bits/typesizes.h" 69) "__CLOCKID_T_TYPE" "__S32_TYPE")
+(macro ("/usr/include/bits/typesizes.h" 70) "__TIMER_T_TYPE" "void *")
+(macro ("/usr/include/bits/typesizes.h" 71) "__BLKSIZE_T_TYPE" "__SYSCALL_SLONG_TYPE")
+(macro ("/usr/include/bits/typesizes.h" 72) "__FSID_T_TYPE" "struct { int __val[2]; }")
+(macro ("/usr/include/bits/typesizes.h" 73) "__SSIZE_T_TYPE" "__SWORD_TYPE")
+(macro ("/usr/include/bits/typesizes.h" 79) "__OFF_T_MATCHES_OFF64_T" "1")
+(macro ("/usr/include/bits/typesizes.h" 82) "__INO_T_MATCHES_INO64_T" "1")
+(macro ("/usr/include/bits/typesizes.h" 86) "__FD_SETSIZE" "1024")
+(type ("/usr/include/bits/types.h" 124)
+ "__dev_t"
+ (unsigned-long ()))
+(type ("/usr/include/bits/types.h" 125)
+ "__uid_t"
+ (unsigned ()))
+(type ("/usr/include/bits/types.h" 126)
+ "__gid_t"
+ (unsigned ()))
+(type ("/usr/include/bits/types.h" 127)
+ "__ino_t"
+ (unsigned-long ()))
+(type ("/usr/include/bits/types.h" 128)
+ "__ino64_t"
+ (unsigned-long ()))
+(type ("/usr/include/bits/types.h" 129)
+ "__mode_t"
+ (unsigned ()))
+(type ("/usr/include/bits/types.h" 130)
+ "__nlink_t"
+ (unsigned-long ()))
+(type ("/usr/include/bits/types.h" 131)
+ "__off_t"
+ (long ()))
+(type ("/usr/include/bits/types.h" 132)
+ "__off64_t"
+ (long ()))
+(type ("/usr/include/bits/types.h" 133)
+ "__pid_t"
+ (int ()))
+(struct ("" 0)
+ "58_/usr/include/ncurses.h"
+ (("__val" (field (array 2 (int ())) 0 8))))
+(type ("/usr/include/bits/types.h" 134)
+ "__fsid_t"
+ (struct-ref "58_/usr/include/ncurses.h"))
+(type ("/usr/include/bits/types.h" 135)
+ "__clock_t"
+ (long ()))
+(type ("/usr/include/bits/types.h" 136)
+ "__rlim_t"
+ (unsigned-long ()))
+(type ("/usr/include/bits/types.h" 137)
+ "__rlim64_t"
+ (unsigned-long ()))
+(type ("/usr/include/bits/types.h" 138)
+ "__id_t"
+ (unsigned ()))
+(type ("/usr/include/bits/types.h" 139)
+ "__time_t"
+ (long ()))
+(type ("/usr/include/bits/types.h" 140)
+ "__useconds_t"
+ (unsigned ()))
+(type ("/usr/include/bits/types.h" 141)
+ "__suseconds_t"
+ (long ()))
+(type ("/usr/include/bits/types.h" 143)
+ "__daddr_t"
+ (int ()))
+(type ("/usr/include/bits/types.h" 144)
+ "__key_t"
+ (int ()))
+(type ("/usr/include/bits/types.h" 147)
+ "__clockid_t"
+ (int ()))
+(type ("/usr/include/bits/types.h" 150)
+ "__timer_t"
+ (pointer (void ())))
+(type ("/usr/include/bits/types.h" 153)
+ "__blksize_t"
+ (long ()))
+(type ("/usr/include/bits/types.h" 158)
+ "__blkcnt_t"
+ (long ()))
+(type ("/usr/include/bits/types.h" 159)
+ "__blkcnt64_t"
+ (long ()))
+(type ("/usr/include/bits/types.h" 162)
+ "__fsblkcnt_t"
+ (unsigned-long ()))
+(type ("/usr/include/bits/types.h" 163)
+ "__fsblkcnt64_t"
+ (unsigned-long ()))
+(type ("/usr/include/bits/types.h" 166)
+ "__fsfilcnt_t"
+ (unsigned-long ()))
+(type ("/usr/include/bits/types.h" 167)
+ "__fsfilcnt64_t"
+ (unsigned-long ()))
+(type ("/usr/include/bits/types.h" 170)
+ "__fsword_t"
+ (long ()))
+(type ("/usr/include/bits/types.h" 172)
+ "__ssize_t"
+ (long ()))
+(type ("/usr/include/bits/types.h" 175)
+ "__syscall_slong_t"
+ (long ()))
+(type ("/usr/include/bits/types.h" 177)
+ "__syscall_ulong_t"
+ (unsigned-long ()))
+(type ("/usr/include/bits/types.h" 181)
+ "__loff_t"
+ (typedef "__off64_t"))
+(type ("/usr/include/bits/types.h" 182)
+ "__qaddr_t"
+ (pointer (typedef "__quad_t")))
+(type ("/usr/include/bits/types.h" 183)
+ "__caddr_t"
+ (pointer (char ())))
+(type ("/usr/include/bits/types.h" 186)
+ "__intptr_t"
+ (long ()))
+(type ("/usr/include/bits/types.h" 189)
+ "__socklen_t"
+ (unsigned ()))
+(undef-macro "__STD_TYPE")
+(macro ("/usr/include/stdio.h" 36) "__need_FILE" "")
+(macro ("/usr/include/stdio.h" 37) "__need___FILE" "")
+(struct ("" 0)
+ "_IO_FILE"
+ ())
+(type ("/usr/include/stdio.h" 48)
+ "FILE"
+ (struct-ref "_IO_FILE"))
+(macro ("/usr/include/stdio.h" 56) "__FILE_defined" "1")
+(undef-macro "__need_FILE")
+(type ("/usr/include/stdio.h" 64)
+ "__FILE"
+ (struct-ref "_IO_FILE"))
+(macro ("/usr/include/stdio.h" 66) "____FILE_defined" "1")
+(undef-macro "__need___FILE")
+(macro ("/usr/include/stdio.h" 72) "_STDIO_USES_IOSTREAM" "")
+(macro ("/usr/include/libio.h" 29) "_IO_STDIO_H" "")
+(macro ("/usr/include/_G_config.h" 5) "_G_config_h" "1")
+(macro ("/usr/include/_G_config.h" 10) "__need_size_t" "")
+(macro ("/usr/include/_G_config.h" 14) "__need_NULL" "")
+(undef-macro "__need_size_t")
+(undef-macro "NULL")
+(macro ("/home/jeff/bin/../ffigen4/ffigen/include/stddef.h" 403) "NULL" "((void *)0)")
+(undef-macro "__need_NULL")
+(macro ("/usr/include/_G_config.h" 16) "__need_mbstate_t" "")
+(macro ("/usr/include/wchar.h" 80) "____mbstate_t_defined" "1")
+(union ("" 0)
+ "93_/usr/include/ncurses.h"
+ (("__wch" (field (unsigned ()) 0 4))
+  ("__wchb" (field (array 4 (char ())) 0 4))))
+(struct ("" 0)
+ "95_/usr/include/ncurses.h"
+ (("__count" (field (int ()) 0 4))
+  ("__value" (field (union-ref "93_/usr/include/ncurses.h") 4 4))))
+(type ("/usr/include/wchar.h" 94)
+ "__mbstate_t"
+ (struct-ref "95_/usr/include/ncurses.h"))
+(undef-macro "__need_mbstate_t")
+(undef-macro "__need_mbstate_t")
+(undef-macro "__need_wint_t")
+(struct ("" 0)
+ "97_/usr/include/ncurses.h"
+ (("__pos" (field (typedef "__off_t") 0 8))
+  ("__state" (field (typedef "__mbstate_t") 8 8))))
+(type ("/usr/include/_G_config.h" 25)
+ "_G_fpos_t"
+ (struct-ref "97_/usr/include/ncurses.h"))
+(struct ("" 0)
+ "99_/usr/include/ncurses.h"
+ (("__pos" (field (typedef "__off64_t") 0 8))
+  ("__state" (field (typedef "__mbstate_t") 8 8))))
+(type ("/usr/include/_G_config.h" 30)
+ "_G_fpos64_t"
+ (struct-ref "99_/usr/include/ncurses.h"))
+(macro ("/usr/include/_G_config.h" 46) "_G_va_list" "__gnuc_va_list")
+(macro ("/usr/include/_G_config.h" 48) "_G_HAVE_MMAP" "1")
+(macro ("/usr/include/_G_config.h" 49) "_G_HAVE_MREMAP" "1")
+(macro ("/usr/include/_G_config.h" 51) "_G_IO_IO_FILE_VERSION" "0x20001")
+(macro ("/usr/include/_G_config.h" 54) "_G_HAVE_ST_BLKSIZE" "defined (_STATBUF_ST_BLKSIZE)")
+(macro ("/usr/include/_G_config.h" 56) "_G_BUFSIZ" "8192")
+(macro ("/usr/include/libio.h" 33) "_IO_fpos_t" "_G_fpos_t")
+(macro ("/usr/include/libio.h" 34) "_IO_fpos64_t" "_G_fpos64_t")
+(macro ("/usr/include/libio.h" 35) "_IO_size_t" "size_t")
+(macro ("/usr/include/libio.h" 36) "_IO_ssize_t" "__ssize_t")
+(macro ("/usr/include/libio.h" 37) "_IO_off_t" "__off_t")
+(macro ("/usr/include/libio.h" 38) "_IO_off64_t" "__off64_t")
+(macro ("/usr/include/libio.h" 39) "_IO_pid_t" "__pid_t")
+(macro ("/usr/include/libio.h" 40) "_IO_uid_t" "__uid_t")
+(macro ("/usr/include/libio.h" 41) "_IO_iconv_t" "_G_iconv_t")
+(macro ("/usr/include/libio.h" 42) "_IO_HAVE_ST_BLKSIZE" "_G_HAVE_ST_BLKSIZE")
+(macro ("/usr/include/libio.h" 43) "_IO_BUFSIZ" "_G_BUFSIZ")
+(macro ("/usr/include/libio.h" 44) "_IO_va_list" "_G_va_list")
+(macro ("/usr/include/libio.h" 45) "_IO_wint_t" "wint_t")
+(macro ("/usr/include/libio.h" 48) "__need___va_list" "")
+(undef-macro "__need___va_list")
+(macro ("/home/jeff/bin/../ffigen4/ffigen/include/stdarg.h" 42) "__GNUC_VA_LIST" "")
+(type ("/home/jeff/bin/../ffigen4/ffigen/include/stdarg.h" 43)
+ "__gnuc_va_list"
+ (array 1 (struct-ref "__va_list_tag")))
+(undef-macro "_IO_va_list")
+(macro ("/usr/include/libio.h" 52) "_IO_va_list" "__gnuc_va_list")
+(macro ("/usr/include/libio.h" 59) "_IO_UNIFIED_JUMPTABLES" "1")
+(macro ("/usr/include/libio.h" 62) "EOF" "(-1)")
+(macro ("/usr/include/libio.h" 77) "_IOS_INPUT" "1")
+(macro ("/usr/include/libio.h" 78) "_IOS_OUTPUT" "2")
+(macro ("/usr/include/libio.h" 79) "_IOS_ATEND" "4")
+(macro ("/usr/include/libio.h" 80) "_IOS_APPEND" "8")
+(macro ("/usr/include/libio.h" 81) "_IOS_TRUNC" "16")
+(macro ("/usr/include/libio.h" 82) "_IOS_NOCREATE" "32")
+(macro ("/usr/include/libio.h" 83) "_IOS_NOREPLACE" "64")
+(macro ("/usr/include/libio.h" 84) "_IOS_BIN" "128")
+(macro ("/usr/include/libio.h" 92) "_IO_MAGIC" "0xFBAD0000")
+(macro ("/usr/include/libio.h" 93) "_OLD_STDIO_MAGIC" "0xFABC0000")
+(macro ("/usr/include/libio.h" 94) "_IO_MAGIC_MASK" "0xFFFF0000")
+(macro ("/usr/include/libio.h" 95) "_IO_USER_BUF" "1")
+(macro ("/usr/include/libio.h" 96) "_IO_UNBUFFERED" "2")
+(macro ("/usr/include/libio.h" 97) "_IO_NO_READS" "4")
+(macro ("/usr/include/libio.h" 98) "_IO_NO_WRITES" "8")
+(macro ("/usr/include/libio.h" 99) "_IO_EOF_SEEN" "0x10")
+(macro ("/usr/include/libio.h" 100) "_IO_ERR_SEEN" "0x20")
+(macro ("/usr/include/libio.h" 101) "_IO_DELETE_DONT_CLOSE" "0x40")
+(macro ("/usr/include/libio.h" 102) "_IO_LINKED" "0x80")
+(macro ("/usr/include/libio.h" 103) "_IO_IN_BACKUP" "0x100")
+(macro ("/usr/include/libio.h" 104) "_IO_LINE_BUF" "0x200")
+(macro ("/usr/include/libio.h" 105) "_IO_TIED_PUT_GET" "0x400")
+(macro ("/usr/include/libio.h" 106) "_IO_CURRENTLY_PUTTING" "0x800")
+(macro ("/usr/include/libio.h" 107) "_IO_IS_APPENDING" "0x1000")
+(macro ("/usr/include/libio.h" 108) "_IO_IS_FILEBUF" "0x2000")
+(macro ("/usr/include/libio.h" 109) "_IO_BAD_SEEN" "0x4000")
+(macro ("/usr/include/libio.h" 110) "_IO_USER_LOCK" "0x8000")
+(macro ("/usr/include/libio.h" 112) "_IO_FLAGS2_MMAP" "1")
+(macro ("/usr/include/libio.h" 113) "_IO_FLAGS2_NOTCANCEL" "2")
+(macro ("/usr/include/libio.h" 117) "_IO_FLAGS2_USER_WBUF" "8")
+(macro ("/usr/include/libio.h" 125) "_IO_SKIPWS" "01")
+(macro ("/usr/include/libio.h" 126) "_IO_LEFT" "02")
+(macro ("/usr/include/libio.h" 127) "_IO_RIGHT" "04")
+(macro ("/usr/include/libio.h" 128) "_IO_INTERNAL" "010")
+(macro ("/usr/include/libio.h" 129) "_IO_DEC" "020")
+(macro ("/usr/include/libio.h" 130) "_IO_OCT" "040")
+(macro ("/usr/include/libio.h" 131) "_IO_HEX" "0100")
+(macro ("/usr/include/libio.h" 132) "_IO_SHOWBASE" "0200")
+(macro ("/usr/include/libio.h" 133) "_IO_SHOWPOINT" "0400")
+(macro ("/usr/include/libio.h" 134) "_IO_UPPERCASE" "01000")
+(macro ("/usr/include/libio.h" 135) "_IO_SHOWPOS" "02000")
+(macro ("/usr/include/libio.h" 136) "_IO_SCIENTIFIC" "04000")
+(macro ("/usr/include/libio.h" 137) "_IO_FIXED" "010000")
+(macro ("/usr/include/libio.h" 138) "_IO_UNITBUF" "020000")
+(macro ("/usr/include/libio.h" 139) "_IO_STDIO" "040000")
+(macro ("/usr/include/libio.h" 140) "_IO_DONT_CLOSE" "0100000")
+(macro ("/usr/include/libio.h" 141) "_IO_BOOLALPHA" "0200000")
+(type ("/usr/include/libio.h" 154)
+ "_IO_lock_t"
+ (void ()))
+(struct ("" 0)
+ "_IO_marker"
+ (("_next" (field (pointer (struct-ref "_IO_marker")) 0 8))
+  ("_sbuf" (field (pointer (struct-ref "_IO_FILE")) 8 8))
+  ("_pos" (field (int ()) 16 4))))
+(enum ("" 0)
+ "__codecvt_result"(("__codecvt_ok" 0)("__codecvt_partial" 1)("__codecvt_error" 2)("__codecvt_noconv" 3)))
+(enum-ident ("" 0)
+ "__codecvt_ok" 0)
+(enum-ident ("" 0)
+ "__codecvt_partial" 1)
+(enum-ident ("" 0)
+ "__codecvt_error" 2)
+(enum-ident ("" 0)
+ "__codecvt_noconv" 3)
+(macro ("/usr/include/libio.h" 247) "_IO_file_flags" "_flags")
+(macro ("/usr/include/libio.h" 276) "__HAVE_COLUMN" "")
+(struct ("" 0)
+ "_IO_FILE"
+ (("_flags" (field (int ()) 0 4))
+  ("_IO_read_ptr" (field (pointer (char ())) 8 8))
+  ("_IO_read_end" (field (pointer (char ())) 16 8))
+  ("_IO_read_base" (field (pointer (char ())) 24 8))
+  ("_IO_write_base" (field (pointer (char ())) 32 8))
+  ("_IO_write_ptr" (field (pointer (char ())) 40 8))
+  ("_IO_write_end" (field (pointer (char ())) 48 8))
+  ("_IO_buf_base" (field (pointer (char ())) 56 8))
+  ("_IO_buf_end" (field (pointer (char ())) 64 8))
+  ("_IO_save_base" (field (pointer (char ())) 72 8))
+  ("_IO_backup_base" (field (pointer (char ())) 80 8))
+  ("_IO_save_end" (field (pointer (char ())) 88 8))
+  ("_markers" (field (pointer (struct-ref "_IO_marker")) 96 8))
+  ("_chain" (field (pointer (struct-ref "_IO_FILE")) 104 8))
+  ("_fileno" (field (int ()) 112 4))
+  ("_flags2" (field (int ()) 116 4))
+  ("_old_offset" (field (typedef "__off_t") 120 8))
+  ("_cur_column" (field (unsigned-short ()) 128 2))
+  ("_vtable_offset" (field (signed-char ()) 130 1))
+  ("_shortbuf" (field (array 1 (char ())) 131 1))
+  ("_lock" (field (pointer (typedef "_IO_lock_t")) 136 8))
+  ("_offset" (field (typedef "__off64_t") 144 8))
+  ("__pad1" (field (pointer (void ())) 152 8))
+  ("__pad2" (field (pointer (void ())) 160 8))
+  ("__pad3" (field (pointer (void ())) 168 8))
+  ("__pad4" (field (pointer (void ())) 176 8))
+  ("__pad5" (field (typedef "size_t") 184 8))
+  ("_mode" (field (int ()) 192 4))
+  ("_unused2" (field (array 20 (char ())) 196 20))))
+(type ("/usr/include/libio.h" 315)
+ "_IO_FILE"
+ (struct-ref "_IO_FILE"))
+(var ("/usr/include/libio.h" 320)
+ "_IO_2_1_stdin_"
+ (struct-ref "_IO_FILE_plus") (extern))
+(var ("/usr/include/libio.h" 321)
+ "_IO_2_1_stdout_"
+ (struct-ref "_IO_FILE_plus") (extern))
+(var ("/usr/include/libio.h" 322)
+ "_IO_2_1_stderr_"
+ (struct-ref "_IO_FILE_plus") (extern))
+(macro ("/usr/include/libio.h" 324) "_IO_stdin" "((_IO_FILE*)(&_IO_2_1_stdin_))")
+(macro ("/usr/include/libio.h" 325) "_IO_stdout" "((_IO_FILE*)(&_IO_2_1_stdout_))")
+(macro ("/usr/include/libio.h" 326) "_IO_stderr" "((_IO_FILE*)(&_IO_2_1_stderr_))")
+(type ("/usr/include/libio.h" 338)
+ "__io_read_fn"
+ (function
+  ((pointer (void ())) (pointer (char ())) (typedef "size_t") )
+  (typedef "__ssize_t")))
+(type ("/usr/include/libio.h" 347)
+ "__io_write_fn"
+ (function
+  ((pointer (void ())) (pointer (char ())) (typedef "size_t") )
+  (typedef "__ssize_t")))
+(type ("/usr/include/libio.h" 355)
+ "__io_seek_fn"
+ (function
+  ((pointer (void ())) (pointer (typedef "__off64_t")) (int ()) )
+  (int ())))
+(type ("/usr/include/libio.h" 358)
+ "__io_close_fn"
+ (function
+  ((pointer (void ())) )
+  (int ())))
+(function ("/usr/include/libio.h" 390)
+ "__underflow"
+ (function
+  ((pointer (typedef "_IO_FILE")) )
+  (int ())) (extern))
+(function ("/usr/include/libio.h" 391)
+ "__uflow"
+ (function
+  ((pointer (typedef "_IO_FILE")) )
+  (int ())) (extern))
+(function ("/usr/include/libio.h" 392)
+ "__overflow"
+ (function
+  ((pointer (typedef "_IO_FILE")) (int ()) )
+  (int ())) (extern))
+(macro ("/usr/include/libio.h" 400) "_IO_BE ( expr , res )" "__builtin_expect ((expr), res)")
+(macro ("/usr/include/libio.h" 405) "_IO_getc_unlocked ( _fp )" "(_IO_BE ((_fp)->_IO_read_ptr >= (_fp)->_IO_read_end, 0) ? __uflow (_fp) : *(unsigned char *) (_fp)->_IO_read_ptr++)")
+(macro ("/usr/include/libio.h" 408) "_IO_peekc_unlocked ( _fp )" "(_IO_BE ((_fp)->_IO_read_ptr >= (_fp)->_IO_read_end, 0) && __underflow (_fp) == EOF ? EOF : *(unsigned char *) (_fp)->_IO_read_ptr)")
+(macro ("/usr/include/libio.h" 412) "_IO_putc_unlocked ( _ch , _fp )" "(_IO_BE ((_fp)->_IO_write_ptr >= (_fp)->_IO_write_end, 0) ? __overflow (_fp, (unsigned char) (_ch)) : (unsigned char) (*(_fp)->_IO_write_ptr++ = (_ch)))")
+(macro ("/usr/include/libio.h" 431) "_IO_feof_unlocked ( __fp )" "(((__fp)->_flags & _IO_EOF_SEEN) != 0)")
+(macro ("/usr/include/libio.h" 432) "_IO_ferror_unlocked ( __fp )" "(((__fp)->_flags & _IO_ERR_SEEN) != 0)")
+(function ("/usr/include/libio.h" 434)
+ "_IO_getc"
+ (function
+  ((pointer (typedef "_IO_FILE")) )
+  (int ())) (extern))
+(function ("/usr/include/libio.h" 435)
+ "_IO_putc"
+ (function
+  ((int ()) (pointer (typedef "_IO_FILE")) )
+  (int ())) (extern))
+(function ("/usr/include/libio.h" 436)
+ "_IO_feof"
+ (function
+  ((pointer (typedef "_IO_FILE")) )
+  (int ())) (extern))
+(function ("/usr/include/libio.h" 437)
+ "_IO_ferror"
+ (function
+  ((pointer (typedef "_IO_FILE")) )
+  (int ())) (extern))
+(function ("/usr/include/libio.h" 439)
+ "_IO_peekc_locked"
+ (function
+  ((pointer (typedef "_IO_FILE")) )
+  (int ())) (extern))
+(macro ("/usr/include/libio.h" 442) "_IO_PENDING_OUTPUT_COUNT ( _fp )" "((_fp)->_IO_write_ptr - (_fp)->_IO_write_base)")
+(function ("/usr/include/libio.h" 445)
+ "_IO_flockfile"
+ (function
+  ((pointer (typedef "_IO_FILE")) )
+  (void ())) (extern))
+(function ("/usr/include/libio.h" 446)
+ "_IO_funlockfile"
+ (function
+  ((pointer (typedef "_IO_FILE")) )
+  (void ())) (extern))
+(function ("/usr/include/libio.h" 447)
+ "_IO_ftrylockfile"
+ (function
+  ((pointer (typedef "_IO_FILE")) )
+  (int ())) (extern))
+(macro ("/usr/include/libio.h" 456) "_IO_peekc ( _fp )" "_IO_peekc_unlocked (_fp)")
+(macro ("/usr/include/libio.h" 457) "_IO_flockfile ( _fp )" "")
+(macro ("/usr/include/libio.h" 458) "_IO_funlockfile ( _fp )" "")
+(macro ("/usr/include/libio.h" 459) "_IO_ftrylockfile ( _fp )" "")
+(macro ("/usr/include/libio.h" 460) "_IO_cleanup_region_start ( _fct , _fp )" "")
+(macro ("/usr/include/libio.h" 461) "_IO_cleanup_region_end ( _Doit )" "")
+(function ("/usr/include/libio.h" 465)
+ "_IO_vfscanf"
+ (function
+  ((pointer (typedef "_IO_FILE")) (pointer (char ())) (pointer (struct-ref "__va_list_tag")) (pointer (int ())) )
+  (int ())) (extern))
+(function ("/usr/include/libio.h" 467)
+ "_IO_vfprintf"
+ (function
+  ((pointer (typedef "_IO_FILE")) (pointer (char ())) (pointer (struct-ref "__va_list_tag")) )
+  (int ())) (extern))
+(function ("/usr/include/libio.h" 468)
+ "_IO_padn"
+ (function
+  ((pointer (typedef "_IO_FILE")) (int ()) (typedef "__ssize_t") )
+  (typedef "__ssize_t")) (extern))
+(function ("/usr/include/libio.h" 469)
+ "_IO_sgetn"
+ (function
+  ((pointer (typedef "_IO_FILE")) (pointer (void ())) (typedef "size_t") )
+  (typedef "size_t")) (extern))
+(function ("/usr/include/libio.h" 471)
+ "_IO_seekoff"
+ (function
+  ((pointer (typedef "_IO_FILE")) (typedef "__off64_t") (int ()) (int ()) )
+  (typedef "__off64_t")) (extern))
+(function ("/usr/include/libio.h" 472)
+ "_IO_seekpos"
+ (function
+  ((pointer (typedef "_IO_FILE")) (typedef "__off64_t") (int ()) )
+  (typedef "__off64_t")) (extern))
+(function ("/usr/include/libio.h" 474)
+ "_IO_free_backup_area"
+ (function
+  ((pointer (typedef "_IO_FILE")) )
+  (void ())) (extern))
+(type ("/usr/include/stdio.h" 79)
+ "va_list"
+ (typedef "__gnuc_va_list"))
+(macro ("/usr/include/stdio.h" 80) "_VA_LIST_DEFINED" "")
+(type ("/usr/include/stdio.h" 90)
+ "off_t"
+ (typedef "__off_t"))
+(macro ("/usr/include/stdio.h" 94) "__off_t_defined" "")
+(type ("/usr/include/stdio.h" 102)
+ "ssize_t"
+ (typedef "__ssize_t"))
+(macro ("/usr/include/stdio.h" 103) "__ssize_t_defined" "")
+(type ("/usr/include/stdio.h" 110)
+ "fpos_t"
+ (typedef "_G_fpos_t"))
+(macro ("/usr/include/stdio.h" 120) "_IOFBF" "0")
+(macro ("/usr/include/stdio.h" 121) "_IOLBF" "1")
+(macro ("/usr/include/stdio.h" 122) "_IONBF" "2")
+(macro ("/usr/include/stdio.h" 127) "BUFSIZ" "_IO_BUFSIZ")
+(macro ("/usr/include/stdio.h" 140) "SEEK_SET" "0")
+(macro ("/usr/include/stdio.h" 141) "SEEK_CUR" "1")
+(macro ("/usr/include/stdio.h" 142) "SEEK_END" "2")
+(macro ("/usr/include/stdio.h" 151) "P_tmpdir" "\"/tmp\"")
+(macro ("/usr/include/bits/stdio_lim.h" 23) "L_tmpnam" "20")
+(macro ("/usr/include/bits/stdio_lim.h" 24) "TMP_MAX" "238328")
+(macro ("/usr/include/bits/stdio_lim.h" 25) "FILENAME_MAX" "4096")
+(macro ("/usr/include/bits/stdio_lim.h" 28) "L_ctermid" "9")
+(undef-macro "FOPEN_MAX")
+(macro ("/usr/include/bits/stdio_lim.h" 37) "FOPEN_MAX" "16")
+(var ("/usr/include/stdio.h" 168)
+ "stdin"
+ (pointer (struct-ref "_IO_FILE")) (extern))
+(var ("/usr/include/stdio.h" 169)
+ "stdout"
+ (pointer (struct-ref "_IO_FILE")) (extern))
+(var ("/usr/include/stdio.h" 170)
+ "stderr"
+ (pointer (struct-ref "_IO_FILE")) (extern))
+(macro ("/usr/include/stdio.h" 172) "stdin" "stdin")
+(macro ("/usr/include/stdio.h" 173) "stdout" "stdout")
+(macro ("/usr/include/stdio.h" 174) "stderr" "stderr")
+(function ("/usr/include/stdio.h" 178)
+ "remove"
+ (function
+  ((pointer (char ())) )
+  (int ())) (extern))
+(function ("/usr/include/stdio.h" 180)
+ "rename"
+ (function
+  ((pointer (char ())) (pointer (char ())) )
+  (int ())) (extern))
+(function ("/usr/include/stdio.h" 186)
+ "renameat"
+ (function
+  ((int ()) (pointer (char ())) (int ()) (pointer (char ())) )
+  (int ())) (extern))
+(function ("/usr/include/stdio.h" 195)
+ "tmpfile"
+ (function
+  ()
+  (pointer (typedef "FILE"))) (extern))
+(function ("/usr/include/stdio.h" 209)
+ "tmpnam"
+ (function
+  ((pointer (char ())) )
+  (pointer (char ()))) (extern))
+(function ("/usr/include/stdio.h" 215)
+ "tmpnam_r"
+ (function
+  ((pointer (char ())) )
+  (pointer (char ()))) (extern))
+(function ("/usr/include/stdio.h" 228)
+ "tempnam"
+ (function
+  ((pointer (char ())) (pointer (char ())) )
+  (pointer (char ()))) (extern))
+(function ("/usr/include/stdio.h" 237)
+ "fclose"
+ (function
+  ((pointer (typedef "FILE")) )
+  (int ())) (extern))
+(function ("/usr/include/stdio.h" 242)
+ "fflush"
+ (function
+  ((pointer (typedef "FILE")) )
+  (int ())) (extern))
+(function ("/usr/include/stdio.h" 252)
+ "fflush_unlocked"
+ (function
+  ((pointer (typedef "FILE")) )
+  (int ())) (extern))
+(function ("/usr/include/stdio.h" 273)
+ "fopen"
+ (function
+  ((pointer (char ())) (pointer (char ())) )
+  (pointer (typedef "FILE"))) (extern))
+(function ("/usr/include/stdio.h" 280)
+ "freopen"
+ (function
+  ((pointer (char ())) (pointer (char ())) (pointer (typedef "FILE")) )
+  (pointer (typedef "FILE"))) (extern))
+(function ("/usr/include/stdio.h" 306)
+ "fdopen"
+ (function
+  ((int ()) (pointer (char ())) )
+  (pointer (typedef "FILE"))) (extern))
+(function ("/usr/include/stdio.h" 320)
+ "fmemopen"
+ (function
+  ((pointer (void ())) (typedef "size_t") (pointer (char ())) )
+  (pointer (typedef "FILE"))) (extern))
+(function ("/usr/include/stdio.h" 325)
+ "open_memstream"
+ (function
+  ((pointer (pointer (char ()))) (pointer (typedef "size_t")) )
+  (pointer (typedef "FILE"))) (extern))
+(function ("/usr/include/stdio.h" 332)
+ "setbuf"
+ (function
+  ((pointer (typedef "FILE")) (pointer (char ())) )
+  (void ())) (extern))
+(function ("/usr/include/stdio.h" 337)
+ "setvbuf"
+ (function
+  ((pointer (typedef "FILE")) (pointer (char ())) (int ()) (typedef "size_t") )
+  (int ())) (extern))
+(function ("/usr/include/stdio.h" 344)
+ "setbuffer"
+ (function
+  ((pointer (typedef "FILE")) (pointer (char ())) (typedef "size_t") )
+  (void ())) (extern))
+(function ("/usr/include/stdio.h" 347)
+ "setlinebuf"
+ (function
+  ((pointer (typedef "FILE")) )
+  (void ())) (extern))
+(function ("/usr/include/stdio.h" 357)
+ "fprintf"
+ (function
+  ((pointer (typedef "FILE")) (pointer (char ())) (void ()))
+  (int ())) (extern))
+(function ("/usr/include/stdio.h" 362)
+ "printf"
+ (function
+  ((pointer (char ())) (void ()))
+  (int ())) (extern))
+(function ("/usr/include/stdio.h" 365)
+ "sprintf"
+ (function
+  ((pointer (char ())) (pointer (char ())) (void ()))
+  (int ())) (extern))
+(function ("/usr/include/stdio.h" 372)
+ "vfprintf"
+ (function
+  ((pointer (typedef "FILE")) (pointer (char ())) (pointer (struct-ref "__va_list_tag")) )
+  (int ())) (extern))
+(function ("/usr/include/stdio.h" 377)
+ "vprintf"
+ (function
+  ((pointer (char ())) (pointer (struct-ref "__va_list_tag")) )
+  (int ())) (extern))
+(function ("/usr/include/stdio.h" 380)
+ "vsprintf"
+ (function
+  ((pointer (char ())) (pointer (char ())) (pointer (struct-ref "__va_list_tag")) )
+  (int ())) (extern))
+(function ("/usr/include/stdio.h" 388)
+ "snprintf"
+ (function
+  ((pointer (char ())) (typedef "size_t") (pointer (char ())) (void ()))
+  (int ())) (extern))
+(function ("/usr/include/stdio.h" 392)
+ "vsnprintf"
+ (function
+  ((pointer (char ())) (typedef "size_t") (pointer (char ())) (pointer (struct-ref "__va_list_tag")) )
+  (int ())) (extern))
+(function ("/usr/include/stdio.h" 414)
+ "vdprintf"
+ (function
+  ((int ()) (pointer (char ())) (pointer (struct-ref "__va_list_tag")) )
+  (int ())) (extern))
+(function ("/usr/include/stdio.h" 416)
+ "dprintf"
+ (function
+  ((int ()) (pointer (char ())) (void ()))
+  (int ())) (extern))
+(function ("/usr/include/stdio.h" 426)
+ "fscanf"
+ (function
+  ((pointer (typedef "FILE")) (pointer (char ())) (void ()))
+  (int ())) (extern))
+(function ("/usr/include/stdio.h" 431)
+ "scanf"
+ (function
+  ((pointer (char ())) (void ()))
+  (int ())) (extern))
+(function ("/usr/include/stdio.h" 434)
+ "sscanf"
+ (function
+  ((pointer (char ())) (pointer (char ())) (void ()))
+  (int ())) (extern))
+(function ("/usr/include/stdio.h" 443)
+ "fscanf"
+ (function
+  ((pointer (typedef "FILE")) (pointer (char ())) (void ()))
+  (int ())) (extern))
+(function ("/usr/include/stdio.h" 446)
+ "scanf"
+ (function
+  ((pointer (char ())) (void ()))
+  (int ())) (extern))
+(function ("/usr/include/stdio.h" 448)
+ "sscanf"
+ (function
+  ((pointer (char ())) (pointer (char ())) (void ()))
+  (int ())) (extern))
+(function ("/usr/include/stdio.h" 473)
+ "vfscanf"
+ (function
+  ((pointer (typedef "FILE")) (pointer (char ())) (pointer (struct-ref "__va_list_tag")) )
+  (int ())) (extern))
+(function ("/usr/include/stdio.h" 480)
+ "vscanf"
+ (function
+  ((pointer (char ())) (pointer (struct-ref "__va_list_tag")) )
+  (int ())) (extern))
+(function ("/usr/include/stdio.h" 485)
+ "vsscanf"
+ (function
+  ((pointer (char ())) (pointer (char ())) (pointer (struct-ref "__va_list_tag")) )
+  (int ())) (extern))
+(function ("/usr/include/stdio.h" 498)
+ "vfscanf"
+ (function
+  ((pointer (typedef "FILE")) (pointer (char ())) (pointer (struct-ref "__va_list_tag")) )
+  (int ())) (extern))
+(function ("/usr/include/stdio.h" 501)
+ "vscanf"
+ (function
+  ((pointer (char ())) (pointer (struct-ref "__va_list_tag")) )
+  (int ())) (extern))
+(function ("/usr/include/stdio.h" 506)
+ "vsscanf"
+ (function
+  ((pointer (char ())) (pointer (char ())) (pointer (struct-ref "__va_list_tag")) )
+  (int ())) (extern))
+(function ("/usr/include/stdio.h" 531)
+ "fgetc"
+ (function
+  ((pointer (typedef "FILE")) )
+  (int ())) (extern))
+(function ("/usr/include/stdio.h" 532)
+ "getc"
+ (function
+  ((pointer (typedef "FILE")) )
+  (int ())) (extern))
+(function ("/usr/include/stdio.h" 538)
+ "getchar"
+ (function
+  ()
+  (int ())) (extern))
+(macro ("/usr/include/stdio.h" 543) "getc ( _fp )" "_IO_getc (_fp)")
+(function ("/usr/include/stdio.h" 550)
+ "getc_unlocked"
+ (function
+  ((pointer (typedef "FILE")) )
+  (int ())) (extern))
+(function ("/usr/include/stdio.h" 551)
+ "getchar_unlocked"
+ (function
+  ()
+  (int ())) (extern))
+(function ("/usr/include/stdio.h" 561)
+ "fgetc_unlocked"
+ (function
+  ((pointer (typedef "FILE")) )
+  (int ())) (extern))
+(function ("/usr/include/stdio.h" 573)
+ "fputc"
+ (function
+  ((int ()) (pointer (typedef "FILE")) )
+  (int ())) (extern))
+(function ("/usr/include/stdio.h" 574)
+ "putc"
+ (function
+  ((int ()) (pointer (typedef "FILE")) )
+  (int ())) (extern))
+(function ("/usr/include/stdio.h" 580)
+ "putchar"
+ (function
+  ((int ()) )
+  (int ())) (extern))
+(macro ("/usr/include/stdio.h" 585) "putc ( _ch , _fp )" "_IO_putc (_ch, _fp)")
+(function ("/usr/include/stdio.h" 594)
+ "fputc_unlocked"
+ (function
+  ((int ()) (pointer (typedef "FILE")) )
+  (int ())) (extern))
+(function ("/usr/include/stdio.h" 602)
+ "putc_unlocked"
+ (function
+  ((int ()) (pointer (typedef "FILE")) )
+  (int ())) (extern))
+(function ("/usr/include/stdio.h" 603)
+ "putchar_unlocked"
+ (function
+  ((int ()) )
+  (int ())) (extern))
+(function ("/usr/include/stdio.h" 610)
+ "getw"
+ (function
+  ((pointer (typedef "FILE")) )
+  (int ())) (extern))
+(function ("/usr/include/stdio.h" 613)
+ "putw"
+ (function
+  ((int ()) (pointer (typedef "FILE")) )
+  (int ())) (extern))
+(function ("/usr/include/stdio.h" 623)
+ "fgets"
+ (function
+  ((pointer (char ())) (int ()) (pointer (typedef "FILE")) )
+  (pointer (char ()))) (extern))
+(function ("/usr/include/stdio.h" 638)
+ "gets"
+ (function
+  ((pointer (char ())) )
+  (pointer (char ()))) (extern))
+(function ("/usr/include/stdio.h" 667)
+ "__getdelim"
+ (function
+  ((pointer (pointer (char ()))) (pointer (typedef "size_t")) (int ()) (pointer (typedef "FILE")) )
+  (typedef "__ssize_t")) (extern))
+(function ("/usr/include/stdio.h" 670)
+ "getdelim"
+ (function
+  ((pointer (pointer (char ()))) (pointer (typedef "size_t")) (int ()) (pointer (typedef "FILE")) )
+  (typedef "__ssize_t")) (extern))
+(function ("/usr/include/stdio.h" 680)
+ "getline"
+ (function
+  ((pointer (pointer (char ()))) (pointer (typedef "size_t")) (pointer (typedef "FILE")) )
+  (typedef "__ssize_t")) (extern))
+(function ("/usr/include/stdio.h" 689)
+ "fputs"
+ (function
+  ((pointer (char ())) (pointer (typedef "FILE")) )
+  (int ())) (extern))
+(function ("/usr/include/stdio.h" 695)
+ "puts"
+ (function
+  ((pointer (char ())) )
+  (int ())) (extern))
+(function ("/usr/include/stdio.h" 702)
+ "ungetc"
+ (function
+  ((int ()) (pointer (typedef "FILE")) )
+  (int ())) (extern))
+(function ("/usr/include/stdio.h" 710)
+ "fread"
+ (function
+  ((pointer (void ())) (typedef "size_t") (typedef "size_t") (pointer (typedef "FILE")) )
+  (typedef "size_t")) (extern))
+(function ("/usr/include/stdio.h" 716)
+ "fwrite"
+ (function
+  ((pointer (void ())) (typedef "size_t") (typedef "size_t") (pointer (typedef "FILE")) )
+  (typedef "size_t")) (extern))
+(function ("/usr/include/stdio.h" 738)
+ "fread_unlocked"
+ (function
+  ((pointer (void ())) (typedef "size_t") (typedef "size_t") (pointer (typedef "FILE")) )
+  (typedef "size_t")) (extern))
+(function ("/usr/include/stdio.h" 740)
+ "fwrite_unlocked"
+ (function
+  ((pointer (void ())) (typedef "size_t") (typedef "size_t") (pointer (typedef "FILE")) )
+  (typedef "size_t")) (extern))
+(function ("/usr/include/stdio.h" 749)
+ "fseek"
+ (function
+  ((pointer (typedef "FILE")) (long ()) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/stdio.h" 754)
+ "ftell"
+ (function
+  ((pointer (typedef "FILE")) )
+  (long ())) (extern))
+(function ("/usr/include/stdio.h" 759)
+ "rewind"
+ (function
+  ((pointer (typedef "FILE")) )
+  (void ())) (extern))
+(function ("/usr/include/stdio.h" 773)
+ "fseeko"
+ (function
+  ((pointer (typedef "FILE")) (typedef "__off_t") (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/stdio.h" 778)
+ "ftello"
+ (function
+  ((pointer (typedef "FILE")) )
+  (typedef "__off_t")) (extern))
+(function ("/usr/include/stdio.h" 798)
+ "fgetpos"
+ (function
+  ((pointer (typedef "FILE")) (pointer (typedef "fpos_t")) )
+  (int ())) (extern))
+(function ("/usr/include/stdio.h" 803)
+ "fsetpos"
+ (function
+  ((pointer (typedef "FILE")) (pointer (struct-ref "97_/usr/include/ncurses.h")) )
+  (int ())) (extern))
+(function ("/usr/include/stdio.h" 826)
+ "clearerr"
+ (function
+  ((pointer (typedef "FILE")) )
+  (void ())) (extern))
+(function ("/usr/include/stdio.h" 828)
+ "feof"
+ (function
+  ((pointer (typedef "FILE")) )
+  (int ())) (extern))
+(function ("/usr/include/stdio.h" 830)
+ "ferror"
+ (function
+  ((pointer (typedef "FILE")) )
+  (int ())) (extern))
+(function ("/usr/include/stdio.h" 835)
+ "clearerr_unlocked"
+ (function
+  ((pointer (typedef "FILE")) )
+  (void ())) (extern))
+(function ("/usr/include/stdio.h" 836)
+ "feof_unlocked"
+ (function
+  ((pointer (typedef "FILE")) )
+  (int ())) (extern))
+(function ("/usr/include/stdio.h" 837)
+ "ferror_unlocked"
+ (function
+  ((pointer (typedef "FILE")) )
+  (int ())) (extern))
+(function ("/usr/include/stdio.h" 846)
+ "perror"
+ (function
+  ((pointer (char ())) )
+  (void ())) (extern))
+(var ("/usr/include/bits/sys_errlist.h" 26)
+ "sys_nerr"
+ (int ()) (extern))
+(var ("/usr/include/bits/sys_errlist.h" 27)
+ "sys_errlist"
+ (array 0 (pointer (char ()))) (extern))
+(function ("/usr/include/stdio.h" 858)
+ "fileno"
+ (function
+  ((pointer (typedef "FILE")) )
+  (int ())) (extern))
+(function ("/usr/include/stdio.h" 863)
+ "fileno_unlocked"
+ (function
+  ((pointer (typedef "FILE")) )
+  (int ())) (extern))
+(function ("/usr/include/stdio.h" 873)
+ "popen"
+ (function
+  ((pointer (char ())) (pointer (char ())) )
+  (pointer (typedef "FILE"))) (extern))
+(function ("/usr/include/stdio.h" 879)
+ "pclose"
+ (function
+  ((pointer (typedef "FILE")) )
+  (int ())) (extern))
+(function ("/usr/include/stdio.h" 885)
+ "ctermid"
+ (function
+  ((pointer (char ())) )
+  (pointer (char ()))) (extern))
+(function ("/usr/include/stdio.h" 913)
+ "flockfile"
+ (function
+  ((pointer (typedef "FILE")) )
+  (void ())) (extern))
+(function ("/usr/include/stdio.h" 917)
+ "ftrylockfile"
+ (function
+  ((pointer (typedef "FILE")) )
+  (int ())) (extern))
+(function ("/usr/include/stdio.h" 920)
+ "funlockfile"
+ (function
+  ((pointer (typedef "FILE")) )
+  (void ())) (extern))
+(macro ("/usr/include/ncurses.h" 170) "NCURSES_WIDECHAR" "0")
+(macro ("/home/jeff/bin/../ffigen4/ffigen/include/stdarg.h" 34) "_STDARG_H" "")
+(macro ("/home/jeff/bin/../ffigen4/ffigen/include/stdarg.h" 35) "_ANSI_STDARG_H_" "")
+(undef-macro "__need___va_list")
+(macro ("/home/jeff/bin/../ffigen4/ffigen/include/stdarg.h" 50) "va_start ( v , l )" "__builtin_va_start(v,l)")
+(macro ("/home/jeff/bin/../ffigen4/ffigen/include/stdarg.h" 51) "va_end ( v )" "__builtin_va_end(v)")
+(macro ("/home/jeff/bin/../ffigen4/ffigen/include/stdarg.h" 52) "va_arg ( v , l )" "__builtin_va_arg(v,l)")
+(macro ("/home/jeff/bin/../ffigen4/ffigen/include/stdarg.h" 54) "va_copy ( d , s )" "__builtin_va_copy(d,s)")
+(macro ("/home/jeff/bin/../ffigen4/ffigen/include/stdarg.h" 56) "__va_copy ( d , s )" "__builtin_va_copy(d,s)")
+(macro ("/home/jeff/bin/../ffigen4/ffigen/include/stdarg.h" 111) "_VA_LIST_" "")
+(macro ("/home/jeff/bin/../ffigen4/ffigen/include/stdarg.h" 114) "_VA_LIST" "")
+(macro ("/home/jeff/bin/../ffigen4/ffigen/include/stdarg.h" 120) "_VA_LIST_T_H" "")
+(macro ("/home/jeff/bin/../ffigen4/ffigen/include/stdarg.h" 123) "__va_list__" "")
+(undef-macro "TRUE")
+(macro ("/usr/include/ncurses.h" 192) "TRUE" "1")
+(undef-macro "FALSE")
+(macro ("/usr/include/ncurses.h" 195) "FALSE" "0")
+(type ("/usr/include/ncurses.h" 197)
+ "NCURSES_BOOL"
+ (unsigned-char ()))
+(macro ("/home/jeff/bin/../ffigen4/ffigen/include/stdbool.h" 32) "_STDBOOL_H" "")
+(macro ("/home/jeff/bin/../ffigen4/ffigen/include/stdbool.h" 36) "bool" "_Bool")
+(macro ("/home/jeff/bin/../ffigen4/ffigen/include/stdbool.h" 37) "true" "1")
+(macro ("/home/jeff/bin/../ffigen4/ffigen/include/stdbool.h" 38) "false" "0")
+(macro ("/home/jeff/bin/../ffigen4/ffigen/include/stdbool.h" 51) "__bool_true_false_are_defined" "1")
+(macro ("/usr/include/ncurses.h" 209) "NCURSES_BOOL" "bool")
+(macro ("/usr/include/ncurses.h" 222) "NCURSES_CAST ( type , value )" "(type)(value)")
+(macro ("/usr/include/ncurses.h" 229) "WA_ATTRIBUTES" "A_ATTRIBUTES")
+(macro ("/usr/include/ncurses.h" 230) "WA_NORMAL" "A_NORMAL")
+(macro ("/usr/include/ncurses.h" 231) "WA_STANDOUT" "A_STANDOUT")
+(macro ("/usr/include/ncurses.h" 232) "WA_UNDERLINE" "A_UNDERLINE")
+(macro ("/usr/include/ncurses.h" 233) "WA_REVERSE" "A_REVERSE")
+(macro ("/usr/include/ncurses.h" 234) "WA_BLINK" "A_BLINK")
+(macro ("/usr/include/ncurses.h" 235) "WA_DIM" "A_DIM")
+(macro ("/usr/include/ncurses.h" 236) "WA_BOLD" "A_BOLD")
+(macro ("/usr/include/ncurses.h" 237) "WA_ALTCHARSET" "A_ALTCHARSET")
+(macro ("/usr/include/ncurses.h" 238) "WA_INVIS" "A_INVIS")
+(macro ("/usr/include/ncurses.h" 239) "WA_PROTECT" "A_PROTECT")
+(macro ("/usr/include/ncurses.h" 240) "WA_HORIZONTAL" "A_HORIZONTAL")
+(macro ("/usr/include/ncurses.h" 241) "WA_LEFT" "A_LEFT")
+(macro ("/usr/include/ncurses.h" 242) "WA_LOW" "A_LOW")
+(macro ("/usr/include/ncurses.h" 243) "WA_RIGHT" "A_RIGHT")
+(macro ("/usr/include/ncurses.h" 244) "WA_TOP" "A_TOP")
+(macro ("/usr/include/ncurses.h" 245) "WA_VERTICAL" "A_VERTICAL")
+(macro ("/usr/include/ncurses.h" 248) "WA_ITALIC" "A_ITALIC")
+(macro ("/usr/include/ncurses.h" 252) "COLOR_BLACK" "0")
+(macro ("/usr/include/ncurses.h" 253) "COLOR_RED" "1")
+(macro ("/usr/include/ncurses.h" 254) "COLOR_GREEN" "2")
+(macro ("/usr/include/ncurses.h" 255) "COLOR_YELLOW" "3")
+(macro ("/usr/include/ncurses.h" 256) "COLOR_BLUE" "4")
+(macro ("/usr/include/ncurses.h" 257) "COLOR_MAGENTA" "5")
+(macro ("/usr/include/ncurses.h" 258) "COLOR_CYAN" "6")
+(macro ("/usr/include/ncurses.h" 259) "COLOR_WHITE" "7")
+(var ("/usr/include/ncurses.h" 267)
+ "acs_map"
+ (array 0 (typedef "chtype")) (extern))
+(macro ("/usr/include/ncurses.h" 270) "NCURSES_ACS ( c )" "(acs_map[NCURSES_CAST(unsigned char,(c))])")
+(macro ("/usr/include/ncurses.h" 273) "ACS_ULCORNER" "NCURSES_ACS('l')")
+(macro ("/usr/include/ncurses.h" 274) "ACS_LLCORNER" "NCURSES_ACS('m')")
+(macro ("/usr/include/ncurses.h" 275) "ACS_URCORNER" "NCURSES_ACS('k')")
+(macro ("/usr/include/ncurses.h" 276) "ACS_LRCORNER" "NCURSES_ACS('j')")
+(macro ("/usr/include/ncurses.h" 277) "ACS_LTEE" "NCURSES_ACS('t')")
+(macro ("/usr/include/ncurses.h" 278) "ACS_RTEE" "NCURSES_ACS('u')")
+(macro ("/usr/include/ncurses.h" 279) "ACS_BTEE" "NCURSES_ACS('v')")
+(macro ("/usr/include/ncurses.h" 280) "ACS_TTEE" "NCURSES_ACS('w')")
+(macro ("/usr/include/ncurses.h" 281) "ACS_HLINE" "NCURSES_ACS('q')")
+(macro ("/usr/include/ncurses.h" 282) "ACS_VLINE" "NCURSES_ACS('x')")
+(macro ("/usr/include/ncurses.h" 283) "ACS_PLUS" "NCURSES_ACS('n')")
+(macro ("/usr/include/ncurses.h" 284) "ACS_S1" "NCURSES_ACS('o')")
+(macro ("/usr/include/ncurses.h" 285) "ACS_S9" "NCURSES_ACS('s')")
+(macro ("/usr/include/ncurses.h" 286) "ACS_DIAMOND" "NCURSES_ACS('`')")
+(macro ("/usr/include/ncurses.h" 287) "ACS_CKBOARD" "NCURSES_ACS('a')")
+(macro ("/usr/include/ncurses.h" 288) "ACS_DEGREE" "NCURSES_ACS('f')")
+(macro ("/usr/include/ncurses.h" 289) "ACS_PLMINUS" "NCURSES_ACS('g')")
+(macro ("/usr/include/ncurses.h" 290) "ACS_BULLET" "NCURSES_ACS('~')")
+(macro ("/usr/include/ncurses.h" 292) "ACS_LARROW" "NCURSES_ACS(',')")
+(macro ("/usr/include/ncurses.h" 293) "ACS_RARROW" "NCURSES_ACS('+')")
+(macro ("/usr/include/ncurses.h" 294) "ACS_DARROW" "NCURSES_ACS('.')")
+(macro ("/usr/include/ncurses.h" 295) "ACS_UARROW" "NCURSES_ACS('-')")
+(macro ("/usr/include/ncurses.h" 296) "ACS_BOARD" "NCURSES_ACS('h')")
+(macro ("/usr/include/ncurses.h" 297) "ACS_LANTERN" "NCURSES_ACS('i')")
+(macro ("/usr/include/ncurses.h" 298) "ACS_BLOCK" "NCURSES_ACS('0')")
+(macro ("/usr/include/ncurses.h" 304) "ACS_S3" "NCURSES_ACS('p')")
+(macro ("/usr/include/ncurses.h" 305) "ACS_S7" "NCURSES_ACS('r')")
+(macro ("/usr/include/ncurses.h" 306) "ACS_LEQUAL" "NCURSES_ACS('y')")
+(macro ("/usr/include/ncurses.h" 307) "ACS_GEQUAL" "NCURSES_ACS('z')")
+(macro ("/usr/include/ncurses.h" 308) "ACS_PI" "NCURSES_ACS('{')")
+(macro ("/usr/include/ncurses.h" 309) "ACS_NEQUAL" "NCURSES_ACS('|')")
+(macro ("/usr/include/ncurses.h" 310) "ACS_STERLING" "NCURSES_ACS('}')")
+(macro ("/usr/include/ncurses.h" 318) "ACS_BSSB" "ACS_ULCORNER")
+(macro ("/usr/include/ncurses.h" 319) "ACS_SSBB" "ACS_LLCORNER")
+(macro ("/usr/include/ncurses.h" 320) "ACS_BBSS" "ACS_URCORNER")
+(macro ("/usr/include/ncurses.h" 321) "ACS_SBBS" "ACS_LRCORNER")
+(macro ("/usr/include/ncurses.h" 322) "ACS_SBSS" "ACS_RTEE")
+(macro ("/usr/include/ncurses.h" 323) "ACS_SSSB" "ACS_LTEE")
+(macro ("/usr/include/ncurses.h" 324) "ACS_SSBS" "ACS_BTEE")
+(macro ("/usr/include/ncurses.h" 325) "ACS_BSSS" "ACS_TTEE")
+(macro ("/usr/include/ncurses.h" 326) "ACS_BSBS" "ACS_HLINE")
+(macro ("/usr/include/ncurses.h" 327) "ACS_SBSB" "ACS_VLINE")
+(macro ("/usr/include/ncurses.h" 328) "ACS_SSSS" "ACS_PLUS")
+(undef-macro "ERR")
+(macro ("/usr/include/ncurses.h" 331) "ERR" "(-1)")
+(undef-macro "OK")
+(macro ("/usr/include/ncurses.h" 334) "OK" "(0)")
+(macro ("/usr/include/ncurses.h" 337) "_SUBWIN" "0x01")
+(macro ("/usr/include/ncurses.h" 338) "_ENDLINE" "0x02")
+(macro ("/usr/include/ncurses.h" 339) "_FULLWIN" "0x04")
+(macro ("/usr/include/ncurses.h" 340) "_SCROLLWIN" "0x08")
+(macro ("/usr/include/ncurses.h" 341) "_ISPAD" "0x10")
+(macro ("/usr/include/ncurses.h" 342) "_HASMOVED" "0x20")
+(macro ("/usr/include/ncurses.h" 343) "_WRAPPED" "0x40")
+(macro ("/usr/include/ncurses.h" 349) "_NOCHANGE" "-1")
+(macro ("/usr/include/ncurses.h" 355) "_NEWINDEX" "-1")
+(struct ("" 0)
+ "screen"
+ ())
+(type ("/usr/include/ncurses.h" 357)
+ "SCREEN"
+ (struct-ref "screen"))
+(struct ("" 0)
+ "_win_st"
+ ())
+(type ("/usr/include/ncurses.h" 358)
+ "WINDOW"
+ (struct-ref "_win_st"))
+(type ("/usr/include/ncurses.h" 360)
+ "attr_t"
+ (typedef "chtype"))
+(struct ("" 0)
+ "pdat"
+ (("_pad_y" (field (short ()) 0 2))
+  ("_pad_x" (field (short ()) 2 2))
+  ("_pad_top" (field (short ()) 4 2))
+  ("_pad_left" (field (short ()) 6 2))
+  ("_pad_bottom" (field (short ()) 8 2))
+  ("_pad_right" (field (short ()) 10 2))))
+(struct ("" 0)
+ "_win_st"
+ (("_cury" (field (short ()) 0 2))
+  ("_curx" (field (short ()) 2 2))
+  ("_maxy" (field (short ()) 4 2))
+  ("_maxx" (field (short ()) 6 2))
+  ("_begy" (field (short ()) 8 2))
+  ("_begx" (field (short ()) 10 2))
+  ("_flags" (field (short ()) 12 2))
+  ("_attrs" (field (typedef "attr_t") 16 8))
+  ("_bkgd" (field (typedef "chtype") 24 8))
+  ("_notimeout" (field (unsigned ()) 32 1))
+  ("_clear" (field (unsigned ()) 33 1))
+  ("_leaveok" (field (unsigned ()) 34 1))
+  ("_scroll" (field (unsigned ()) 35 1))
+  ("_idlok" (field (unsigned ()) 36 1))
+  ("_idcok" (field (unsigned ()) 37 1))
+  ("_immed" (field (unsigned ()) 38 1))
+  ("_sync" (field (unsigned ()) 39 1))
+  ("_use_keypad" (field (unsigned ()) 40 1))
+  ("_delay" (field (int ()) 44 4))
+  ("_line" (field (pointer (struct-ref "ldat")) 48 8))
+  ("_regtop" (field (short ()) 56 2))
+  ("_regbottom" (field (short ()) 58 2))
+  ("_parx" (field (int ()) 60 4))
+  ("_pary" (field (int ()) 64 4))
+  ("_parent" (field (pointer (typedef "WINDOW")) 72 8))
+  ("_pad" (field (struct-ref "pdat") 80 12))
+  ("_yoffset" (field (short ()) 92 2))))
+(macro ("/usr/include/ncurses.h" 535) "GCC_PRINTFLIKE ( fmt , var )" "")
+(macro ("/usr/include/ncurses.h" 543) "GCC_SCANFLIKE ( fmt , var )" "")
+(macro ("/usr/include/ncurses.h" 548) "GCC_NORETURN" "")
+(macro ("/usr/include/ncurses.h" 552) "GCC_UNUSED" "")
+(type ("/usr/include/ncurses.h" 559)
+ "NCURSES_OUTC"
+ (pointer (function
+  ((int ()) )
+  (int ()))))
+(function ("/usr/include/ncurses.h" 568)
+ "addch"
+ (function
+  ((unsigned-long ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 569)
+ "addchnstr"
+ (function
+  ((pointer (unsigned-long ())) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 570)
+ "addchstr"
+ (function
+  ((pointer (unsigned-long ())) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 571)
+ "addnstr"
+ (function
+  ((pointer (char ())) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 572)
+ "addstr"
+ (function
+  ((pointer (char ())) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 573)
+ "attroff"
+ (function
+  ((int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 574)
+ "attron"
+ (function
+  ((int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 575)
+ "attrset"
+ (function
+  ((int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 576)
+ "attr_get"
+ (function
+  ((pointer (typedef "attr_t")) (pointer (short ())) (pointer (void ())) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 577)
+ "attr_off"
+ (function
+  ((typedef "attr_t") (pointer (void ())) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 578)
+ "attr_on"
+ (function
+  ((typedef "attr_t") (pointer (void ())) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 579)
+ "attr_set"
+ (function
+  ((typedef "attr_t") (short ()) (pointer (void ())) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 580)
+ "baudrate"
+ (function
+  ()
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 581)
+ "beep"
+ (function
+  ()
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 582)
+ "bkgd"
+ (function
+  ((typedef "chtype") )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 583)
+ "bkgdset"
+ (function
+  ((typedef "chtype") )
+  (void ())) (extern))
+(function ("/usr/include/ncurses.h" 584)
+ "border"
+ (function
+  ((typedef "chtype") (typedef "chtype") (typedef "chtype") (typedef "chtype") (typedef "chtype") (typedef "chtype") (typedef "chtype") (typedef "chtype") )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 585)
+ "box"
+ (function
+  ((pointer (typedef "WINDOW")) (typedef "chtype") (typedef "chtype") )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 586)
+ "can_change_color"
+ (function
+  ()
+  (unsigned ())) (extern))
+(function ("/usr/include/ncurses.h" 587)
+ "cbreak"
+ (function
+  ()
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 588)
+ "chgat"
+ (function
+  ((int ()) (typedef "attr_t") (short ()) (pointer (void ())) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 589)
+ "clear"
+ (function
+  ()
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 590)
+ "clearok"
+ (function
+  ((pointer (typedef "WINDOW")) (unsigned ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 591)
+ "clrtobot"
+ (function
+  ()
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 592)
+ "clrtoeol"
+ (function
+  ()
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 593)
+ "color_content"
+ (function
+  ((short ()) (pointer (short ())) (pointer (short ())) (pointer (short ())) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 594)
+ "color_set"
+ (function
+  ((short ()) (pointer (void ())) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 595)
+ "COLOR_PAIR"
+ (function
+  ((int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 596)
+ "copywin"
+ (function
+  ((pointer (struct-ref "_win_st")) (pointer (typedef "WINDOW")) (int ()) (int ()) (int ()) (int ()) (int ()) (int ()) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 597)
+ "curs_set"
+ (function
+  ((int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 598)
+ "def_prog_mode"
+ (function
+  ()
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 599)
+ "def_shell_mode"
+ (function
+  ()
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 600)
+ "delay_output"
+ (function
+  ((int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 601)
+ "delch"
+ (function
+  ()
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 602)
+ "delscreen"
+ (function
+  ((pointer (typedef "SCREEN")) )
+  (void ())) (extern))
+(function ("/usr/include/ncurses.h" 603)
+ "delwin"
+ (function
+  ((pointer (typedef "WINDOW")) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 604)
+ "deleteln"
+ (function
+  ()
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 605)
+ "derwin"
+ (function
+  ((pointer (typedef "WINDOW")) (int ()) (int ()) (int ()) (int ()) )
+  (pointer (typedef "WINDOW"))) (extern))
+(function ("/usr/include/ncurses.h" 606)
+ "doupdate"
+ (function
+  ()
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 607)
+ "dupwin"
+ (function
+  ((pointer (typedef "WINDOW")) )
+  (pointer (typedef "WINDOW"))) (extern))
+(function ("/usr/include/ncurses.h" 608)
+ "echo"
+ (function
+  ()
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 609)
+ "echochar"
+ (function
+  ((unsigned-long ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 610)
+ "erase"
+ (function
+  ()
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 611)
+ "endwin"
+ (function
+  ()
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 612)
+ "erasechar"
+ (function
+  ()
+  (char ())) (extern))
+(function ("/usr/include/ncurses.h" 613)
+ "filter"
+ (function
+  ()
+  (void ())) (extern))
+(function ("/usr/include/ncurses.h" 614)
+ "flash"
+ (function
+  ()
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 615)
+ "flushinp"
+ (function
+  ()
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 616)
+ "getbkgd"
+ (function
+  ((pointer (typedef "WINDOW")) )
+  (typedef "chtype")) (extern))
+(function ("/usr/include/ncurses.h" 617)
+ "getch"
+ (function
+  ()
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 618)
+ "getnstr"
+ (function
+  ((pointer (char ())) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 619)
+ "getstr"
+ (function
+  ((pointer (char ())) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 620)
+ "getwin"
+ (function
+  ((pointer (typedef "FILE")) )
+  (pointer (typedef "WINDOW"))) (extern))
+(function ("/usr/include/ncurses.h" 621)
+ "halfdelay"
+ (function
+  ((int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 622)
+ "has_colors"
+ (function
+  ()
+  (unsigned ())) (extern))
+(function ("/usr/include/ncurses.h" 623)
+ "has_ic"
+ (function
+  ()
+  (unsigned ())) (extern))
+(function ("/usr/include/ncurses.h" 624)
+ "has_il"
+ (function
+  ()
+  (unsigned ())) (extern))
+(function ("/usr/include/ncurses.h" 625)
+ "hline"
+ (function
+  ((typedef "chtype") (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 626)
+ "idcok"
+ (function
+  ((pointer (typedef "WINDOW")) (unsigned ()) )
+  (void ())) (extern))
+(function ("/usr/include/ncurses.h" 627)
+ "idlok"
+ (function
+  ((pointer (typedef "WINDOW")) (unsigned ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 628)
+ "immedok"
+ (function
+  ((pointer (typedef "WINDOW")) (unsigned ()) )
+  (void ())) (extern))
+(function ("/usr/include/ncurses.h" 629)
+ "inch"
+ (function
+  ()
+  (typedef "chtype")) (extern))
+(function ("/usr/include/ncurses.h" 630)
+ "inchnstr"
+ (function
+  ((pointer (typedef "chtype")) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 631)
+ "inchstr"
+ (function
+  ((pointer (typedef "chtype")) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 632)
+ "initscr"
+ (function
+  ()
+  (pointer (typedef "WINDOW"))) (extern))
+(function ("/usr/include/ncurses.h" 633)
+ "init_color"
+ (function
+  ((short ()) (short ()) (short ()) (short ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 634)
+ "init_pair"
+ (function
+  ((short ()) (short ()) (short ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 635)
+ "innstr"
+ (function
+  ((pointer (char ())) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 636)
+ "insch"
+ (function
+  ((typedef "chtype") )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 637)
+ "insdelln"
+ (function
+  ((int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 638)
+ "insertln"
+ (function
+  ()
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 639)
+ "insnstr"
+ (function
+  ((pointer (char ())) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 640)
+ "insstr"
+ (function
+  ((pointer (char ())) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 641)
+ "instr"
+ (function
+  ((pointer (char ())) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 642)
+ "intrflush"
+ (function
+  ((pointer (typedef "WINDOW")) (unsigned ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 643)
+ "isendwin"
+ (function
+  ()
+  (unsigned ())) (extern))
+(function ("/usr/include/ncurses.h" 644)
+ "is_linetouched"
+ (function
+  ((pointer (typedef "WINDOW")) (int ()) )
+  (unsigned ())) (extern))
+(function ("/usr/include/ncurses.h" 645)
+ "is_wintouched"
+ (function
+  ((pointer (typedef "WINDOW")) )
+  (unsigned ())) (extern))
+(function ("/usr/include/ncurses.h" 646)
+ "keyname"
+ (function
+  ((int ()) )
+  (pointer (char ()))) (extern))
+(function ("/usr/include/ncurses.h" 647)
+ "keypad"
+ (function
+  ((pointer (typedef "WINDOW")) (unsigned ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 648)
+ "killchar"
+ (function
+  ()
+  (char ())) (extern))
+(function ("/usr/include/ncurses.h" 649)
+ "leaveok"
+ (function
+  ((pointer (typedef "WINDOW")) (unsigned ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 650)
+ "longname"
+ (function
+  ()
+  (pointer (char ()))) (extern))
+(function ("/usr/include/ncurses.h" 651)
+ "meta"
+ (function
+  ((pointer (typedef "WINDOW")) (unsigned ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 652)
+ "move"
+ (function
+  ((int ()) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 653)
+ "mvaddch"
+ (function
+  ((int ()) (int ()) (unsigned-long ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 654)
+ "mvaddchnstr"
+ (function
+  ((int ()) (int ()) (pointer (unsigned-long ())) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 655)
+ "mvaddchstr"
+ (function
+  ((int ()) (int ()) (pointer (unsigned-long ())) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 656)
+ "mvaddnstr"
+ (function
+  ((int ()) (int ()) (pointer (char ())) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 657)
+ "mvaddstr"
+ (function
+  ((int ()) (int ()) (pointer (char ())) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 658)
+ "mvchgat"
+ (function
+  ((int ()) (int ()) (int ()) (typedef "attr_t") (short ()) (pointer (void ())) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 659)
+ "mvcur"
+ (function
+  ((int ()) (int ()) (int ()) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 660)
+ "mvdelch"
+ (function
+  ((int ()) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 661)
+ "mvderwin"
+ (function
+  ((pointer (typedef "WINDOW")) (int ()) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 662)
+ "mvgetch"
+ (function
+  ((int ()) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 663)
+ "mvgetnstr"
+ (function
+  ((int ()) (int ()) (pointer (char ())) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 664)
+ "mvgetstr"
+ (function
+  ((int ()) (int ()) (pointer (char ())) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 665)
+ "mvhline"
+ (function
+  ((int ()) (int ()) (typedef "chtype") (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 666)
+ "mvinch"
+ (function
+  ((int ()) (int ()) )
+  (typedef "chtype")) (extern))
+(function ("/usr/include/ncurses.h" 667)
+ "mvinchnstr"
+ (function
+  ((int ()) (int ()) (pointer (typedef "chtype")) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 668)
+ "mvinchstr"
+ (function
+  ((int ()) (int ()) (pointer (typedef "chtype")) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 669)
+ "mvinnstr"
+ (function
+  ((int ()) (int ()) (pointer (char ())) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 670)
+ "mvinsch"
+ (function
+  ((int ()) (int ()) (typedef "chtype") )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 671)
+ "mvinsnstr"
+ (function
+  ((int ()) (int ()) (pointer (char ())) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 672)
+ "mvinsstr"
+ (function
+  ((int ()) (int ()) (pointer (char ())) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 673)
+ "mvinstr"
+ (function
+  ((int ()) (int ()) (pointer (char ())) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 675)
+ "mvprintw"
+ (function
+  ((int ()) (int ()) (pointer (char ())) (void ()))
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 677)
+ "mvscanw"
+ (function
+  ((int ()) (int ()) (pointer (char ())) (void ()))
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 678)
+ "mvvline"
+ (function
+  ((int ()) (int ()) (typedef "chtype") (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 679)
+ "mvwaddch"
+ (function
+  ((pointer (typedef "WINDOW")) (int ()) (int ()) (unsigned-long ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 680)
+ "mvwaddchnstr"
+ (function
+  ((pointer (typedef "WINDOW")) (int ()) (int ()) (pointer (unsigned-long ())) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 681)
+ "mvwaddchstr"
+ (function
+  ((pointer (typedef "WINDOW")) (int ()) (int ()) (pointer (unsigned-long ())) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 682)
+ "mvwaddnstr"
+ (function
+  ((pointer (typedef "WINDOW")) (int ()) (int ()) (pointer (char ())) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 683)
+ "mvwaddstr"
+ (function
+  ((pointer (typedef "WINDOW")) (int ()) (int ()) (pointer (char ())) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 684)
+ "mvwchgat"
+ (function
+  ((pointer (typedef "WINDOW")) (int ()) (int ()) (int ()) (typedef "attr_t") (short ()) (pointer (void ())) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 685)
+ "mvwdelch"
+ (function
+  ((pointer (typedef "WINDOW")) (int ()) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 686)
+ "mvwgetch"
+ (function
+  ((pointer (typedef "WINDOW")) (int ()) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 687)
+ "mvwgetnstr"
+ (function
+  ((pointer (typedef "WINDOW")) (int ()) (int ()) (pointer (char ())) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 688)
+ "mvwgetstr"
+ (function
+  ((pointer (typedef "WINDOW")) (int ()) (int ()) (pointer (char ())) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 689)
+ "mvwhline"
+ (function
+  ((pointer (typedef "WINDOW")) (int ()) (int ()) (typedef "chtype") (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 690)
+ "mvwin"
+ (function
+  ((pointer (typedef "WINDOW")) (int ()) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 691)
+ "mvwinch"
+ (function
+  ((pointer (typedef "WINDOW")) (int ()) (int ()) )
+  (typedef "chtype")) (extern))
+(function ("/usr/include/ncurses.h" 692)
+ "mvwinchnstr"
+ (function
+  ((pointer (typedef "WINDOW")) (int ()) (int ()) (pointer (typedef "chtype")) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 693)
+ "mvwinchstr"
+ (function
+  ((pointer (typedef "WINDOW")) (int ()) (int ()) (pointer (typedef "chtype")) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 694)
+ "mvwinnstr"
+ (function
+  ((pointer (typedef "WINDOW")) (int ()) (int ()) (pointer (char ())) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 695)
+ "mvwinsch"
+ (function
+  ((pointer (typedef "WINDOW")) (int ()) (int ()) (typedef "chtype") )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 696)
+ "mvwinsnstr"
+ (function
+  ((pointer (typedef "WINDOW")) (int ()) (int ()) (pointer (char ())) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 697)
+ "mvwinsstr"
+ (function
+  ((pointer (typedef "WINDOW")) (int ()) (int ()) (pointer (char ())) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 698)
+ "mvwinstr"
+ (function
+  ((pointer (typedef "WINDOW")) (int ()) (int ()) (pointer (char ())) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 700)
+ "mvwprintw"
+ (function
+  ((pointer (typedef "WINDOW")) (int ()) (int ()) (pointer (char ())) (void ()))
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 702)
+ "mvwscanw"
+ (function
+  ((pointer (typedef "WINDOW")) (int ()) (int ()) (pointer (char ())) (void ()))
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 703)
+ "mvwvline"
+ (function
+  ((pointer (typedef "WINDOW")) (int ()) (int ()) (typedef "chtype") (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 704)
+ "napms"
+ (function
+  ((int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 705)
+ "newpad"
+ (function
+  ((int ()) (int ()) )
+  (pointer (typedef "WINDOW"))) (extern))
+(function ("/usr/include/ncurses.h" 706)
+ "newterm"
+ (function
+  ((pointer (char ())) (pointer (typedef "FILE")) (pointer (typedef "FILE")) )
+  (pointer (typedef "SCREEN"))) (extern))
+(function ("/usr/include/ncurses.h" 707)
+ "newwin"
+ (function
+  ((int ()) (int ()) (int ()) (int ()) )
+  (pointer (typedef "WINDOW"))) (extern))
+(function ("/usr/include/ncurses.h" 708)
+ "nl"
+ (function
+  ()
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 709)
+ "nocbreak"
+ (function
+  ()
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 710)
+ "nodelay"
+ (function
+  ((pointer (typedef "WINDOW")) (unsigned ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 711)
+ "noecho"
+ (function
+  ()
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 712)
+ "nonl"
+ (function
+  ()
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 713)
+ "noqiflush"
+ (function
+  ()
+  (void ())) (extern))
+(function ("/usr/include/ncurses.h" 714)
+ "noraw"
+ (function
+  ()
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 715)
+ "notimeout"
+ (function
+  ((pointer (typedef "WINDOW")) (unsigned ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 716)
+ "overlay"
+ (function
+  ((pointer (struct-ref "_win_st")) (pointer (typedef "WINDOW")) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 717)
+ "overwrite"
+ (function
+  ((pointer (struct-ref "_win_st")) (pointer (typedef "WINDOW")) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 718)
+ "pair_content"
+ (function
+  ((short ()) (pointer (short ())) (pointer (short ())) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 719)
+ "PAIR_NUMBER"
+ (function
+  ((int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 720)
+ "pechochar"
+ (function
+  ((pointer (typedef "WINDOW")) (unsigned-long ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 721)
+ "pnoutrefresh"
+ (function
+  ((pointer (typedef "WINDOW")) (int ()) (int ()) (int ()) (int ()) (int ()) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 722)
+ "prefresh"
+ (function
+  ((pointer (typedef "WINDOW")) (int ()) (int ()) (int ()) (int ()) (int ()) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 724)
+ "printw"
+ (function
+  ((pointer (char ())) (void ()))
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 725)
+ "putwin"
+ (function
+  ((pointer (typedef "WINDOW")) (pointer (typedef "FILE")) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 726)
+ "qiflush"
+ (function
+  ()
+  (void ())) (extern))
+(function ("/usr/include/ncurses.h" 727)
+ "raw"
+ (function
+  ()
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 728)
+ "redrawwin"
+ (function
+  ((pointer (typedef "WINDOW")) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 729)
+ "refresh"
+ (function
+  ()
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 730)
+ "resetty"
+ (function
+  ()
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 731)
+ "reset_prog_mode"
+ (function
+  ()
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 732)
+ "reset_shell_mode"
+ (function
+  ()
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 733)
+ "ripoffline"
+ (function
+  ((int ()) (pointer (function
+   ((pointer (typedef "WINDOW")) (int ()) )
+   (int ()))) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 734)
+ "savetty"
+ (function
+  ()
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 736)
+ "scanw"
+ (function
+  ((pointer (char ())) (void ()))
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 737)
+ "scr_dump"
+ (function
+  ((pointer (char ())) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 738)
+ "scr_init"
+ (function
+  ((pointer (char ())) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 739)
+ "scrl"
+ (function
+  ((int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 740)
+ "scroll"
+ (function
+  ((pointer (typedef "WINDOW")) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 741)
+ "scrollok"
+ (function
+  ((pointer (typedef "WINDOW")) (unsigned ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 742)
+ "scr_restore"
+ (function
+  ((pointer (char ())) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 743)
+ "scr_set"
+ (function
+  ((pointer (char ())) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 744)
+ "setscrreg"
+ (function
+  ((int ()) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 745)
+ "set_term"
+ (function
+  ((pointer (typedef "SCREEN")) )
+  (pointer (typedef "SCREEN"))) (extern))
+(function ("/usr/include/ncurses.h" 746)
+ "slk_attroff"
+ (function
+  ((unsigned-long ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 747)
+ "slk_attr_off"
+ (function
+  ((unsigned-long ()) (pointer (void ())) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 748)
+ "slk_attron"
+ (function
+  ((unsigned-long ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 749)
+ "slk_attr_on"
+ (function
+  ((typedef "attr_t") (pointer (void ())) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 750)
+ "slk_attrset"
+ (function
+  ((unsigned-long ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 751)
+ "slk_attr"
+ (function
+  ()
+  (typedef "attr_t")) (extern))
+(function ("/usr/include/ncurses.h" 752)
+ "slk_attr_set"
+ (function
+  ((unsigned-long ()) (short ()) (pointer (void ())) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 753)
+ "slk_clear"
+ (function
+  ()
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 754)
+ "slk_color"
+ (function
+  ((short ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 755)
+ "slk_init"
+ (function
+  ((int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 756)
+ "slk_label"
+ (function
+  ((int ()) )
+  (pointer (char ()))) (extern))
+(function ("/usr/include/ncurses.h" 757)
+ "slk_noutrefresh"
+ (function
+  ()
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 758)
+ "slk_refresh"
+ (function
+  ()
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 759)
+ "slk_restore"
+ (function
+  ()
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 760)
+ "slk_set"
+ (function
+  ((int ()) (pointer (char ())) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 761)
+ "slk_touch"
+ (function
+  ()
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 762)
+ "standout"
+ (function
+  ()
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 763)
+ "standend"
+ (function
+  ()
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 764)
+ "start_color"
+ (function
+  ()
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 765)
+ "subpad"
+ (function
+  ((pointer (typedef "WINDOW")) (int ()) (int ()) (int ()) (int ()) )
+  (pointer (typedef "WINDOW"))) (extern))
+(function ("/usr/include/ncurses.h" 766)
+ "subwin"
+ (function
+  ((pointer (typedef "WINDOW")) (int ()) (int ()) (int ()) (int ()) )
+  (pointer (typedef "WINDOW"))) (extern))
+(function ("/usr/include/ncurses.h" 767)
+ "syncok"
+ (function
+  ((pointer (typedef "WINDOW")) (unsigned ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 768)
+ "termattrs"
+ (function
+  ()
+  (typedef "chtype")) (extern))
+(function ("/usr/include/ncurses.h" 769)
+ "termname"
+ (function
+  ()
+  (pointer (char ()))) (extern))
+(function ("/usr/include/ncurses.h" 770)
+ "timeout"
+ (function
+  ((int ()) )
+  (void ())) (extern))
+(function ("/usr/include/ncurses.h" 771)
+ "touchline"
+ (function
+  ((pointer (typedef "WINDOW")) (int ()) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 772)
+ "touchwin"
+ (function
+  ((pointer (typedef "WINDOW")) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 773)
+ "typeahead"
+ (function
+  ((int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 774)
+ "ungetch"
+ (function
+  ((int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 775)
+ "untouchwin"
+ (function
+  ((pointer (typedef "WINDOW")) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 776)
+ "use_env"
+ (function
+  ((unsigned ()) )
+  (void ())) (extern))
+(function ("/usr/include/ncurses.h" 777)
+ "use_tioctl"
+ (function
+  ((unsigned ()) )
+  (void ())) (extern))
+(function ("/usr/include/ncurses.h" 778)
+ "vidattr"
+ (function
+  ((typedef "chtype") )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 779)
+ "vidputs"
+ (function
+  ((typedef "chtype") (typedef "NCURSES_OUTC") )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 780)
+ "vline"
+ (function
+  ((typedef "chtype") (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 781)
+ "vwprintw"
+ (function
+  ((pointer (typedef "WINDOW")) (pointer (char ())) (pointer (struct-ref "__va_list_tag")) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 782)
+ "vw_printw"
+ (function
+  ((pointer (typedef "WINDOW")) (pointer (char ())) (pointer (struct-ref "__va_list_tag")) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 783)
+ "vwscanw"
+ (function
+  ((pointer (typedef "WINDOW")) (pointer (char ())) (pointer (struct-ref "__va_list_tag")) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 784)
+ "vw_scanw"
+ (function
+  ((pointer (typedef "WINDOW")) (pointer (char ())) (pointer (struct-ref "__va_list_tag")) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 785)
+ "waddch"
+ (function
+  ((pointer (typedef "WINDOW")) (unsigned-long ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 786)
+ "waddchnstr"
+ (function
+  ((pointer (typedef "WINDOW")) (pointer (unsigned-long ())) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 787)
+ "waddchstr"
+ (function
+  ((pointer (typedef "WINDOW")) (pointer (unsigned-long ())) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 788)
+ "waddnstr"
+ (function
+  ((pointer (typedef "WINDOW")) (pointer (char ())) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 789)
+ "waddstr"
+ (function
+  ((pointer (typedef "WINDOW")) (pointer (char ())) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 790)
+ "wattron"
+ (function
+  ((pointer (typedef "WINDOW")) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 791)
+ "wattroff"
+ (function
+  ((pointer (typedef "WINDOW")) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 792)
+ "wattrset"
+ (function
+  ((pointer (typedef "WINDOW")) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 793)
+ "wattr_get"
+ (function
+  ((pointer (typedef "WINDOW")) (pointer (typedef "attr_t")) (pointer (short ())) (pointer (void ())) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 794)
+ "wattr_on"
+ (function
+  ((pointer (typedef "WINDOW")) (typedef "attr_t") (pointer (void ())) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 795)
+ "wattr_off"
+ (function
+  ((pointer (typedef "WINDOW")) (typedef "attr_t") (pointer (void ())) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 796)
+ "wattr_set"
+ (function
+  ((pointer (typedef "WINDOW")) (typedef "attr_t") (short ()) (pointer (void ())) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 797)
+ "wbkgd"
+ (function
+  ((pointer (typedef "WINDOW")) (typedef "chtype") )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 798)
+ "wbkgdset"
+ (function
+  ((pointer (typedef "WINDOW")) (typedef "chtype") )
+  (void ())) (extern))
+(function ("/usr/include/ncurses.h" 799)
+ "wborder"
+ (function
+  ((pointer (typedef "WINDOW")) (typedef "chtype") (typedef "chtype") (typedef "chtype") (typedef "chtype") (typedef "chtype") (typedef "chtype") (typedef "chtype") (typedef "chtype") )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 800)
+ "wchgat"
+ (function
+  ((pointer (typedef "WINDOW")) (int ()) (typedef "attr_t") (short ()) (pointer (void ())) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 801)
+ "wclear"
+ (function
+  ((pointer (typedef "WINDOW")) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 802)
+ "wclrtobot"
+ (function
+  ((pointer (typedef "WINDOW")) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 803)
+ "wclrtoeol"
+ (function
+  ((pointer (typedef "WINDOW")) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 804)
+ "wcolor_set"
+ (function
+  ((pointer (typedef "WINDOW")) (short ()) (pointer (void ())) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 805)
+ "wcursyncup"
+ (function
+  ((pointer (typedef "WINDOW")) )
+  (void ())) (extern))
+(function ("/usr/include/ncurses.h" 806)
+ "wdelch"
+ (function
+  ((pointer (typedef "WINDOW")) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 807)
+ "wdeleteln"
+ (function
+  ((pointer (typedef "WINDOW")) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 808)
+ "wechochar"
+ (function
+  ((pointer (typedef "WINDOW")) (unsigned-long ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 809)
+ "werase"
+ (function
+  ((pointer (typedef "WINDOW")) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 810)
+ "wgetch"
+ (function
+  ((pointer (typedef "WINDOW")) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 811)
+ "wgetnstr"
+ (function
+  ((pointer (typedef "WINDOW")) (pointer (char ())) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 812)
+ "wgetstr"
+ (function
+  ((pointer (typedef "WINDOW")) (pointer (char ())) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 813)
+ "whline"
+ (function
+  ((pointer (typedef "WINDOW")) (typedef "chtype") (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 814)
+ "winch"
+ (function
+  ((pointer (typedef "WINDOW")) )
+  (typedef "chtype")) (extern))
+(function ("/usr/include/ncurses.h" 815)
+ "winchnstr"
+ (function
+  ((pointer (typedef "WINDOW")) (pointer (typedef "chtype")) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 816)
+ "winchstr"
+ (function
+  ((pointer (typedef "WINDOW")) (pointer (typedef "chtype")) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 817)
+ "winnstr"
+ (function
+  ((pointer (typedef "WINDOW")) (pointer (char ())) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 818)
+ "winsch"
+ (function
+  ((pointer (typedef "WINDOW")) (typedef "chtype") )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 819)
+ "winsdelln"
+ (function
+  ((pointer (typedef "WINDOW")) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 820)
+ "winsertln"
+ (function
+  ((pointer (typedef "WINDOW")) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 821)
+ "winsnstr"
+ (function
+  ((pointer (typedef "WINDOW")) (pointer (char ())) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 822)
+ "winsstr"
+ (function
+  ((pointer (typedef "WINDOW")) (pointer (char ())) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 823)
+ "winstr"
+ (function
+  ((pointer (typedef "WINDOW")) (pointer (char ())) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 824)
+ "wmove"
+ (function
+  ((pointer (typedef "WINDOW")) (int ()) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 825)
+ "wnoutrefresh"
+ (function
+  ((pointer (typedef "WINDOW")) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 827)
+ "wprintw"
+ (function
+  ((pointer (typedef "WINDOW")) (pointer (char ())) (void ()))
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 828)
+ "wredrawln"
+ (function
+  ((pointer (typedef "WINDOW")) (int ()) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 829)
+ "wrefresh"
+ (function
+  ((pointer (typedef "WINDOW")) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 831)
+ "wscanw"
+ (function
+  ((pointer (typedef "WINDOW")) (pointer (char ())) (void ()))
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 832)
+ "wscrl"
+ (function
+  ((pointer (typedef "WINDOW")) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 833)
+ "wsetscrreg"
+ (function
+  ((pointer (typedef "WINDOW")) (int ()) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 834)
+ "wstandout"
+ (function
+  ((pointer (typedef "WINDOW")) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 835)
+ "wstandend"
+ (function
+  ((pointer (typedef "WINDOW")) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 836)
+ "wsyncdown"
+ (function
+  ((pointer (typedef "WINDOW")) )
+  (void ())) (extern))
+(function ("/usr/include/ncurses.h" 837)
+ "wsyncup"
+ (function
+  ((pointer (typedef "WINDOW")) )
+  (void ())) (extern))
+(function ("/usr/include/ncurses.h" 838)
+ "wtimeout"
+ (function
+  ((pointer (typedef "WINDOW")) (int ()) )
+  (void ())) (extern))
+(function ("/usr/include/ncurses.h" 839)
+ "wtouchln"
+ (function
+  ((pointer (typedef "WINDOW")) (int ()) (int ()) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 840)
+ "wvline"
+ (function
+  ((pointer (typedef "WINDOW")) (typedef "chtype") (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 845)
+ "tigetflag"
+ (function
+  ((pointer (char ())) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 846)
+ "tigetnum"
+ (function
+  ((pointer (char ())) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 847)
+ "tigetstr"
+ (function
+  ((pointer (char ())) )
+  (pointer (char ()))) (extern))
+(function ("/usr/include/ncurses.h" 848)
+ "putp"
+ (function
+  ((pointer (char ())) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 851)
+ "tparm"
+ (function
+  ((pointer (char ())) (void ()))
+  (pointer (char ()))) (extern))
+(function ("/usr/include/ncurses.h" 857)
+ "tiparm"
+ (function
+  ((pointer (char ())) (void ()))
+  (pointer (char ()))) (extern))
+(function ("/usr/include/ncurses.h" 862)
+ "getattrs"
+ (function
+  ((pointer (struct-ref "_win_st")) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 863)
+ "getcurx"
+ (function
+  ((pointer (struct-ref "_win_st")) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 864)
+ "getcury"
+ (function
+  ((pointer (struct-ref "_win_st")) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 865)
+ "getbegx"
+ (function
+  ((pointer (struct-ref "_win_st")) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 866)
+ "getbegy"
+ (function
+  ((pointer (struct-ref "_win_st")) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 867)
+ "getmaxx"
+ (function
+  ((pointer (struct-ref "_win_st")) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 868)
+ "getmaxy"
+ (function
+  ((pointer (struct-ref "_win_st")) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 869)
+ "getparx"
+ (function
+  ((pointer (struct-ref "_win_st")) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 870)
+ "getpary"
+ (function
+  ((pointer (struct-ref "_win_st")) )
+  (int ())) (extern))
+(macro ("/usr/include/ncurses.h" 876) "vid_attr ( a , pair , opts )" "vidattr(a)")
+(undef-macro "NCURSES_EXT_FUNCS")
+(macro ("/usr/include/ncurses.h" 884) "NCURSES_EXT_FUNCS" "20140118")
+(type ("/usr/include/ncurses.h" 885)
+ "NCURSES_WINDOW_CB"
+ (pointer (function
+  ((pointer (typedef "WINDOW")) (pointer (void ())) )
+  (int ()))))
+(type ("/usr/include/ncurses.h" 886)
+ "NCURSES_SCREEN_CB"
+ (pointer (function
+  ((pointer (typedef "SCREEN")) (pointer (void ())) )
+  (int ()))))
+(function ("/usr/include/ncurses.h" 887)
+ "is_term_resized"
+ (function
+  ((int ()) (int ()) )
+  (unsigned ())) (extern))
+(function ("/usr/include/ncurses.h" 888)
+ "keybound"
+ (function
+  ((int ()) (int ()) )
+  (pointer (char ()))) (extern))
+(function ("/usr/include/ncurses.h" 889)
+ "curses_version"
+ (function
+  ()
+  (pointer (char ()))) (extern))
+(function ("/usr/include/ncurses.h" 890)
+ "assume_default_colors"
+ (function
+  ((int ()) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 891)
+ "define_key"
+ (function
+  ((pointer (char ())) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 892)
+ "get_escdelay"
+ (function
+  ()
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 893)
+ "key_defined"
+ (function
+  ((pointer (char ())) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 894)
+ "keyok"
+ (function
+  ((int ()) (unsigned ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 895)
+ "resize_term"
+ (function
+  ((int ()) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 896)
+ "resizeterm"
+ (function
+  ((int ()) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 897)
+ "set_escdelay"
+ (function
+  ((int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 898)
+ "set_tabsize"
+ (function
+  ((int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 899)
+ "use_default_colors"
+ (function
+  ()
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 900)
+ "use_extended_names"
+ (function
+  ((unsigned ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 901)
+ "use_legacy_coding"
+ (function
+  ((int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 902)
+ "use_screen"
+ (function
+  ((pointer (typedef "SCREEN")) (typedef "NCURSES_SCREEN_CB") (pointer (void ())) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 903)
+ "use_window"
+ (function
+  ((pointer (typedef "WINDOW")) (typedef "NCURSES_WINDOW_CB") (pointer (void ())) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 904)
+ "wresize"
+ (function
+  ((pointer (typedef "WINDOW")) (int ()) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 905)
+ "nofilter"
+ (function
+  ()
+  (void ())) (extern))
+(function ("/usr/include/ncurses.h" 911)
+ "wgetparent"
+ (function
+  ((pointer (struct-ref "_win_st")) )
+  (pointer (typedef "WINDOW"))) (extern))
+(function ("/usr/include/ncurses.h" 912)
+ "is_cleared"
+ (function
+  ((pointer (struct-ref "_win_st")) )
+  (unsigned ())) (extern))
+(function ("/usr/include/ncurses.h" 913)
+ "is_idcok"
+ (function
+  ((pointer (struct-ref "_win_st")) )
+  (unsigned ())) (extern))
+(function ("/usr/include/ncurses.h" 914)
+ "is_idlok"
+ (function
+  ((pointer (struct-ref "_win_st")) )
+  (unsigned ())) (extern))
+(function ("/usr/include/ncurses.h" 915)
+ "is_immedok"
+ (function
+  ((pointer (struct-ref "_win_st")) )
+  (unsigned ())) (extern))
+(function ("/usr/include/ncurses.h" 916)
+ "is_keypad"
+ (function
+  ((pointer (struct-ref "_win_st")) )
+  (unsigned ())) (extern))
+(function ("/usr/include/ncurses.h" 917)
+ "is_leaveok"
+ (function
+  ((pointer (struct-ref "_win_st")) )
+  (unsigned ())) (extern))
+(function ("/usr/include/ncurses.h" 918)
+ "is_nodelay"
+ (function
+  ((pointer (struct-ref "_win_st")) )
+  (unsigned ())) (extern))
+(function ("/usr/include/ncurses.h" 919)
+ "is_notimeout"
+ (function
+  ((pointer (struct-ref "_win_st")) )
+  (unsigned ())) (extern))
+(function ("/usr/include/ncurses.h" 920)
+ "is_pad"
+ (function
+  ((pointer (struct-ref "_win_st")) )
+  (unsigned ())) (extern))
+(function ("/usr/include/ncurses.h" 921)
+ "is_scrollok"
+ (function
+  ((pointer (struct-ref "_win_st")) )
+  (unsigned ())) (extern))
+(function ("/usr/include/ncurses.h" 922)
+ "is_subwin"
+ (function
+  ((pointer (struct-ref "_win_st")) )
+  (unsigned ())) (extern))
+(function ("/usr/include/ncurses.h" 923)
+ "is_syncok"
+ (function
+  ((pointer (struct-ref "_win_st")) )
+  (unsigned ())) (extern))
+(function ("/usr/include/ncurses.h" 924)
+ "wgetscrreg"
+ (function
+  ((pointer (struct-ref "_win_st")) (pointer (int ())) (pointer (int ())) )
+  (int ())) (extern))
+(undef-macro "NCURSES_SP_FUNCS")
+(macro ("/usr/include/ncurses.h" 1036) "NCURSES_SP_FUNCS" "0")
+(macro ("/usr/include/ncurses.h" 1037) "NCURSES_SP_NAME ( name )" "name")
+(macro ("/usr/include/ncurses.h" 1038) "NCURSES_SP_OUTC" "NCURSES_OUTC")
+(macro ("/usr/include/ncurses.h" 1043) "NCURSES_ATTR_SHIFT" "8")
+(macro ("/usr/include/ncurses.h" 1044) "NCURSES_BITS ( mask , shift )" "(NCURSES_CAST(chtype,(mask)) << ((shift) + NCURSES_ATTR_SHIFT))")
+(macro ("/usr/include/ncurses.h" 1046) "A_NORMAL" "(1UL - 1UL)")
+(macro ("/usr/include/ncurses.h" 1047) "A_ATTRIBUTES" "NCURSES_BITS(~(1UL - 1UL),0)")
+(macro ("/usr/include/ncurses.h" 1048) "A_CHARTEXT" "(NCURSES_BITS(1UL,0) - 1UL)")
+(macro ("/usr/include/ncurses.h" 1049) "A_COLOR" "NCURSES_BITS(((1UL) << 8) - 1UL,0)")
+(macro ("/usr/include/ncurses.h" 1050) "A_STANDOUT" "NCURSES_BITS(1UL,8)")
+(macro ("/usr/include/ncurses.h" 1051) "A_UNDERLINE" "NCURSES_BITS(1UL,9)")
+(macro ("/usr/include/ncurses.h" 1052) "A_REVERSE" "NCURSES_BITS(1UL,10)")
+(macro ("/usr/include/ncurses.h" 1053) "A_BLINK" "NCURSES_BITS(1UL,11)")
+(macro ("/usr/include/ncurses.h" 1054) "A_DIM" "NCURSES_BITS(1UL,12)")
+(macro ("/usr/include/ncurses.h" 1055) "A_BOLD" "NCURSES_BITS(1UL,13)")
+(macro ("/usr/include/ncurses.h" 1056) "A_ALTCHARSET" "NCURSES_BITS(1UL,14)")
+(macro ("/usr/include/ncurses.h" 1057) "A_INVIS" "NCURSES_BITS(1UL,15)")
+(macro ("/usr/include/ncurses.h" 1058) "A_PROTECT" "NCURSES_BITS(1UL,16)")
+(macro ("/usr/include/ncurses.h" 1059) "A_HORIZONTAL" "NCURSES_BITS(1UL,17)")
+(macro ("/usr/include/ncurses.h" 1060) "A_LEFT" "NCURSES_BITS(1UL,18)")
+(macro ("/usr/include/ncurses.h" 1061) "A_LOW" "NCURSES_BITS(1UL,19)")
+(macro ("/usr/include/ncurses.h" 1062) "A_RIGHT" "NCURSES_BITS(1UL,20)")
+(macro ("/usr/include/ncurses.h" 1063) "A_TOP" "NCURSES_BITS(1UL,21)")
+(macro ("/usr/include/ncurses.h" 1064) "A_VERTICAL" "NCURSES_BITS(1UL,22)")
+(macro ("/usr/include/ncurses.h" 1067) "A_ITALIC" "NCURSES_BITS(1UL,23)")
+(macro ("/usr/include/ncurses.h" 1080) "getyx ( win , y , x )" "(y = getcury(win), x = getcurx(win))")
+(macro ("/usr/include/ncurses.h" 1081) "getbegyx ( win , y , x )" "(y = getbegy(win), x = getbegx(win))")
+(macro ("/usr/include/ncurses.h" 1082) "getmaxyx ( win , y , x )" "(y = getmaxy(win), x = getmaxx(win))")
+(macro ("/usr/include/ncurses.h" 1083) "getparyx ( win , y , x )" "(y = getpary(win), x = getparx(win))")
+(macro ("/usr/include/ncurses.h" 1085) "getsyx ( y , x )" "do { if (newscr) { if (is_leaveok(newscr)) (y) = (x) = -1; else getyx(newscr,(y), (x)); } } while(0)")
+(macro ("/usr/include/ncurses.h" 1093) "setsyx ( y , x )" "do { if (newscr) { if ((y) == -1 && (x) == -1) leaveok(newscr, TRUE); else { leaveok(newscr, FALSE); wmove(newscr, (y), (x)); } } } while(0)")
+(macro ("/usr/include/ncurses.h" 1109) "wgetstr ( w , s )" "wgetnstr(w, s, -1)")
+(macro ("/usr/include/ncurses.h" 1110) "getnstr ( s , n )" "wgetnstr(stdscr, s, (n))")
+(macro ("/usr/include/ncurses.h" 1112) "setterm ( term )" "setupterm(term, 1, (int *)0)")
+(macro ("/usr/include/ncurses.h" 1114) "fixterm (  )" "reset_prog_mode()")
+(macro ("/usr/include/ncurses.h" 1115) "resetterm (  )" "reset_shell_mode()")
+(macro ("/usr/include/ncurses.h" 1116) "saveterm (  )" "def_prog_mode()")
+(macro ("/usr/include/ncurses.h" 1117) "crmode (  )" "cbreak()")
+(macro ("/usr/include/ncurses.h" 1118) "nocrmode (  )" "nocbreak()")
+(macro ("/usr/include/ncurses.h" 1119) "gettmode (  )" "")
+(macro ("/usr/include/ncurses.h" 1123) "getattrs ( win )" "NCURSES_CAST(int, (win) ? (win)->_attrs : A_NORMAL)")
+(macro ("/usr/include/ncurses.h" 1124) "getcurx ( win )" "((win) ? (win)->_curx : ERR)")
+(macro ("/usr/include/ncurses.h" 1125) "getcury ( win )" "((win) ? (win)->_cury : ERR)")
+(macro ("/usr/include/ncurses.h" 1126) "getbegx ( win )" "((win) ? (win)->_begx : ERR)")
+(macro ("/usr/include/ncurses.h" 1127) "getbegy ( win )" "((win) ? (win)->_begy : ERR)")
+(macro ("/usr/include/ncurses.h" 1128) "getmaxx ( win )" "((win) ? ((win)->_maxx + 1) : ERR)")
+(macro ("/usr/include/ncurses.h" 1129) "getmaxy ( win )" "((win) ? ((win)->_maxy + 1) : ERR)")
+(macro ("/usr/include/ncurses.h" 1130) "getparx ( win )" "((win) ? (win)->_parx : ERR)")
+(macro ("/usr/include/ncurses.h" 1131) "getpary ( win )" "((win) ? (win)->_pary : ERR)")
+(macro ("/usr/include/ncurses.h" 1134) "wstandout ( win )" "(wattrset(win,A_STANDOUT))")
+(macro ("/usr/include/ncurses.h" 1135) "wstandend ( win )" "(wattrset(win,A_NORMAL))")
+(macro ("/usr/include/ncurses.h" 1137) "wattron ( win , at )" "wattr_on(win, NCURSES_CAST(attr_t, at), NULL)")
+(macro ("/usr/include/ncurses.h" 1138) "wattroff ( win , at )" "wattr_off(win, NCURSES_CAST(attr_t, at), NULL)")
+(macro ("/usr/include/ncurses.h" 1148) "wattrset ( win , at )" "((win) ? ((win)->_attrs = NCURSES_CAST(attr_t, at), OK) : ERR)")
+(macro ("/usr/include/ncurses.h" 1155) "scroll ( win )" "wscrl(win,1)")
+(macro ("/usr/include/ncurses.h" 1157) "touchwin ( win )" "wtouchln((win), 0, getmaxy(win), 1)")
+(macro ("/usr/include/ncurses.h" 1158) "touchline ( win , s , c )" "wtouchln((win), s, c, 1)")
+(macro ("/usr/include/ncurses.h" 1159) "untouchwin ( win )" "wtouchln((win), 0, getmaxy(win), 0)")
+(macro ("/usr/include/ncurses.h" 1161) "box ( win , v , h )" "wborder(win, v, v, h, h, 0, 0, 0, 0)")
+(macro ("/usr/include/ncurses.h" 1162) "border ( ls , rs , ts , bs , tl , tr , bl , br )" "wborder(stdscr, ls, rs, ts, bs, tl, tr, bl, br)")
+(macro ("/usr/include/ncurses.h" 1163) "hline ( ch , n )" "whline(stdscr, ch, (n))")
+(macro ("/usr/include/ncurses.h" 1164) "vline ( ch , n )" "wvline(stdscr, ch, (n))")
+(macro ("/usr/include/ncurses.h" 1166) "winstr ( w , s )" "winnstr(w, s, -1)")
+(macro ("/usr/include/ncurses.h" 1167) "winchstr ( w , s )" "winchnstr(w, s, -1)")
+(macro ("/usr/include/ncurses.h" 1168) "winsstr ( w , s )" "winsnstr(w, s, -1)")
+(macro ("/usr/include/ncurses.h" 1171) "redrawwin ( win )" "wredrawln(win, 0, ((win) ? (win)->_maxy+1 : -1))")
+(macro ("/usr/include/ncurses.h" 1174) "waddstr ( win , str )" "waddnstr(win,str,-1)")
+(macro ("/usr/include/ncurses.h" 1175) "waddchstr ( win , str )" "waddchnstr(win,str,-1)")
+(macro ("/usr/include/ncurses.h" 1180) "COLOR_PAIR ( n )" "NCURSES_BITS((n), 0)")
+(macro ("/usr/include/ncurses.h" 1181) "PAIR_NUMBER ( a )" "(NCURSES_CAST(int,((NCURSES_CAST(unsigned long,(a)) & A_COLOR) >> NCURSES_ATTR_SHIFT)))")
+(macro ("/usr/include/ncurses.h" 1187) "addch ( ch )" "waddch(stdscr,(ch))")
+(macro ("/usr/include/ncurses.h" 1188) "addchnstr ( str , n )" "waddchnstr(stdscr,(str),(n))")
+(macro ("/usr/include/ncurses.h" 1189) "addchstr ( str )" "waddchstr(stdscr,(str))")
+(macro ("/usr/include/ncurses.h" 1190) "addnstr ( str , n )" "waddnstr(stdscr,(str),(n))")
+(macro ("/usr/include/ncurses.h" 1191) "addstr ( str )" "waddnstr(stdscr,(str),-1)")
+(macro ("/usr/include/ncurses.h" 1192) "attroff ( at )" "wattroff(stdscr,(at))")
+(macro ("/usr/include/ncurses.h" 1193) "attron ( at )" "wattron(stdscr,(at))")
+(macro ("/usr/include/ncurses.h" 1194) "attrset ( at )" "wattrset(stdscr,(at))")
+(macro ("/usr/include/ncurses.h" 1195) "attr_get ( ap , cp , o )" "wattr_get(stdscr,(ap),(cp),(o))")
+(macro ("/usr/include/ncurses.h" 1196) "attr_off ( a , o )" "wattr_off(stdscr,(a),(o))")
+(macro ("/usr/include/ncurses.h" 1197) "attr_on ( a , o )" "wattr_on(stdscr,(a),(o))")
+(macro ("/usr/include/ncurses.h" 1198) "attr_set ( a , c , o )" "wattr_set(stdscr,(a),(c),(o))")
+(macro ("/usr/include/ncurses.h" 1199) "bkgd ( ch )" "wbkgd(stdscr,(ch))")
+(macro ("/usr/include/ncurses.h" 1200) "bkgdset ( ch )" "wbkgdset(stdscr,(ch))")
+(macro ("/usr/include/ncurses.h" 1201) "chgat ( n , a , c , o )" "wchgat(stdscr,(n),(a),(c),(o))")
+(macro ("/usr/include/ncurses.h" 1202) "clear (  )" "wclear(stdscr)")
+(macro ("/usr/include/ncurses.h" 1203) "clrtobot (  )" "wclrtobot(stdscr)")
+(macro ("/usr/include/ncurses.h" 1204) "clrtoeol (  )" "wclrtoeol(stdscr)")
+(macro ("/usr/include/ncurses.h" 1205) "color_set ( c , o )" "wcolor_set(stdscr,(c),(o))")
+(macro ("/usr/include/ncurses.h" 1206) "delch (  )" "wdelch(stdscr)")
+(macro ("/usr/include/ncurses.h" 1207) "deleteln (  )" "winsdelln(stdscr,-1)")
+(macro ("/usr/include/ncurses.h" 1208) "echochar ( c )" "wechochar(stdscr,(c))")
+(macro ("/usr/include/ncurses.h" 1209) "erase (  )" "werase(stdscr)")
+(macro ("/usr/include/ncurses.h" 1210) "getch (  )" "wgetch(stdscr)")
+(macro ("/usr/include/ncurses.h" 1211) "getstr ( str )" "wgetstr(stdscr,(str))")
+(macro ("/usr/include/ncurses.h" 1212) "inch (  )" "winch(stdscr)")
+(macro ("/usr/include/ncurses.h" 1213) "inchnstr ( s , n )" "winchnstr(stdscr,(s),(n))")
+(macro ("/usr/include/ncurses.h" 1214) "inchstr ( s )" "winchstr(stdscr,(s))")
+(macro ("/usr/include/ncurses.h" 1215) "innstr ( s , n )" "winnstr(stdscr,(s),(n))")
+(macro ("/usr/include/ncurses.h" 1216) "insch ( c )" "winsch(stdscr,(c))")
+(macro ("/usr/include/ncurses.h" 1217) "insdelln ( n )" "winsdelln(stdscr,(n))")
+(macro ("/usr/include/ncurses.h" 1218) "insertln (  )" "winsdelln(stdscr,1)")
+(macro ("/usr/include/ncurses.h" 1219) "insnstr ( s , n )" "winsnstr(stdscr,(s),(n))")
+(macro ("/usr/include/ncurses.h" 1220) "insstr ( s )" "winsstr(stdscr,(s))")
+(macro ("/usr/include/ncurses.h" 1221) "instr ( s )" "winstr(stdscr,(s))")
+(macro ("/usr/include/ncurses.h" 1222) "move ( y , x )" "wmove(stdscr,(y),(x))")
+(macro ("/usr/include/ncurses.h" 1223) "refresh (  )" "wrefresh(stdscr)")
+(macro ("/usr/include/ncurses.h" 1224) "scrl ( n )" "wscrl(stdscr,(n))")
+(macro ("/usr/include/ncurses.h" 1225) "setscrreg ( t , b )" "wsetscrreg(stdscr,(t),(b))")
+(macro ("/usr/include/ncurses.h" 1226) "standend (  )" "wstandend(stdscr)")
+(macro ("/usr/include/ncurses.h" 1227) "standout (  )" "wstandout(stdscr)")
+(macro ("/usr/include/ncurses.h" 1228) "timeout ( delay )" "wtimeout(stdscr,(delay))")
+(macro ("/usr/include/ncurses.h" 1229) "wdeleteln ( win )" "winsdelln(win,-1)")
+(macro ("/usr/include/ncurses.h" 1230) "winsertln ( win )" "winsdelln(win,1)")
+(macro ("/usr/include/ncurses.h" 1236) "mvwaddch ( win , y , x , ch )" "(wmove((win),(y),(x)) == ERR ? ERR : waddch((win),(ch)))")
+(macro ("/usr/include/ncurses.h" 1237) "mvwaddchnstr ( win , y , x , str , n )" "(wmove((win),(y),(x)) == ERR ? ERR : waddchnstr((win),(str),(n)))")
+(macro ("/usr/include/ncurses.h" 1238) "mvwaddchstr ( win , y , x , str )" "(wmove((win),(y),(x)) == ERR ? ERR : waddchnstr((win),(str),-1))")
+(macro ("/usr/include/ncurses.h" 1239) "mvwaddnstr ( win , y , x , str , n )" "(wmove((win),(y),(x)) == ERR ? ERR : waddnstr((win),(str),(n)))")
+(macro ("/usr/include/ncurses.h" 1240) "mvwaddstr ( win , y , x , str )" "(wmove((win),(y),(x)) == ERR ? ERR : waddnstr((win),(str),-1))")
+(macro ("/usr/include/ncurses.h" 1241) "mvwdelch ( win , y , x )" "(wmove((win),(y),(x)) == ERR ? ERR : wdelch(win))")
+(macro ("/usr/include/ncurses.h" 1242) "mvwchgat ( win , y , x , n , a , c , o )" "(wmove((win),(y),(x)) == ERR ? ERR : wchgat((win),(n),(a),(c),(o)))")
+(macro ("/usr/include/ncurses.h" 1243) "mvwgetch ( win , y , x )" "(wmove((win),(y),(x)) == ERR ? ERR : wgetch(win))")
+(macro ("/usr/include/ncurses.h" 1244) "mvwgetnstr ( win , y , x , str , n )" "(wmove((win),(y),(x)) == ERR ? ERR : wgetnstr((win),(str),(n)))")
+(macro ("/usr/include/ncurses.h" 1245) "mvwgetstr ( win , y , x , str )" "(wmove((win),(y),(x)) == ERR ? ERR : wgetstr((win),(str)))")
+(macro ("/usr/include/ncurses.h" 1246) "mvwhline ( win , y , x , c , n )" "(wmove((win),(y),(x)) == ERR ? ERR : whline((win),(c),(n)))")
+(macro ("/usr/include/ncurses.h" 1247) "mvwinch ( win , y , x )" "(wmove((win),(y),(x)) == ERR ? NCURSES_CAST(chtype, ERR) : winch(win))")
+(macro ("/usr/include/ncurses.h" 1248) "mvwinchnstr ( win , y , x , s , n )" "(wmove((win),(y),(x)) == ERR ? ERR : winchnstr((win),(s),(n)))")
+(macro ("/usr/include/ncurses.h" 1249) "mvwinchstr ( win , y , x , s )" "(wmove((win),(y),(x)) == ERR ? ERR : winchstr((win),(s)))")
+(macro ("/usr/include/ncurses.h" 1250) "mvwinnstr ( win , y , x , s , n )" "(wmove((win),(y),(x)) == ERR ? ERR : winnstr((win),(s),(n)))")
+(macro ("/usr/include/ncurses.h" 1251) "mvwinsch ( win , y , x , c )" "(wmove((win),(y),(x)) == ERR ? ERR : winsch((win),(c)))")
+(macro ("/usr/include/ncurses.h" 1252) "mvwinsnstr ( win , y , x , s , n )" "(wmove((win),(y),(x)) == ERR ? ERR : winsnstr((win),(s),(n)))")
+(macro ("/usr/include/ncurses.h" 1253) "mvwinsstr ( win , y , x , s )" "(wmove((win),(y),(x)) == ERR ? ERR : winsstr((win),(s)))")
+(macro ("/usr/include/ncurses.h" 1254) "mvwinstr ( win , y , x , s )" "(wmove((win),(y),(x)) == ERR ? ERR : winstr((win),(s)))")
+(macro ("/usr/include/ncurses.h" 1255) "mvwvline ( win , y , x , c , n )" "(wmove((win),(y),(x)) == ERR ? ERR : wvline((win),(c),(n)))")
+(macro ("/usr/include/ncurses.h" 1257) "mvaddch ( y , x , ch )" "mvwaddch(stdscr,(y),(x),(ch))")
+(macro ("/usr/include/ncurses.h" 1258) "mvaddchnstr ( y , x , str , n )" "mvwaddchnstr(stdscr,(y),(x),(str),(n))")
+(macro ("/usr/include/ncurses.h" 1259) "mvaddchstr ( y , x , str )" "mvwaddchstr(stdscr,(y),(x),(str))")
+(macro ("/usr/include/ncurses.h" 1260) "mvaddnstr ( y , x , str , n )" "mvwaddnstr(stdscr,(y),(x),(str),(n))")
+(macro ("/usr/include/ncurses.h" 1261) "mvaddstr ( y , x , str )" "mvwaddstr(stdscr,(y),(x),(str))")
+(macro ("/usr/include/ncurses.h" 1262) "mvchgat ( y , x , n , a , c , o )" "mvwchgat(stdscr,(y),(x),(n),(a),(c),(o))")
+(macro ("/usr/include/ncurses.h" 1263) "mvdelch ( y , x )" "mvwdelch(stdscr,(y),(x))")
+(macro ("/usr/include/ncurses.h" 1264) "mvgetch ( y , x )" "mvwgetch(stdscr,(y),(x))")
+(macro ("/usr/include/ncurses.h" 1265) "mvgetnstr ( y , x , str , n )" "mvwgetnstr(stdscr,(y),(x),(str),(n))")
+(macro ("/usr/include/ncurses.h" 1266) "mvgetstr ( y , x , str )" "mvwgetstr(stdscr,(y),(x),(str))")
+(macro ("/usr/include/ncurses.h" 1267) "mvhline ( y , x , c , n )" "mvwhline(stdscr,(y),(x),(c),(n))")
+(macro ("/usr/include/ncurses.h" 1268) "mvinch ( y , x )" "mvwinch(stdscr,(y),(x))")
+(macro ("/usr/include/ncurses.h" 1269) "mvinchnstr ( y , x , s , n )" "mvwinchnstr(stdscr,(y),(x),(s),(n))")
+(macro ("/usr/include/ncurses.h" 1270) "mvinchstr ( y , x , s )" "mvwinchstr(stdscr,(y),(x),(s))")
+(macro ("/usr/include/ncurses.h" 1271) "mvinnstr ( y , x , s , n )" "mvwinnstr(stdscr,(y),(x),(s),(n))")
+(macro ("/usr/include/ncurses.h" 1272) "mvinsch ( y , x , c )" "mvwinsch(stdscr,(y),(x),(c))")
+(macro ("/usr/include/ncurses.h" 1273) "mvinsnstr ( y , x , s , n )" "mvwinsnstr(stdscr,(y),(x),(s),(n))")
+(macro ("/usr/include/ncurses.h" 1274) "mvinsstr ( y , x , s )" "mvwinsstr(stdscr,(y),(x),(s))")
+(macro ("/usr/include/ncurses.h" 1275) "mvinstr ( y , x , s )" "mvwinstr(stdscr,(y),(x),(s))")
+(macro ("/usr/include/ncurses.h" 1276) "mvvline ( y , x , c , n )" "mvwvline(stdscr,(y),(x),(c),(n))")
+(macro ("/usr/include/ncurses.h" 1282) "getbkgd ( win )" "((win) ? ((win)->_bkgd) : 0)")
+(macro ("/usr/include/ncurses.h" 1285) "slk_attr_off ( a , v )" "((v) ? ERR : slk_attroff(a))")
+(macro ("/usr/include/ncurses.h" 1286) "slk_attr_on ( a , v )" "((v) ? ERR : slk_attron(a))")
+(macro ("/usr/include/ncurses.h" 1299) "wattr_set ( win , a , p , opts )" "(((win) ? ((win)->_attrs = (((a) & ~A_COLOR) | (attr_t)COLOR_PAIR(p))) : OK), OK)")
+(macro ("/usr/include/ncurses.h" 1303) "wattr_get ( win , a , p , opts )" "((void)(((a) != (void *)0) ? (*(a) = (win) ? (win)->_attrs : 0) : OK), (void)(((p) != (void *)0) ? (*(p) = (short) ((win) ? PAIR_NUMBER((win)->_attrs) : 0)) : OK), OK)")
+(macro ("/usr/include/ncurses.h" 1315) "vw_printw" "vwprintw")
+(macro ("/usr/include/ncurses.h" 1316) "vw_scanw" "vwscanw")
+(macro ("/usr/include/ncurses.h" 1331) "is_cleared ( win )" "((win) ? (win)->_clear : FALSE)")
+(macro ("/usr/include/ncurses.h" 1332) "is_idcok ( win )" "((win) ? (win)->_idcok : FALSE)")
+(macro ("/usr/include/ncurses.h" 1333) "is_idlok ( win )" "((win) ? (win)->_idlok : FALSE)")
+(macro ("/usr/include/ncurses.h" 1334) "is_immedok ( win )" "((win) ? (win)->_immed : FALSE)")
+(macro ("/usr/include/ncurses.h" 1335) "is_keypad ( win )" "((win) ? (win)->_use_keypad : FALSE)")
+(macro ("/usr/include/ncurses.h" 1336) "is_leaveok ( win )" "((win) ? (win)->_leaveok : FALSE)")
+(macro ("/usr/include/ncurses.h" 1337) "is_nodelay ( win )" "((win) ? ((win)->_delay == 0) : FALSE)")
+(macro ("/usr/include/ncurses.h" 1338) "is_notimeout ( win )" "((win) ? (win)->_notimeout : FALSE)")
+(macro ("/usr/include/ncurses.h" 1339) "is_pad ( win )" "((win) ? ((win)->_flags & _ISPAD) != 0 : FALSE)")
+(macro ("/usr/include/ncurses.h" 1340) "is_scrollok ( win )" "((win) ? (win)->_scroll : FALSE)")
+(macro ("/usr/include/ncurses.h" 1341) "is_subwin ( win )" "((win) ? ((win)->_flags & _SUBWIN) != 0 : FALSE)")
+(macro ("/usr/include/ncurses.h" 1342) "is_syncok ( win )" "((win) ? (win)->_sync : FALSE)")
+(macro ("/usr/include/ncurses.h" 1343) "wgetparent ( win )" "((win) ? (win)->_parent : 0)")
+(macro ("/usr/include/ncurses.h" 1344) "wgetscrreg ( win , t , b )" "((win) ? (*(t) = (win)->_regtop, *(b) = (win)->_regbottom, OK) : ERR)")
+(var ("/usr/include/ncurses.h" 1384)
+ "curscr"
+ (pointer (typedef "WINDOW")) (extern))
+(var ("/usr/include/ncurses.h" 1385)
+ "newscr"
+ (pointer (typedef "WINDOW")) (extern))
+(var ("/usr/include/ncurses.h" 1386)
+ "stdscr"
+ (pointer (typedef "WINDOW")) (extern))
+(var ("/usr/include/ncurses.h" 1387)
+ "ttytype"
+ (array 0 (char ())) (extern))
+(var ("/usr/include/ncurses.h" 1388)
+ "COLORS"
+ (int ()) (extern))
+(var ("/usr/include/ncurses.h" 1389)
+ "COLOR_PAIRS"
+ (int ()) (extern))
+(var ("/usr/include/ncurses.h" 1390)
+ "COLS"
+ (int ()) (extern))
+(var ("/usr/include/ncurses.h" 1391)
+ "ESCDELAY"
+ (int ()) (extern))
+(var ("/usr/include/ncurses.h" 1392)
+ "LINES"
+ (int ()) (extern))
+(var ("/usr/include/ncurses.h" 1393)
+ "TABSIZE"
+ (int ()) (extern))
+(macro ("/usr/include/ncurses.h" 1409) "KEY_CODE_YES" "0400")
+(macro ("/usr/include/ncurses.h" 1410) "KEY_MIN" "0401")
+(macro ("/usr/include/ncurses.h" 1411) "KEY_BREAK" "0401")
+(macro ("/usr/include/ncurses.h" 1412) "KEY_SRESET" "0530")
+(macro ("/usr/include/ncurses.h" 1413) "KEY_RESET" "0531")
+(macro ("/usr/include/ncurses.h" 1417) "KEY_DOWN" "0402")
+(macro ("/usr/include/ncurses.h" 1418) "KEY_UP" "0403")
+(macro ("/usr/include/ncurses.h" 1419) "KEY_LEFT" "0404")
+(macro ("/usr/include/ncurses.h" 1420) "KEY_RIGHT" "0405")
+(macro ("/usr/include/ncurses.h" 1421) "KEY_HOME" "0406")
+(macro ("/usr/include/ncurses.h" 1422) "KEY_BACKSPACE" "0407")
+(macro ("/usr/include/ncurses.h" 1423) "KEY_F0" "0410")
+(macro ("/usr/include/ncurses.h" 1424) "KEY_F ( n )" "(KEY_F0+(n))")
+(macro ("/usr/include/ncurses.h" 1425) "KEY_DL" "0510")
+(macro ("/usr/include/ncurses.h" 1426) "KEY_IL" "0511")
+(macro ("/usr/include/ncurses.h" 1427) "KEY_DC" "0512")
+(macro ("/usr/include/ncurses.h" 1428) "KEY_IC" "0513")
+(macro ("/usr/include/ncurses.h" 1429) "KEY_EIC" "0514")
+(macro ("/usr/include/ncurses.h" 1430) "KEY_CLEAR" "0515")
+(macro ("/usr/include/ncurses.h" 1431) "KEY_EOS" "0516")
+(macro ("/usr/include/ncurses.h" 1432) "KEY_EOL" "0517")
+(macro ("/usr/include/ncurses.h" 1433) "KEY_SF" "0520")
+(macro ("/usr/include/ncurses.h" 1434) "KEY_SR" "0521")
+(macro ("/usr/include/ncurses.h" 1435) "KEY_NPAGE" "0522")
+(macro ("/usr/include/ncurses.h" 1436) "KEY_PPAGE" "0523")
+(macro ("/usr/include/ncurses.h" 1437) "KEY_STAB" "0524")
+(macro ("/usr/include/ncurses.h" 1438) "KEY_CTAB" "0525")
+(macro ("/usr/include/ncurses.h" 1439) "KEY_CATAB" "0526")
+(macro ("/usr/include/ncurses.h" 1440) "KEY_ENTER" "0527")
+(macro ("/usr/include/ncurses.h" 1441) "KEY_PRINT" "0532")
+(macro ("/usr/include/ncurses.h" 1442) "KEY_LL" "0533")
+(macro ("/usr/include/ncurses.h" 1443) "KEY_A1" "0534")
+(macro ("/usr/include/ncurses.h" 1444) "KEY_A3" "0535")
+(macro ("/usr/include/ncurses.h" 1445) "KEY_B2" "0536")
+(macro ("/usr/include/ncurses.h" 1446) "KEY_C1" "0537")
+(macro ("/usr/include/ncurses.h" 1447) "KEY_C3" "0540")
+(macro ("/usr/include/ncurses.h" 1448) "KEY_BTAB" "0541")
+(macro ("/usr/include/ncurses.h" 1449) "KEY_BEG" "0542")
+(macro ("/usr/include/ncurses.h" 1450) "KEY_CANCEL" "0543")
+(macro ("/usr/include/ncurses.h" 1451) "KEY_CLOSE" "0544")
+(macro ("/usr/include/ncurses.h" 1452) "KEY_COMMAND" "0545")
+(macro ("/usr/include/ncurses.h" 1453) "KEY_COPY" "0546")
+(macro ("/usr/include/ncurses.h" 1454) "KEY_CREATE" "0547")
+(macro ("/usr/include/ncurses.h" 1455) "KEY_END" "0550")
+(macro ("/usr/include/ncurses.h" 1456) "KEY_EXIT" "0551")
+(macro ("/usr/include/ncurses.h" 1457) "KEY_FIND" "0552")
+(macro ("/usr/include/ncurses.h" 1458) "KEY_HELP" "0553")
+(macro ("/usr/include/ncurses.h" 1459) "KEY_MARK" "0554")
+(macro ("/usr/include/ncurses.h" 1460) "KEY_MESSAGE" "0555")
+(macro ("/usr/include/ncurses.h" 1461) "KEY_MOVE" "0556")
+(macro ("/usr/include/ncurses.h" 1462) "KEY_NEXT" "0557")
+(macro ("/usr/include/ncurses.h" 1463) "KEY_OPEN" "0560")
+(macro ("/usr/include/ncurses.h" 1464) "KEY_OPTIONS" "0561")
+(macro ("/usr/include/ncurses.h" 1465) "KEY_PREVIOUS" "0562")
+(macro ("/usr/include/ncurses.h" 1466) "KEY_REDO" "0563")
+(macro ("/usr/include/ncurses.h" 1467) "KEY_REFERENCE" "0564")
+(macro ("/usr/include/ncurses.h" 1468) "KEY_REFRESH" "0565")
+(macro ("/usr/include/ncurses.h" 1469) "KEY_REPLACE" "0566")
+(macro ("/usr/include/ncurses.h" 1470) "KEY_RESTART" "0567")
+(macro ("/usr/include/ncurses.h" 1471) "KEY_RESUME" "0570")
+(macro ("/usr/include/ncurses.h" 1472) "KEY_SAVE" "0571")
+(macro ("/usr/include/ncurses.h" 1473) "KEY_SBEG" "0572")
+(macro ("/usr/include/ncurses.h" 1474) "KEY_SCANCEL" "0573")
+(macro ("/usr/include/ncurses.h" 1475) "KEY_SCOMMAND" "0574")
+(macro ("/usr/include/ncurses.h" 1476) "KEY_SCOPY" "0575")
+(macro ("/usr/include/ncurses.h" 1477) "KEY_SCREATE" "0576")
+(macro ("/usr/include/ncurses.h" 1478) "KEY_SDC" "0577")
+(macro ("/usr/include/ncurses.h" 1479) "KEY_SDL" "0600")
+(macro ("/usr/include/ncurses.h" 1480) "KEY_SELECT" "0601")
+(macro ("/usr/include/ncurses.h" 1481) "KEY_SEND" "0602")
+(macro ("/usr/include/ncurses.h" 1482) "KEY_SEOL" "0603")
+(macro ("/usr/include/ncurses.h" 1483) "KEY_SEXIT" "0604")
+(macro ("/usr/include/ncurses.h" 1484) "KEY_SFIND" "0605")
+(macro ("/usr/include/ncurses.h" 1485) "KEY_SHELP" "0606")
+(macro ("/usr/include/ncurses.h" 1486) "KEY_SHOME" "0607")
+(macro ("/usr/include/ncurses.h" 1487) "KEY_SIC" "0610")
+(macro ("/usr/include/ncurses.h" 1488) "KEY_SLEFT" "0611")
+(macro ("/usr/include/ncurses.h" 1489) "KEY_SMESSAGE" "0612")
+(macro ("/usr/include/ncurses.h" 1490) "KEY_SMOVE" "0613")
+(macro ("/usr/include/ncurses.h" 1491) "KEY_SNEXT" "0614")
+(macro ("/usr/include/ncurses.h" 1492) "KEY_SOPTIONS" "0615")
+(macro ("/usr/include/ncurses.h" 1493) "KEY_SPREVIOUS" "0616")
+(macro ("/usr/include/ncurses.h" 1494) "KEY_SPRINT" "0617")
+(macro ("/usr/include/ncurses.h" 1495) "KEY_SREDO" "0620")
+(macro ("/usr/include/ncurses.h" 1496) "KEY_SREPLACE" "0621")
+(macro ("/usr/include/ncurses.h" 1497) "KEY_SRIGHT" "0622")
+(macro ("/usr/include/ncurses.h" 1498) "KEY_SRSUME" "0623")
+(macro ("/usr/include/ncurses.h" 1499) "KEY_SSAVE" "0624")
+(macro ("/usr/include/ncurses.h" 1500) "KEY_SSUSPEND" "0625")
+(macro ("/usr/include/ncurses.h" 1501) "KEY_SUNDO" "0626")
+(macro ("/usr/include/ncurses.h" 1502) "KEY_SUSPEND" "0627")
+(macro ("/usr/include/ncurses.h" 1503) "KEY_UNDO" "0630")
+(macro ("/usr/include/ncurses.h" 1504) "KEY_MOUSE" "0631")
+(macro ("/usr/include/ncurses.h" 1505) "KEY_RESIZE" "0632")
+(macro ("/usr/include/ncurses.h" 1506) "KEY_EVENT" "0633")
+(macro ("/usr/include/ncurses.h" 1508) "KEY_MAX" "0777")
+(macro ("/usr/include/ncurses.h" 1521) "NCURSES_MOUSE_MASK ( b , m )" "((m) << (((b) - 1) * 6))")
+(macro ("/usr/include/ncurses.h" 1524) "NCURSES_BUTTON_RELEASED" "001L")
+(macro ("/usr/include/ncurses.h" 1525) "NCURSES_BUTTON_PRESSED" "002L")
+(macro ("/usr/include/ncurses.h" 1526) "NCURSES_BUTTON_CLICKED" "004L")
+(macro ("/usr/include/ncurses.h" 1527) "NCURSES_DOUBLE_CLICKED" "010L")
+(macro ("/usr/include/ncurses.h" 1528) "NCURSES_TRIPLE_CLICKED" "020L")
+(macro ("/usr/include/ncurses.h" 1529) "NCURSES_RESERVED_EVENT" "040L")
+(macro ("/usr/include/ncurses.h" 1532) "BUTTON1_RELEASED" "NCURSES_MOUSE_MASK(1, NCURSES_BUTTON_RELEASED)")
+(macro ("/usr/include/ncurses.h" 1533) "BUTTON1_PRESSED" "NCURSES_MOUSE_MASK(1, NCURSES_BUTTON_PRESSED)")
+(macro ("/usr/include/ncurses.h" 1534) "BUTTON1_CLICKED" "NCURSES_MOUSE_MASK(1, NCURSES_BUTTON_CLICKED)")
+(macro ("/usr/include/ncurses.h" 1535) "BUTTON1_DOUBLE_CLICKED" "NCURSES_MOUSE_MASK(1, NCURSES_DOUBLE_CLICKED)")
+(macro ("/usr/include/ncurses.h" 1536) "BUTTON1_TRIPLE_CLICKED" "NCURSES_MOUSE_MASK(1, NCURSES_TRIPLE_CLICKED)")
+(macro ("/usr/include/ncurses.h" 1538) "BUTTON2_RELEASED" "NCURSES_MOUSE_MASK(2, NCURSES_BUTTON_RELEASED)")
+(macro ("/usr/include/ncurses.h" 1539) "BUTTON2_PRESSED" "NCURSES_MOUSE_MASK(2, NCURSES_BUTTON_PRESSED)")
+(macro ("/usr/include/ncurses.h" 1540) "BUTTON2_CLICKED" "NCURSES_MOUSE_MASK(2, NCURSES_BUTTON_CLICKED)")
+(macro ("/usr/include/ncurses.h" 1541) "BUTTON2_DOUBLE_CLICKED" "NCURSES_MOUSE_MASK(2, NCURSES_DOUBLE_CLICKED)")
+(macro ("/usr/include/ncurses.h" 1542) "BUTTON2_TRIPLE_CLICKED" "NCURSES_MOUSE_MASK(2, NCURSES_TRIPLE_CLICKED)")
+(macro ("/usr/include/ncurses.h" 1544) "BUTTON3_RELEASED" "NCURSES_MOUSE_MASK(3, NCURSES_BUTTON_RELEASED)")
+(macro ("/usr/include/ncurses.h" 1545) "BUTTON3_PRESSED" "NCURSES_MOUSE_MASK(3, NCURSES_BUTTON_PRESSED)")
+(macro ("/usr/include/ncurses.h" 1546) "BUTTON3_CLICKED" "NCURSES_MOUSE_MASK(3, NCURSES_BUTTON_CLICKED)")
+(macro ("/usr/include/ncurses.h" 1547) "BUTTON3_DOUBLE_CLICKED" "NCURSES_MOUSE_MASK(3, NCURSES_DOUBLE_CLICKED)")
+(macro ("/usr/include/ncurses.h" 1548) "BUTTON3_TRIPLE_CLICKED" "NCURSES_MOUSE_MASK(3, NCURSES_TRIPLE_CLICKED)")
+(macro ("/usr/include/ncurses.h" 1550) "BUTTON4_RELEASED" "NCURSES_MOUSE_MASK(4, NCURSES_BUTTON_RELEASED)")
+(macro ("/usr/include/ncurses.h" 1551) "BUTTON4_PRESSED" "NCURSES_MOUSE_MASK(4, NCURSES_BUTTON_PRESSED)")
+(macro ("/usr/include/ncurses.h" 1552) "BUTTON4_CLICKED" "NCURSES_MOUSE_MASK(4, NCURSES_BUTTON_CLICKED)")
+(macro ("/usr/include/ncurses.h" 1553) "BUTTON4_DOUBLE_CLICKED" "NCURSES_MOUSE_MASK(4, NCURSES_DOUBLE_CLICKED)")
+(macro ("/usr/include/ncurses.h" 1554) "BUTTON4_TRIPLE_CLICKED" "NCURSES_MOUSE_MASK(4, NCURSES_TRIPLE_CLICKED)")
+(macro ("/usr/include/ncurses.h" 1575) "BUTTON1_RESERVED_EVENT" "NCURSES_MOUSE_MASK(1, NCURSES_RESERVED_EVENT)")
+(macro ("/usr/include/ncurses.h" 1576) "BUTTON2_RESERVED_EVENT" "NCURSES_MOUSE_MASK(2, NCURSES_RESERVED_EVENT)")
+(macro ("/usr/include/ncurses.h" 1577) "BUTTON3_RESERVED_EVENT" "NCURSES_MOUSE_MASK(3, NCURSES_RESERVED_EVENT)")
+(macro ("/usr/include/ncurses.h" 1578) "BUTTON4_RESERVED_EVENT" "NCURSES_MOUSE_MASK(4, NCURSES_RESERVED_EVENT)")
+(macro ("/usr/include/ncurses.h" 1580) "BUTTON_CTRL" "NCURSES_MOUSE_MASK(5, 0001L)")
+(macro ("/usr/include/ncurses.h" 1581) "BUTTON_SHIFT" "NCURSES_MOUSE_MASK(5, 0002L)")
+(macro ("/usr/include/ncurses.h" 1582) "BUTTON_ALT" "NCURSES_MOUSE_MASK(5, 0004L)")
+(macro ("/usr/include/ncurses.h" 1583) "REPORT_MOUSE_POSITION" "NCURSES_MOUSE_MASK(5, 0010L)")
+(macro ("/usr/include/ncurses.h" 1587) "ALL_MOUSE_EVENTS" "(REPORT_MOUSE_POSITION - 1)")
+(macro ("/usr/include/ncurses.h" 1590) "BUTTON_RELEASE ( e , x )" "((e) & NCURSES_MOUSE_MASK(x, 001))")
+(macro ("/usr/include/ncurses.h" 1591) "BUTTON_PRESS ( e , x )" "((e) & NCURSES_MOUSE_MASK(x, 002))")
+(macro ("/usr/include/ncurses.h" 1592) "BUTTON_CLICK ( e , x )" "((e) & NCURSES_MOUSE_MASK(x, 004))")
+(macro ("/usr/include/ncurses.h" 1593) "BUTTON_DOUBLE_CLICK ( e , x )" "((e) & NCURSES_MOUSE_MASK(x, 010))")
+(macro ("/usr/include/ncurses.h" 1594) "BUTTON_TRIPLE_CLICK ( e , x )" "((e) & NCURSES_MOUSE_MASK(x, 020))")
+(macro ("/usr/include/ncurses.h" 1595) "BUTTON_RESERVED_EVENT ( e , x )" "((e) & NCURSES_MOUSE_MASK(x, 040))")
+(struct ("" 0)
+ "361_/usr/include/ncurses.h"
+ (("id" (field (short ()) 0 2))
+  ("x" (field (int ()) 4 4))
+  ("y" (field (int ()) 8 4))
+  ("z" (field (int ()) 12 4))
+  ("bstate" (field (typedef "mmask_t") 16 8))))
+(type ("/usr/include/ncurses.h" 1603)
+ "MEVENT"
+ (struct-ref "361_/usr/include/ncurses.h"))
+(function ("/usr/include/ncurses.h" 1605)
+ "has_mouse"
+ (function
+  ()
+  (unsigned ())) (extern))
+(function ("/usr/include/ncurses.h" 1606)
+ "getmouse"
+ (function
+  ((pointer (typedef "MEVENT")) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 1607)
+ "ungetmouse"
+ (function
+  ((pointer (typedef "MEVENT")) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 1608)
+ "mousemask"
+ (function
+  ((typedef "mmask_t") (pointer (typedef "mmask_t")) )
+  (typedef "mmask_t")) (extern))
+(function ("/usr/include/ncurses.h" 1609)
+ "wenclose"
+ (function
+  ((pointer (struct-ref "_win_st")) (int ()) (int ()) )
+  (unsigned ())) (extern))
+(function ("/usr/include/ncurses.h" 1610)
+ "mouseinterval"
+ (function
+  ((int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 1611)
+ "wmouse_trafo"
+ (function
+  ((pointer (struct-ref "_win_st")) (pointer (int ())) (pointer (int ())) (unsigned ()) )
+  (unsigned ())) (extern))
+(function ("/usr/include/ncurses.h" 1612)
+ "mouse_trafo"
+ (function
+  ((pointer (int ())) (pointer (int ())) (unsigned ()) )
+  (unsigned ())) (extern))
+(macro ("/usr/include/ncurses.h" 1622) "mouse_trafo ( y , x , to_screen )" "wmouse_trafo(stdscr,y,x,to_screen)")
+(function ("/usr/include/ncurses.h" 1626)
+ "mcprint"
+ (function
+  ((pointer (char ())) (int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 1627)
+ "has_key"
+ (function
+  ((int ()) )
+  (int ())) (extern))
+(function ("/usr/include/ncurses.h" 1636)
+ "_tracef"
+ (function
+  ((pointer (char ())) (void ()))
+  (void ())) (extern))
+(function ("/usr/include/ncurses.h" 1637)
+ "_tracedump"
+ (function
+  ((pointer (char ())) (pointer (typedef "WINDOW")) )
+  (void ())) (extern))
+(function ("/usr/include/ncurses.h" 1638)
+ "_traceattr"
+ (function
+  ((typedef "attr_t") )
+  (pointer (char ()))) (extern))
+(function ("/usr/include/ncurses.h" 1639)
+ "_traceattr2"
+ (function
+  ((int ()) (typedef "chtype") )
+  (pointer (char ()))) (extern))
+(function ("/usr/include/ncurses.h" 1640)
+ "_nc_tracebits"
+ (function
+  ()
+  (pointer (char ()))) (extern))
+(function ("/usr/include/ncurses.h" 1641)
+ "_tracechar"
+ (function
+  ((int ()) )
+  (pointer (char ()))) (extern))
+(function ("/usr/include/ncurses.h" 1642)
+ "_tracechtype"
+ (function
+  ((typedef "chtype") )
+  (pointer (char ()))) (extern))
+(function ("/usr/include/ncurses.h" 1643)
+ "_tracechtype2"
+ (function
+  ((int ()) (typedef "chtype") )
+  (pointer (char ()))) (extern))
+(macro ("/usr/include/ncurses.h" 1650) "_tracech_t" "_tracechtype")
+(macro ("/usr/include/ncurses.h" 1651) "_tracech_t2" "_tracechtype2")
+(function ("/usr/include/ncurses.h" 1653)
+ "_tracemouse"
+ (function
+  ((pointer (struct-ref "361_/usr/include/ncurses.h")) )
+  (pointer (char ()))) (extern))
+(function ("/usr/include/ncurses.h" 1654)
+ "trace"
+ (function
+  ((unsigned ()) )
+  (void ())) (extern))
+(macro ("/usr/include/ncurses.h" 1657) "TRACE_DISABLE" "0x0000")
+(macro ("/usr/include/ncurses.h" 1658) "TRACE_TIMES" "0x0001")
+(macro ("/usr/include/ncurses.h" 1659) "TRACE_TPUTS" "0x0002")
+(macro ("/usr/include/ncurses.h" 1660) "TRACE_UPDATE" "0x0004")
+(macro ("/usr/include/ncurses.h" 1661) "TRACE_MOVE" "0x0008")
+(macro ("/usr/include/ncurses.h" 1662) "TRACE_CHARPUT" "0x0010")
+(macro ("/usr/include/ncurses.h" 1663) "TRACE_ORDINARY" "0x001F")
+(macro ("/usr/include/ncurses.h" 1664) "TRACE_CALLS" "0x0020")
+(macro ("/usr/include/ncurses.h" 1665) "TRACE_VIRTPUT" "0x0040")
+(macro ("/usr/include/ncurses.h" 1666) "TRACE_IEVENT" "0x0080")
+(macro ("/usr/include/ncurses.h" 1667) "TRACE_BITS" "0x0100")
+(macro ("/usr/include/ncurses.h" 1668) "TRACE_ICALLS" "0x0200")
+(macro ("/usr/include/ncurses.h" 1669) "TRACE_CCALLS" "0x0400")
+(macro ("/usr/include/ncurses.h" 1670) "TRACE_DATABASE" "0x0800")
+(macro ("/usr/include/ncurses.h" 1671) "TRACE_ATTRS" "0x1000")
+(macro ("/usr/include/ncurses.h" 1673) "TRACE_SHIFT" "13")
+(macro ("/usr/include/ncurses.h" 1674) "TRACE_MAXIMUM" "((1 << TRACE_SHIFT) - 1)")
+(macro ("/usr/include/unctrl.h" 45) "NCURSES_UNCTRL_H_incl" "1")
+(undef-macro "NCURSES_VERSION")
+(macro ("/usr/include/unctrl.h" 48) "NCURSES_VERSION" "\"5.9\"")
+(undef-macro "unctrl")
+(function ("/usr/include/unctrl.h" 57)
+ "unctrl"
+ (function
+  ((typedef "chtype") )
+  (pointer (char ()))) (extern))
