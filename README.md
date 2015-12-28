@@ -2,12 +2,17 @@
 
 It took me a little bit to figure out how to properly create [interface directories](http://ccl.clozure.com/docs/ccl.html#creating-new-interface-directories) using [FFIGEN](http://www.ccs.neu.edu/home/lth/ffigen). But, now that I have a nice setup to do so, as I generate the CDBs for each of the libraries I end up using the most, I'll make them available here.
 
-I typically only build 64-bit, but I may get around to building 32-bit CDB files as well.
+I've build both the 32- and 64-bit versions of each library.
 
 Packages here so far...
 
+* [Chipmunk2D](https://github.com/slembcke/Chipmunk2D)
+* [Freetype2](http://www.freetype.org/)
+* [GLFW3](http://www.glfw.org/)
 * [GTK+3](https://developer.gnome.org/gtk3/stable/)
+* [NCurses](https://www.gnu.org/software/ncurses/)
 * [OpenSSL](https://www.openssl.org/)
+* [SDL2](https://www.libsdl.org/index.php)
 * [SQLite3](https://sqlite.org/)
 
 ## Quickstart
